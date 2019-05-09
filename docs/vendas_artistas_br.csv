@@ -1,55 +1,55 @@
-Artista,Gênero(s),Vendas estimadas (milhões),Final da carreira,Início da carreira
-Tonico & Tinoco,Sertanejo,150,1994,1930
-Roberto Carlos,MPB/Jovem Guarda,120,presente,1959
-Nelson Gonçalves,MPB/Samba-Canção,75,1998,1941
-Rita Lee,Rock,55,presente,1963
-Nelson Ned,Música romântica/Música brega,45,2014,1960
-Xuxa,Infantil,40,presente,1984
-Leonardo/Leandro e Leonardo,Sertanejo,35, 1998,1983 
-Chitãozinho e Xororó,Sertanejo,30,presente,1970
-Raça Negra,Pagode/Samba,30,presente,1983
-Maria Bethânia,MPB,26,presente,1965
-Legião Urbana,Rock,25,1996,1982
-Mara Maravilha,Infantil/Música cristã,23,Presente,1978
-Amado Batista,Brega/Romântico,22,presente,1975
-Zezé Di Camargo & Luciano,Sertanejo,20,presente,1991
-Sandy & Junior,Pop,17,2007,1990
-Fábio Júnior,Romântico,16,presente,1969
-Banda Calypso,Calipso/Carimbó/Lambada,15,2015,1999
-Pitty,Rock,15,presente,1995
-Sepultura,Death metal,15,presente,1985
-Ivete Sangalo,Axé,15,presente,1993
-Roberta Miranda,Sertanejo,14,presente,1986
-Angélica,Pop,13,2001,1990
-Zeca Pagodinho,Pagode,12,presente,1983
-Alexandre Pires,Samba/Pagode,10,presente,1989
-Calcinha Preta,Forró,10,presente,1995
-Carmen Miranda,Samba/Marchinha de Carnaval,10,1953,1929
-Diante do Trono,Música cristã contemporânea,10, presente,1999
-Lulu Santos,Pop rock,10,presente,1973
-Marisa Monte,MPB,10,presente,1987
-Turma do Balão Mágico,Infantil,10,1986,1982
-Wando,Brega-romântico,10,2012,1973
-Kid Abelha,Pop rock,9,presente,1984
-Bruno & Marrone,Sertanejo,9,presente,1994
-Fafá de Belém,MPB,9,presente,1973
-Exaltasamba,Samba e Pagode,8," 2012, 2016 ",1986 
-Padre Marcelo Rossi,Música católica,8,presente,1997
-Rose Nascimento,Música cristã contemporânea,8,presente,1990
-Roupa Nova,Pop rock,8, presente,1980 
-Shirley Carvalhaes,Música cristã contemporânea,8,presente,1977
-Só pra Contrariar,Pagode,8,presente,1989
-KLB,"Pop, Pop rock",7,presente,2000
-Belo,Samba/Pagode,7,presente,1993
-Aline Barros,Música cristã contemporânea,7,atualmente,1995
-Daniela Mercury,Axé,7,presente,1981
-Cassiane,Música cristã contemporânea,7,presente,1981
-Titãs,Rock,"6,3",presente,1982
-Deborah Blando,Pop,6,presente,1991
-Trazendo a Arca,Música cristã contemporânea,6,presente,2007
-Rouge,Pop,6,2005,2002
-Skank,Rock,"5,5",presente,1991
-Ana Carolina,MPB/Pop,5,presente,1999
-Charlie Brown Jr.,Rock,5,2013,1992
-Os Paralamas do Sucesso,Rock,5,presente,1977
-Raimundos,Rock,5,presente,1987
+Artista,Gênero(s),Final da carreira,Início da carreira,Vendas estimadas (milhões)
+Tonico & Tinoco,Sertanejo,1994,1930,150.0
+Roberto Carlos,MPB/Jovem Guarda,,1959,120.0
+Nelson Gonçalves,MPB/Samba-Canção,1998,1941,75.0
+Rita Lee,Rock,,1963,55.0
+Nelson Ned,Música romântica/Música brega,2014,1960,45.0
+Xuxa,Infantil,,1984,40.0
+Leonardo/Leandro e Leonardo,Sertanejo, 1998,1983,35.0
+Chitãozinho e Xororó,Sertanejo,,1970,30.0
+Raça Negra,Pagode/Samba,,1983,30.0
+Maria Bethânia,MPB,,1965,26.0
+Legião Urbana,Rock,1996,1982,25.0
+Mara Maravilha,Infantil/Música cristã,Presente,1978,23.0
+Amado Batista,Brega/Romântico,,1975,22.0
+Zezé Di Camargo & Luciano,Sertanejo,,1991,20.0
+Sandy & Junior,Pop,2007,1990,17.0
+Fábio Júnior,Romântico,,1969,16.0
+Banda Calypso,Calipso/Carimbó/Lambada,2015,1999,15.0
+Pitty,Rock,,1995,15.0
+Sepultura,Death metal,,1985,15.0
+Ivete Sangalo,Axé,,1993,15.0
+Roberta Miranda,Sertanejo,,1986,14.0
+Angélica,Pop,2001,1990,13.0
+Zeca Pagodinho,Pagode,,1983,12.0
+Alexandre Pires,Samba/Pagode,,1989,10.0
+Calcinha Preta,Forró,,1995,10.0
+Carmen Miranda,Samba/Marchinha de Carnaval,1953,1929,10.0
+Diante do Trono,Música cristã contemporânea, presente,1999,10.0
+Lulu Santos,Pop rock,,1973,10.0
+Marisa Monte,MPB,,1987,10.0
+Turma do Balão Mágico,Infantil,1986,1982,10.0
+Wando,Brega-romântico,2012,1973,10.0
+Kid Abelha,Pop rock,,1984,9.0
+Bruno & Marrone,Sertanejo,,1994,9.0
+Fafá de Belém,MPB,,1973,9.0
+Exaltasamba,Samba e Pagode," 2012, 2016 ",1986,8.0
+Padre Marcelo Rossi,Música católica,,1997,8.0
+Rose Nascimento,Música cristã contemporânea,,1990,8.0
+Roupa Nova,Pop rock, presente,1980,8.0
+Shirley Carvalhaes,Música cristã contemporânea,,1977,8.0
+Só pra Contrariar,Pagode,,1989,8.0
+KLB,"Pop, Pop rock",,2000,7.0
+Belo,Samba/Pagode,,1993,7.0
+Aline Barros,Música cristã contemporânea,atualmente,1995,7.0
+Daniela Mercury,Axé,,1981,7.0
+Cassiane,Música cristã contemporânea,,1981,7.0
+Titãs,Rock,,1982,6.3
+Deborah Blando,Pop,,1991,6.0
+Trazendo a Arca,Música cristã contemporânea,,2007,6.0
+Rouge,Pop,2005,2002,6.0
+Skank,Rock,,1991,5.5
+Ana Carolina,MPB/Pop,,1999,5.0
+Charlie Brown Jr.,Rock,2013,1992,5.0
+Os Paralamas do Sucesso,Rock,,1977,5.0
+Raimundos,Rock,,1987,5.0

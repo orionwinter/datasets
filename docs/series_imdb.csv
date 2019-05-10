@@ -1,0 +1,130 @@
+series_name,episode,series_ep,season,season_ep,user_rating,user_votes
+Breaking Bad,Pilot,1,1,1,8.9,18483
+Breaking Bad,Cat's in the Bag...,2,1,2,8.7,12890
+Breaking Bad,...And the Bag's in the River,3,1,3,8.7,12499
+Breaking Bad,Cancer Man,4,1,4,8.2,12172
+Breaking Bad,Gray Matter,5,1,5,8.3,11896
+Breaking Bad,Crazy Handful of Nothin',6,1,6,9.2,13716
+Breaking Bad,A No-Rough-Stuff-Type Deal,7,1,7,8.8,12123
+Breaking Bad,Seven Thirty-Seven,8,2,1,8.7,10798
+Breaking Bad,Grilled,9,2,2,9.2,12802
+Breaking Bad,Bit by a Dead Bee,10,2,3,8.3,10542
+Breaking Bad,Down,11,2,4,8.1,10671
+Breaking Bad,Breakage,12,2,5,8.3,10348
+Breaking Bad,Peekaboo,13,2,6,8.8,11490
+Breaking Bad,Negro Y Azul,14,2,7,8.7,10237
+Breaking Bad,Better Call Saul,15,2,8,9.0,12094
+Breaking Bad,4 Days Out,16,2,9,8.9,11879
+Breaking Bad,Over,17,2,10,8.6,10041
+Breaking Bad,Mandala,18,2,11,8.8,10482
+Breaking Bad,Phoenix,19,2,12,9.1,11787
+Breaking Bad,ABQ,20,2,13,9.1,11859
+Breaking Bad,No Más,21,3,1,8.6,10014
+Breaking Bad,Caballo sin Nombre,22,3,2,8.7,9643
+Breaking Bad,I.F.T.,23,3,3,8.4,9702
+Breaking Bad,Green Light,24,3,4,8.1,9941
+Breaking Bad,Más,25,3,5,8.7,9349
+Breaking Bad,Sunset,26,3,6,9.2,11406
+Breaking Bad,One Minute,27,3,7,9.5,14267
+Breaking Bad,I See You,28,3,8,8.8,9762
+Breaking Bad,Kafkaesque,29,3,9,8.4,9695
+Breaking Bad,Fly,30,3,10,7.6,16909
+Breaking Bad,Abiquiu,31,3,11,8.5,9578
+Breaking Bad,Half Measures,32,3,12,9.4,13673
+Breaking Bad,Full Measure,33,3,13,9.5,15481
+Breaking Bad,Box Cutter,34,4,1,9.1,12469
+Breaking Bad,Thirty-Eight Snub,35,4,2,8.2,10163
+Breaking Bad,Open House,36,4,3,7.9,10203
+Breaking Bad,Bullet Points,37,4,4,8.7,9462
+Breaking Bad,Shotgun,38,4,5,8.7,9491
+Breaking Bad,Cornered,39,4,6,8.5,9617
+Breaking Bad,Problem Dog,40,4,7,8.8,10100
+Breaking Bad,Hermanos,41,4,8,9.1,11425
+Breaking Bad,Bug,42,4,9,8.8,10191
+Breaking Bad,Salud,43,4,10,9.5,14712
+Breaking Bad,Crawl Space,44,4,11,9.5,16939
+Breaking Bad,End Times,45,4,12,9.4,12964
+Breaking Bad,Face Off,46,4,13,9.8,31993
+Breaking Bad,Live Free or Die,47,5,1,9.2,14808
+Breaking Bad,Madrigal,48,5,2,8.8,12169
+Breaking Bad,Hazard Pay,49,5,3,8.8,11714
+Breaking Bad,Fifty-One,50,5,4,8.8,11800
+Breaking Bad,Dead Freight,51,5,5,9.5,18259
+Breaking Bad,Buyout,52,5,6,8.8,12142
+Breaking Bad,Say My Name,53,5,7,9.4,15687
+Breaking Bad,Gliding Over All,54,5,8,9.5,16685
+Breaking Bad,Blood Money,55,5,9,9.4,16238
+Breaking Bad,Buried,56,5,10,9.0,13821
+Breaking Bad,Confessions,57,5,11,9.5,17412
+Breaking Bad,Rabid Dog,58,5,12,8.9,14406
+Breaking Bad,To'hajiilee,59,5,13,9.7,25230
+Breaking Bad,Ozymandias,60,5,14,9.9,97362
+Breaking Bad,Granite State,61,5,15,9.6,25180
+Breaking Bad,Felina,62,5,16,9.9,68031
+Game of Thrones,Winter Is Coming,1,1,1,9.0,27890
+Game of Thrones,The Kingsroad,2,1,2,8.8,21414
+Game of Thrones,Lord Snow,3,1,3,8.7,20232
+Game of Thrones,"Cripples, Bastards, and Broken Things",4,1,4,8.8,19256
+Game of Thrones,The Wolf and the Lion,5,1,5,9.1,20198
+Game of Thrones,A Golden Crown,6,1,6,9.2,20039
+Game of Thrones,You Win or You Die,7,1,7,9.3,20544
+Game of Thrones,The Pointy End,8,1,8,9.1,18815
+Game of Thrones,Baelor,9,1,9,9.6,26528
+Game of Thrones,Fire and Blood,10,1,10,9.5,23500
+Game of Thrones,The North Remembers,11,2,1,8.9,18814
+Game of Thrones,The Night Lands,12,2,2,8.6,17670
+Game of Thrones,What Is Dead May Never Die,13,2,3,8.9,17489
+Game of Thrones,Garden of Bones,14,2,4,8.9,16827
+Game of Thrones,The Ghost of Harrenhal,15,2,5,8.9,16971
+Game of Thrones,The Old Gods and the New,16,2,6,9.1,17924
+Game of Thrones,A Man Without Honor,17,2,7,9.0,17372
+Game of Thrones,The Prince of Winterfell,18,2,8,8.9,17086
+Game of Thrones,Blackwater,19,2,9,9.7,30521
+Game of Thrones,Valar Morghulis,20,2,10,9.4,21676
+Game of Thrones,Valar Dohaeris,21,3,1,8.9,19115
+Game of Thrones,"Dark Wings, Dark Words",22,3,2,8.7,16956
+Game of Thrones,Walk of Punishment,23,3,3,8.9,17169
+Game of Thrones,And Now His Watch Is Ended,24,3,4,9.6,23972
+Game of Thrones,Kissed by Fire,25,3,5,9.0,17422
+Game of Thrones,The Climb,26,3,6,8.9,17283
+Game of Thrones,The Bear and the Maiden Fair,27,3,7,8.8,16591
+Game of Thrones,Second Sons,28,3,8,9.1,17241
+Game of Thrones,The Rains of Castamere,29,3,9,9.9,68936
+Game of Thrones,Mhysa,30,3,10,9.2,19697
+Game of Thrones,Two Swords,31,4,1,9.1,23497
+Game of Thrones,The Lion and the Rose,32,4,2,9.7,37930
+Game of Thrones,Breaker of Chains,33,4,3,8.9,19040
+Game of Thrones,Oathkeeper,34,4,4,8.9,18164
+Game of Thrones,First of His Name,35,4,5,8.8,17496
+Game of Thrones,The Laws of Gods and Men,36,4,6,9.7,33064
+Game of Thrones,Mockingbird,37,4,7,9.2,19793
+Game of Thrones,The Mountain and the Viper,38,4,8,9.7,36690
+Game of Thrones,The Watchers on the Wall,39,4,9,9.6,30215
+Game of Thrones,The Children,40,4,10,9.7,30074
+Game of Thrones,The Wars to Come,41,5,1,8.6,20433
+Game of Thrones,The House of Black and White,42,5,2,8.6,17395
+Game of Thrones,High Sparrow,43,5,3,8.6,16705
+Game of Thrones,Sons of the Harpy,44,5,4,8.8,17319
+Game of Thrones,Kill the Boy,45,5,5,8.7,17531
+Game of Thrones,"Unbowed, Unbent, Unbroken",46,5,6,8.1,19892
+Game of Thrones,The Gift,47,5,7,9.1,19644
+Game of Thrones,Hardhome,48,5,8,9.9,71709
+Game of Thrones,The Dance of Dragons,49,5,9,9.5,30848
+Game of Thrones,Mother's Mercy,50,5,10,9.1,29938
+Game of Thrones,The Red Woman,51,6,1,8.6,29225
+Game of Thrones,Home,52,6,2,9.5,35311
+Game of Thrones,Oathbreaker,53,6,3,8.8,23489
+Game of Thrones,Book of the Stranger,54,6,4,9.2,25659
+Game of Thrones,The Door,55,6,5,9.7,51977
+Game of Thrones,Blood of My Blood,56,6,6,8.5,23288
+Game of Thrones,The Broken Man,57,6,7,8.7,22489
+Game of Thrones,No One,58,6,8,8.4,26113
+Game of Thrones,Battle of the Bastards,59,6,9,9.9,159456
+Game of Thrones,The Winds of Winter,60,6,10,9.9,109640
+Game of Thrones,Dragonstone,61,7,1,8.7,36824
+Game of Thrones,Stormborn,62,7,2,9.0,30774
+Game of Thrones,The Queen's Justice,63,7,3,9.3,31936
+Game of Thrones,The Spoils of War,64,7,4,9.8,64408
+Game of Thrones,Eastwatch,65,7,5,9.0,29970
+Game of Thrones,Beyond the Wall,66,7,6,9.2,44451
+Game of Thrones,The Dragon and the Wolf,67,7,7,9.6,42685

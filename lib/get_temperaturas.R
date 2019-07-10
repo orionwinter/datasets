@@ -8,7 +8,7 @@ library(lubridate)
 #     filter(name == "Campina Grande")
 
 
-start_date <- "01/01/1988"
+start_date <- "01/01/2008"
 end_date <- format(Sys.Date(), "%d/%m/%Y")
 
 met_data_cg <- bdmep_import(id = 82795,
@@ -16,20 +16,26 @@ met_data_cg <- bdmep_import(id = 82795,
                             edate = end_date,
                             verbose = TRUE)
 
-met_data_cj <- bdmep_import(id = 83714,
-                            sdate = start_date, 
-                            edate = end_date, 
-                            verbose = TRUE)
+# met_data_cj <- bdmep_import(id = 83714,
+#                             sdate = start_date, 
+#                             edate = end_date, 
+#                             verbose = TRUE)
 
 met_data_sp <- bdmep_import(id = 83781,
                             sdate = start_date, 
                             edate = end_date, 
                             verbose = TRUE)
 
+met_data_jp <- bdmep_import(id = 82798,
+                            sdate = start_date, 
+                            edate = end_date, 
+                            verbose = TRUE)
+
 met_data <- bind_rows(
   "Campina Grande" = met_data_cg, 
-  "Campos do Jordão" = met_data_cj, 
+  # "Campos do Jordão" = met_data_cj, 
   "São Paulo" = met_data_sp, 
+  "João Pessoa" = met_data_jp,
   .id = "cidade"
   )
 
@@ -42,16 +48,19 @@ por_dia <- met_data %>%
             chuva = sum(prec, na.rm = T)) %>% 
   filter(!is.na(tmedia), !is.infinite(tmax), !is.infinite(tmin))  
 
-por_dia %>% 
-  write_csv("../docs/clima-diario.csv")
+# por_dia %>% 
+#   write_csv("../docs/clima-diario.csv")
 
 por_semana <- por_dia %>% 
-  mutate(semana = lubridate::floor_date(dia, unit = "weeks")) %>% 
-  group_by(cidade, semana) %>% 
+  mutate(semana = lubridate::floor_date(dia, unit = "weeks"),
+         ano = year(semana),
+         mes = month(semana)) %>% 
+  group_by(cidade, semana, mes, ano) %>% 
   summarise(tmedia = mean(tmedia), 
             tmax = max(tmax), 
             tmin = min(tmin), 
             chuva = sum(chuva))
 
 por_semana %>% 
-  write_csv("../docs/clima-semanal.csv")
+  filter(ano >= year(dmy(start_date))) %>% 
+  write_csv("../docs/clima_cg_jp_sp-semanal-2.csv")

@@ -1,0 +1,5566 @@
+uf,nome,populacao2000,populacao2010
+AC,Acrelândia,7935,12538
+AC,Assis Brasil,3490,6072
+AC,Brasiléia,17013,21398
+AC,Bujari,5826,8471
+AC,Capixaba,5206,8798
+AC,Cruzeiro do Sul,67441,78507
+AC,Epitaciolândia,11028,15100
+AC,Feijó,26722,32412
+AC,Jordão,4454,6577
+AC,Mâncio Lima,11095,15206
+AC,Manoel Urbano,6374,7981
+AC,Marechal Thaumaturgo,8295,14227
+AC,Plácido de Castro,15172,17209
+AC,Porto Walter,5485,9176
+AC,Rio Branco,253059,336038
+AC,Rodrigues Alves,8093,14389
+AC,Santa Rosa do Purus,2246,4691
+AC,Senador Guiomard,19761,20179
+AC,Sena Madureira,29420,38029
+AC,Tarauacá,26037,35590
+AC,Xapuri,11956,16091
+AC,Porto Acre,11418,14880
+AL,Água Branca,18660,19377
+AL,Anadia,17849,17424
+AL,Arapiraca,186466,214006
+AL,Atalaia,40552,44322
+AL,Barra de Santo Antônio,11351,14230
+AL,Barra de São Miguel,6379,7574
+AL,Batalha,14799,17076
+AL,Belém,5919,4551
+AL,Belo Monte,6822,7030
+AL,Boca da Mata,24227,25776
+AL,Branquinha,11325,10583
+AL,Cacimbinhas,9552,10195
+AL,Cajueiro,18975,20409
+AL,Campestre,6223,6598
+AL,Campo Alegre,41028,50816
+AL,Campo Grande,9134,9032
+AL,Canapi,17334,17250
+AL,Capela,18693,17077
+AL,Carneiros,6585,8290
+AL,Chã Preta,7760,7146
+AL,Coité do Nóia,11993,10926
+AL,Colônia Leopoldina,17493,20019
+AL,Coqueiro Seco,5134,5526
+AL,Coruripe,48846,52130
+AL,Craíbas,20789,22641
+AL,Delmiro Gouveia,42995,48096
+AL,Dois Riachos,11066,10880
+AL,Estrela de Alagoas,16341,17251
+AL,Feira Grande,21270,21321
+AL,Feliz Deserto,3836,4345
+AL,Flexeiras,11979,12325
+AL,Girau do Ponciano,29574,36600
+AL,Ibateguara,15105,15149
+AL,Igaci,25584,25188
+AL,Igreja Nova,21451,23292
+AL,Inhapi,17768,17898
+AL,Jacaré dos Homens,5720,5413
+AL,Jacuípe,7313,6997
+AL,Japaratinga,6868,7754
+AL,Jaramataia,5788,5558
+AL,Jequiá da Praia,NA,12029
+AL,Joaquim Gomes,21488,22575
+AL,Jundiá,4680,4202
+AL,Junqueiro,23832,23836
+AL,Lagoa da Canoa,19988,18250
+AL,Limoeiro de Anadia,24263,26992
+AL,Maceió,797759,932748
+AL,Major Isidoro,17639,18897
+AL,Maragogi,21832,28749
+AL,Maravilha,13687,10284
+AL,Marechal Deodoro,35866,45977
+AL,Maribondo,15145,13619
+AL,Mar Vermelho,4078,3652
+AL,Mata Grande,25032,24698
+AL,Matriz de Camaragibe,24017,23785
+AL,Messias,11990,15682
+AL,Minador do Negrão,5399,5275
+AL,Monteirópolis,7240,6935
+AL,Murici,24671,26710
+AL,Novo Lino,10375,12060
+AL,Olho d'Água das Flores,19417,20364
+AL,Olho d'Água do Casado,7059,8491
+AL,Olho d'Água Grande,4847,4957
+AL,Olivença,10369,11047
+AL,Ouro Branco,10077,10912
+AL,Palestina,4523,5112
+AL,Palmeira dos Índios,68060,70368
+AL,Pão de Açúcar,24351,23811
+AL,Pariconha,10086,10264
+AL,Paripueira,8049,11347
+AL,Passo de Camaragibe,13755,14763
+AL,Paulo Jacinto,7485,7426
+AL,Penedo,56993,60378
+AL,Piaçabuçu,16775,17203
+AL,Pilar,31201,33305
+AL,Pindoba,2926,2866
+AL,Piranhas,20007,23045
+AL,Poço das Trincheiras,13222,13872
+AL,Porto Calvo,23951,25708
+AL,Porto de Pedras,10238,8429
+AL,Porto Real do Colégio,18355,19334
+AL,Quebrangulo,11902,11480
+AL,Rio Largo,62510,68481
+AL,Roteiro,6985,6656
+AL,Santa Luzia do Norte,6388,6891
+AL,Santana do Ipanema,41485,44932
+AL,Santana do Mundaú,11534,10961
+AL,São Brás,6551,6718
+AL,São José da Laje,21071,22686
+AL,São José da Tapera,27562,30088
+AL,São Luís do Quitunde,29543,32412
+AL,São Miguel dos Campos,51456,54577
+AL,São Miguel dos Milagres,5860,7163
+AL,São Sebastião,29124,32010
+AL,Satuba,12555,14603
+AL,Senador Rui Palmeira,11979,13047
+AL,Tanque d'Arca,6594,6122
+AL,Taquarana,17046,19020
+AL,Teotônio Vilela,36881,41152
+AL,Traipu,23439,25702
+AL,União dos Palmares,58620,62358
+AL,Viçosa,26263,25407
+AM,Alvarães,12150,14088
+AM,Amaturá,7308,9467
+AM,Anamã,6563,10214
+AM,Anori,11320,16317
+AM,Apuí,13864,18007
+AM,Atalaia do Norte,10049,15153
+AM,Autazes,24345,32135
+AM,Barcelos,24197,25718
+AM,Barreirinha,22579,27355
+AM,Benjamin Constant,23219,33411
+AM,Beruri,11038,15486
+AM,Boa Vista do Ramos,10482,14979
+AM,Boca do Acre,26959,30632
+AM,Borba,28619,34961
+AM,Caapiranga,8803,10975
+AM,Canutama,10737,12738
+AM,Carauari,23421,25774
+AM,Careiro,27554,32734
+AM,Careiro da Várzea,17267,23930
+AM,Coari,67096,75965
+AM,Codajás,17507,23206
+AM,Eirunepé,26074,30665
+AM,Envira,19060,16338
+AM,Fonte Boa,31509,22817
+AM,Guajará,13220,13974
+AM,Humaitá,32796,44227
+AM,Ipixuna,14759,22254
+AM,Iranduba,32303,40781
+AM,Itacoatiara,72105,86839
+AM,Itamarati,8406,8038
+AM,Itapiranga,7309,8211
+AM,Japurá,10285,7326
+AM,Juruá,6584,10802
+AM,Jutaí,22500,17992
+AM,Lábrea,28956,37701
+AM,Manacapuru,73695,85141
+AM,Manaquiri,12711,22801
+AM,Manaus,1405835,1802014
+AM,Manicoré,38038,47017
+AM,Maraã,17079,17528
+AM,Maués,40036,52236
+AM,Nhamundá,15355,18278
+AM,Nova Olinda do Norte,23725,30696
+AM,Novo Airão,9651,14723
+AM,Novo Aripuanã,17119,21451
+AM,Parintins,90150,102033
+AM,Pauini,17092,18166
+AM,Presidente Figueiredo,17394,27175
+AM,Rio Preto da Eva,17582,25719
+AM,Santa Isabel do Rio Negro,10561,18146
+AM,Santo Antônio do Içá,28213,24481
+AM,São Gabriel da Cachoeira,29947,37896
+AM,São Paulo de Olivença,23113,31422
+AM,São Sebastião do Uatumã,7160,10705
+AM,Silves,7785,8444
+AM,Tabatinga,37919,52272
+AM,Tapauá,20595,19077
+AM,Tefé,64457,61453
+AM,Tonantins,15512,17079
+AM,Uarini,10254,11891
+AM,Urucará,18372,17094
+AM,Urucurituba,12264,17837
+AP,Serra do Navio,3293,4380
+AP,Amapá,7121,8069
+AP,Pedra Branca do Amaparí,4009,10772
+AP,Calçoene,6730,9000
+AP,Cutias,3280,4696
+AP,Ferreira Gomes,3562,5802
+AP,Itaubal,2894,4265
+AP,Laranjal do Jari,28515,39942
+AP,Macapá,283308,398204
+AP,Mazagão,11986,17032
+AP,Oiapoque,12886,20509
+AP,Porto Grande,11042,16809
+AP,Pracuúba,2286,3793
+AP,Santana,80439,101262
+AP,Tartarugalzinho,7121,12563
+AP,Vitória do Jari,8560,12428
+BA,Abaíra,9067,8316
+BA,Abaré,13648,17064
+BA,Acajutiba,14322,14653
+BA,Adustina,14302,15702
+BA,Água Fria,14718,15731
+BA,Érico Cardoso,12160,10859
+BA,Aiquara,5315,4602
+BA,Alagoinhas,130095,141949
+BA,Alcobaça,20900,21271
+BA,Almadina,7862,6357
+BA,Amargosa,31108,34351
+BA,Amélia Rodrigues,24134,25190
+BA,América Dourada,15959,15961
+BA,Anagé,31060,25516
+BA,Andaraí,13884,13960
+BA,Andorinha,15774,14414
+BA,Angical,14701,14073
+BA,Anguera,8834,10242
+BA,Antas,14059,17072
+BA,Antônio Cardoso,11620,11554
+BA,Antônio Gonçalves,9716,11015
+BA,Aporá,16769,17731
+BA,Apuarema,7443,7459
+BA,Aracatu,15491,13743
+BA,Araças,11003,11561
+BA,Araci,47584,51651
+BA,Aramari,9258,10036
+BA,Arataca,11218,10392
+BA,Aratuípe,8381,8599
+BA,Aurelino Leal,17149,13595
+BA,Baianópolis,12179,13850
+BA,Baixa Grande,20441,20060
+BA,Banzaê,11156,11814
+BA,Barra,44203,49325
+BA,Barra da Estiva,24440,21187
+BA,Barra do Choça,40818,34788
+BA,Barra do Mendes,13610,13987
+BA,Barra do Rocha,8074,6313
+BA,Barreiras,131849,137427
+BA,Barro Alto,12098,13612
+BA,Barrocas,NA,14191
+BA,Governador Lomanto Júnior,8602,6453
+BA,Belmonte,20032,21798
+BA,Belo Campo,17655,16021
+BA,Biritinga,14641,14836
+BA,Boa Nova,20544,15411
+BA,Boa Vista do Tupim,18408,17991
+BA,Bom Jesus da Lapa,54421,63480
+BA,Bom Jesus da Serra,10502,10113
+BA,Boninal,12461,13695
+BA,Bonito,12902,14834
+BA,Boquira,22121,22037
+BA,Botuporã,11522,11154
+BA,Brejões,15344,14282
+BA,Brejolândia,8762,11077
+BA,Brotas de Macaúbas,13003,10717
+BA,Brumado,61670,64602
+BA,Buerarema,19118,18605
+BA,Buritirama,17797,19600
+BA,Caatiba,15508,11420
+BA,Cabaceiras do Paraguaçu,15547,17327
+BA,Cachoeira,30416,32026
+BA,Caculé,20339,22236
+BA,Caém,12563,10368
+BA,Caetanos,13076,13639
+BA,Caetité,45090,47515
+BA,Cafarnaum,16059,17209
+BA,Cairu,11410,15374
+BA,Caldeirão Grande,11395,12491
+BA,Camacan,31055,31472
+BA,Camaçari,161727,242970
+BA,Camamu,33661,35180
+BA,Campo Alegre de Lourdes,27607,28090
+BA,Campo Formoso,61942,66616
+BA,Canápolis,9743,9410
+BA,Canarana,21665,24067
+BA,Canavieiras,35322,32336
+BA,Candeal,10121,8895
+BA,Candeias,76783,83158
+BA,Candiba,12124,13210
+BA,Cândido Sales,28516,27918
+BA,Cansanção,31947,32908
+BA,Canudos,13761,15732
+BA,Capela do Alto Alegre,11898,11527
+BA,Capim Grosso,23908,26577
+BA,Caraíbas,17164,10222
+BA,Caravelas,20103,21414
+BA,Cardeal da Silva,8034,8899
+BA,Carinhanha,27272,28380
+BA,Casa Nova,55730,64940
+BA,Castro Alves,25561,25408
+BA,Catolândia,3092,2612
+BA,Catu,46731,51077
+BA,Caturama,8640,8843
+BA,Central,16792,17013
+BA,Chorrochó,10171,10734
+BA,Cícero Dantas,30934,32300
+BA,Cipó,14285,15755
+BA,Coaraci,27852,20964
+BA,Cocos,17611,18153
+BA,Conceição da Feira,17514,20391
+BA,Conceição do Almeida,18912,17889
+BA,Conceição do Coité,56317,62040
+BA,Conceição do Jacuípe,26194,30123
+BA,Conde,20426,23620
+BA,Condeúba,18047,16898
+BA,Contendas do Sincorá,4264,4663
+BA,Coração de Maria,23818,22401
+BA,Cordeiros,8193,8168
+BA,Coribe,15148,14307
+BA,Coronel João Sá,19665,17066
+BA,Correntina,30583,31249
+BA,Cotegipe,13374,13636
+BA,Cravolândia,5001,5041
+BA,Crisópolis,19037,20046
+BA,Cristópolis,12662,13280
+BA,Cruz das Almas,53049,58606
+BA,Curaçá,28841,32168
+BA,Dário Meira,15222,12836
+BA,Dias d'Ávila,45333,66440
+BA,Dom Basílio,10427,11355
+BA,Dom Macedo Costa,3748,3874
+BA,Elísio Medrado,7860,7947
+BA,Encruzilhada,32924,23766
+BA,Entre Rios,37513,39872
+BA,Esplanada,27230,32802
+BA,Euclides da Cunha,53885,56289
+BA,Eunápolis,84120,100196
+BA,Fátima,18298,17652
+BA,Feira da Mata,6235,6184
+BA,Feira de Santana,480949,556642
+BA,Filadélfia,17194,16740
+BA,Firmino Alves,5170,5384
+BA,Floresta Azul,11614,10660
+BA,Formosa do Rio Preto,18288,22528
+BA,Gandu,27160,30336
+BA,Gavião,4792,4561
+BA,Gentio do Ouro,10173,10622
+BA,Glória,14559,15076
+BA,Gongogi,10522,8357
+BA,Governador Mangabeira,17165,19818
+BA,Guajeru,12836,10412
+BA,Guanambi,71728,78833
+BA,Guaratinga,24319,22165
+BA,Heliópolis,13108,13192
+BA,Iaçu,28501,25736
+BA,Ibiassucê,12828,10062
+BA,Ibicaraí,28861,24272
+BA,Ibicoara,14453,17282
+BA,Ibicuí,15129,15785
+BA,Ibipeba,15362,17008
+BA,Ibipitanga,13419,14171
+BA,Ibiquera,4495,4866
+BA,Ibirapitanga,22177,22598
+BA,Ibirapuã,7096,7956
+BA,Ibirataia,24741,18943
+BA,Ibitiara,14443,15508
+BA,Ibititá,17905,17840
+BA,Ibotirama,24149,25424
+BA,Ichu,5593,5255
+BA,Igaporã,14557,15205
+BA,Igrapiúna,14960,13343
+BA,Iguaí,25134,25705
+BA,Ilhéus,222127,184236
+BA,Inhambupe,29589,36306
+BA,Ipecaetá,18383,15331
+BA,Ipiaú,43621,44390
+BA,Ipirá,61746,59343
+BA,Ipupiara,8541,9285
+BA,Irajuba,6362,7002
+BA,Iramaia,17553,11990
+BA,Iraquara,18334,22601
+BA,Irará,25163,27466
+BA,Irecê,57436,66181
+BA,Itabela,25746,28390
+BA,Itaberaba,58943,61631
+BA,Itabuna,196675,204667
+BA,Itacaré,18120,24318
+BA,Itaeté,14006,14924
+BA,Itagi,14629,13051
+BA,Itagibá,17191,15193
+BA,Itagimirim,7728,7110
+BA,Itaguaçu da Bahia,11309,13209
+BA,Itaju do Colônia,8580,7309
+BA,Itajuípe,22511,21081
+BA,Itamaraju,64144,63069
+BA,Itamari,8347,7903
+BA,Itambé,30850,23089
+BA,Itanagra,6370,7598
+BA,Itanhém,21334,20216
+BA,Itaparica,18945,20725
+BA,Itapé,14639,10995
+BA,Itapebi,11126,10495
+BA,Itapetinga,57931,68273
+BA,Itapicuru,27315,32261
+BA,Itapitanga,10382,10207
+BA,Itaquara,7861,7678
+BA,Itarantim,16923,18539
+BA,Itatim,12700,14522
+BA,Itiruçu,13585,12693
+BA,Itiúba,35543,36113
+BA,Itororó,19799,19914
+BA,Ituaçu,17268,18127
+BA,Ituberá,24133,26591
+BA,Iuiú,10489,10900
+BA,Jaborandi,10288,8973
+BA,Jacaraci,13520,13651
+BA,Jacobina,76492,79247
+BA,Jaguaquara,46621,51011
+BA,Jaguarari,27412,30343
+BA,Jaguaripe,13422,16467
+BA,Jandaíra,10027,10331
+BA,Jequié,147202,151895
+BA,Jeremoabo,34916,37680
+BA,Jiquiriçá,13638,14118
+BA,Jitaúna,21056,14115
+BA,João Dourado,18967,22549
+BA,Juazeiro,174567,197965
+BA,Jucuruçu,12377,10290
+BA,Jussara,15339,15052
+BA,Jussari,7556,6474
+BA,Jussiape,10051,8031
+BA,Lafaiete Coutinho,4102,3901
+BA,Lagoa Real,12765,13934
+BA,Laje,19601,22201
+BA,Lajedão,3409,3733
+BA,Lajedinho,4352,3936
+BA,Lajedo do Tabocal,8100,8305
+BA,Lamarão,9523,9560
+BA,Lapão,24727,25646
+BA,Lauro de Freitas,113543,163449
+BA,Lençóis,8910,10368
+BA,Licínio de Almeida,12349,12311
+BA,Livramento de Nossa Senhora,38025,42693
+BA,Luís Eduardo Magalhães,NA,60105
+BA,Macajuba,11474,11229
+BA,Macarani,14594,17093
+BA,Macaúbas,41806,47051
+BA,Macururé,8612,8073
+BA,Madre de Deus,12036,17376
+BA,Maetinga,13686,7038
+BA,Maiquinique,7326,8782
+BA,Mairi,20085,19326
+BA,Malhada,15614,16014
+BA,Malhada de Pedras,8426,8468
+BA,Manoel Vitorino,16704,14387
+BA,Mansidão,11046,12592
+BA,Maracás,31683,24613
+BA,Maragogipe,40314,42815
+BA,Maraú,18366,19101
+BA,Marcionílio Souza,10775,10500
+BA,Mascote,16093,14640
+BA,Mata de São João,32568,40183
+BA,Matina,10242,11145
+BA,Medeiros Neto,21235,21560
+BA,Miguel Calmon,28267,26475
+BA,Milagres,12067,10306
+BA,Mirangaba,14261,16279
+BA,Mirante,13666,10507
+BA,Monte Santo,54552,52338
+BA,Morpará,8597,8280
+BA,Morro do Chapéu,34494,35164
+BA,Mortugaba,12598,12477
+BA,Mucugê,13682,10545
+BA,Mucuri,28062,36026
+BA,Mulungu do Morro,15119,12249
+BA,Mundo Novo,21273,24395
+BA,Muniz Ferreira,6941,7317
+BA,Muquém de São Francisco,9052,10272
+BA,Muritiba,30644,28899
+BA,Mutuípe,20462,21449
+BA,Nazaré,26365,27274
+BA,Nilo Peçanha,11213,12530
+BA,Nordestina,11800,12371
+BA,Nova Canaã,15366,16713
+BA,Nova Fátima,7536,7602
+BA,Nova Ibiá,7166,6648
+BA,Nova Itarana,6592,7435
+BA,Nova Redenção,8636,8034
+BA,Nova Soure,24405,24136
+BA,Nova Viçosa,32076,38556
+BA,Novo Horizonte,8502,10673
+BA,Novo Triunfo,13599,15051
+BA,Olindina,23909,24943
+BA,Oliveira dos Brejinhos,21670,21831
+BA,Ouriçangas,7525,8298
+BA,Ourolândia,15356,16425
+BA,Palmas de Monte Alto,20099,20775
+BA,Palmeiras,7518,8410
+BA,Paramirim,18921,21001
+BA,Paratinga,27679,29504
+BA,Paripiranga,26591,27778
+BA,Pau Brasil,13048,10852
+BA,Paulo Afonso,96499,108396
+BA,Pé de Serra,13531,13752
+BA,Pedrão,6764,6876
+BA,Pedro Alexandre,16953,16995
+BA,Piatã,18977,17982
+BA,Pilão Arcado,30713,32860
+BA,Pindaí,15494,15628
+BA,Pindobaçu,20869,20121
+BA,Pintadas,10927,10342
+BA,Piraí do Norte,10425,9799
+BA,Piripá,16128,12783
+BA,Piritiba,19037,22399
+BA,Planaltino,7963,8822
+BA,Planalto,21707,24481
+BA,Poções,44213,44701
+BA,Pojuca,26203,33066
+BA,Ponto Novo,17187,15742
+BA,Porto Seguro,95721,126929
+BA,Potiraguá,14579,9810
+BA,Prado,26498,27627
+BA,Presidente Dutra,13730,13750
+BA,Presidente Jânio Quadros,17045,13652
+BA,Presidente Tancredo Neves,19404,23846
+BA,Queimadas,24613,24602
+BA,Quijingue,26376,27228
+BA,Quixabeira,9466,9554
+BA,Rafael Jambeiro,22600,22874
+BA,Remanso,36257,38957
+BA,Retirolândia,10891,12055
+BA,Riachão das Neves,21917,21937
+BA,Riachão do Jacuípe,31633,33172
+BA,Riacho de Santana,28643,30646
+BA,Ribeira do Amparo,13903,14276
+BA,Ribeira do Pombal,46270,47518
+BA,Ribeirão do Largo,15303,8602
+BA,Rio de Contas,13935,13007
+BA,Rio do Antônio,14637,14815
+BA,Rio do Pires,12010,11918
+BA,Rio Real,33260,37164
+BA,Rodelas,6260,7775
+BA,Ruy Barbosa,29026,29887
+BA,Salinas da Margarida,10377,13456
+BA,Salvador,2443107,2675656
+BA,Santa Bárbara,17933,19064
+BA,Santa Brígida,16903,15060
+BA,Santa Cruz Cabrália,23888,26264
+BA,Santa Cruz da Vitória,7025,6673
+BA,Santa Inês,11027,10363
+BA,Santaluz,30955,33838
+BA,Santa Luzia,15503,13344
+BA,Santa Maria da Vitória,41261,40309
+BA,Santana,24139,24750
+BA,Santanópolis,8644,8776
+BA,Santa Rita de Cássia,24026,26250
+BA,Santa Teresinha,8696,9648
+BA,Santo Amaro,58414,57800
+BA,Santo Antônio de Jesus,77368,90985
+BA,Santo Estêvão,41145,47880
+BA,São Desidério,19006,27659
+BA,São Domingos,8526,9226
+BA,São Félix,13699,14098
+BA,São Félix do Coribe,11758,13048
+BA,São Felipe,20228,20305
+BA,São Francisco do Conde,26282,33183
+BA,São Gabriel,18412,18427
+BA,São Gonçalo dos Campos,27000,33283
+BA,São José da Vitória,6210,5715
+BA,São José do Jacuípe,9233,10180
+BA,São Miguel das Matas,10020,10414
+BA,São Sebastião do Passé,39960,42153
+BA,Sapeaçu,16450,16585
+BA,Sátiro Dias,17251,18964
+BA,Saubara,10193,11201
+BA,Saúde,11488,11845
+BA,Seabra,39422,41798
+BA,Sebastião Laranjeiras,9283,10371
+BA,Senhor do Bonfim,67723,74419
+BA,Serra do Ramalho,32600,31638
+BA,Sento Sé,32461,37425
+BA,Serra Dourada,18015,18112
+BA,Serra Preta,17726,15401
+BA,Serrinha,83206,76762
+BA,Serrolândia,12616,12344
+BA,Simões Filho,94066,118047
+BA,Sítio do Mato,11752,12050
+BA,Sítio do Quinto,17031,12592
+BA,Sobradinho,21325,22000
+BA,Souto Soares,14795,15899
+BA,Tabocas do Brejo Velho,12619,11431
+BA,Tanhaçu,20044,20013
+BA,Tanque Novo,15771,16128
+BA,Tanquinho,7460,8008
+BA,Taperoá,15933,18748
+BA,Tapiramutá,17061,16516
+BA,Teixeira de Freitas,107486,138341
+BA,Teodoro Sampaio,8884,7895
+BA,Teofilândia,20432,21482
+BA,Teolândia,12572,14836
+BA,Terra Nova,12875,12803
+BA,Tremedal,21200,17029
+BA,Tucano,50948,52418
+BA,Uauá,25993,24294
+BA,Ubaíra,20595,19750
+BA,Ubaitaba,23854,20691
+BA,Ubatã,21803,25004
+BA,Uibaí,13614,13625
+BA,Umburanas,14140,17000
+BA,Una,31261,24110
+BA,Urandi,16076,16466
+BA,Uruçuca,20323,19837
+BA,Utinga,16889,18173
+BA,Valença,77509,88673
+BA,Valente,19145,24560
+BA,Várzea da Roça,13633,13786
+BA,Várzea do Poço,7515,8661
+BA,Várzea Nova,14154,13073
+BA,Varzedo,8673,9109
+BA,Vera Cruz,29750,37567
+BA,Vereda,7450,6800
+BA,Vitória da Conquista,262494,306866
+BA,Wagner,8976,8983
+BA,Wanderley,13649,12485
+BA,Wenceslau Guimarães,23926,22189
+BA,Xique-Xique,44718,45536
+CE,Abaiara,8385,10496
+CE,Acarapé,12927,15338
+CE,Acaraú,48968,57551
+CE,Acopiara,47137,51160
+CE,Aiuaba,14452,16203
+CE,Alcântaras,9548,10771
+CE,Altaneira,5687,6856
+CE,Alto Santo,15394,16359
+CE,Amontada,32333,39232
+CE,Antonina do Norte,6509,6984
+CE,Apuiarés,12540,13925
+CE,Aquiraz,60469,72628
+CE,Aracati,61187,69159
+CE,Aracoiaba,24064,25391
+CE,Ararendá,10008,10491
+CE,Araripe,19606,20685
+CE,Aratuba,12359,11529
+CE,Arneiroz,7538,7650
+CE,Assaré,20882,22445
+CE,Aurora,25207,24566
+CE,Baixio,5724,6026
+CE,Banabuiú,16173,17315
+CE,Barbalha,47031,55323
+CE,Barreira,17024,19573
+CE,Barro,20007,21514
+CE,Barroquinha,13921,14476
+CE,Baturité,29861,33321
+CE,Beberibe,42343,49311
+CE,Bela Cruz,28358,30878
+CE,Boa Viagem,50306,52498
+CE,Brejo Santo,38484,45193
+CE,Camocim,55448,60158
+CE,Campos Sales,25566,26506
+CE,Canindé,69601,74473
+CE,Capistrano,15830,17062
+CE,Caridade,15604,20020
+CE,Cariré,18617,18347
+CE,Caririaçu,25733,26393
+CE,Cariús,18444,18567
+CE,Carnaubal,15230,16746
+CE,Cascavel,57129,66142
+CE,Catarina,15547,18745
+CE,Catunda,9286,9952
+CE,Caucaia,250479,325441
+CE,Cedro,24062,24527
+CE,Chaval,12163,12615
+CE,Choró,12001,12853
+CE,Chorozinho,18707,18915
+CE,Coreaú,19981,21954
+CE,Crateús,70898,72812
+CE,Crato,104646,121428
+CE,Croatá,16064,17069
+CE,Cruz,19779,22479
+CE,Deputado Irapuan Pinheiro,8385,9095
+CE,Ererê,6302,6840
+CE,Eusébio,31500,46033
+CE,Farias Brito,20315,19007
+CE,Forquilha,17488,21786
+CE,Fortaleza,2141402,2452185
+CE,Fortim,12066,14817
+CE,Frecheirinha,11832,12991
+CE,General Sampaio,4866,6218
+CE,Graça,14813,15049
+CE,Granja,48484,52645
+CE,Granjeiro,5295,4629
+CE,Groaíras,8741,10228
+CE,Guaiúba,19884,24091
+CE,Guaraciaba do Norte,35037,37775
+CE,Guaramiranga,5714,4164
+CE,Hidrolândia,17687,19325
+CE,Horizonte,33790,55187
+CE,Ibaretama,12561,12922
+CE,Ibiapina,22157,23808
+CE,Ibicuitinga,9435,11335
+CE,Icapuí,16052,18392
+CE,Icó,62521,65456
+CE,Iguatu,85615,96495
+CE,Independência,25262,25573
+CE,Ipaporanga,11247,11343
+CE,Ipaumirim,11539,12009
+CE,Ipu,39078,40296
+CE,Ipueiras,38219,37862
+CE,Iracema,13155,13722
+CE,Irauçuba,19560,22324
+CE,Itaiçaba,6579,7316
+CE,Itaitinga,29217,35817
+CE,Itapagé,41093,48350
+CE,Itapipoca,94369,116065
+CE,Itapiúna,16276,18626
+CE,Itarema,30347,37471
+CE,Itatira,15541,18894
+CE,Jaguaretama,18024,17863
+CE,Jaguaribara,8730,10399
+CE,Jaguaribe,35062,34409
+CE,Jaguaruana,29735,32236
+CE,Jardim,26414,26688
+CE,Jati,7265,7660
+CE,Jijoca de Jericoacoara,12089,17002
+CE,Juazeiro do Norte,212133,249939
+CE,Jucás,22632,23807
+CE,Lavras da Mangabeira,31203,31090
+CE,Limoeiro do Norte,49620,56264
+CE,Madalena,14864,18088
+CE,Maracanaú,179732,209057
+CE,Maranguape,88135,113561
+CE,Marco,20427,24703
+CE,Martinópole,8602,10214
+CE,Massapê,29574,35191
+CE,Mauriti,42399,44240
+CE,Meruoca,11339,13693
+CE,Milagres,26959,28316
+CE,Milhã,13028,13086
+CE,Miraíma,11417,12800
+CE,Missão Velha,32586,34274
+CE,Mombaça,41215,42690
+CE,Monsenhor Tabosa,16344,16705
+CE,Morada Nova,64400,62065
+CE,Moraújo,7046,8070
+CE,Morrinhos,17928,20700
+CE,Mucambo,13811,14102
+CE,Mulungu,8897,11485
+CE,Nova Olinda,12077,14256
+CE,Nova Russas,29347,30965
+CE,Novo Oriente,26119,27453
+CE,Ocara,21584,24007
+CE,Orós,22023,21389
+CE,Pacajus,44070,61838
+CE,Pacatuba,51696,72299
+CE,Pacoti,10929,11607
+CE,Pacujá,5653,5986
+CE,Palhano,8166,8866
+CE,Palmácia,9859,12005
+CE,Paracuru,27541,31636
+CE,Paraipaba,25462,30041
+CE,Parambu,32302,31309
+CE,Paramoti,10970,11308
+CE,Pedra Branca,40742,41890
+CE,Penaforte,7017,8226
+CE,Pentecoste,32600,35400
+CE,Pereiro,15225,15757
+CE,Pindoretama,14951,18683
+CE,Piquet Carneiro,13131,15467
+CE,Pires Ferreira,8643,10216
+CE,Poranga,11737,12001
+CE,Porteiras,15658,15061
+CE,Potengi,9138,10276
+CE,Potiretama,5768,6126
+CE,Quiterianópolis,18355,19921
+CE,Quixadá,69654,80604
+CE,Quixelô,15596,15000
+CE,Quixeramobim,59235,71887
+CE,Quixeré,16862,19412
+CE,Redenção,24993,26415
+CE,Reriutaba,21224,19455
+CE,Russas,57320,69833
+CE,Saboeiro,16226,15752
+CE,Salitre,13925,15453
+CE,Santana do Acaraú,26198,29946
+CE,Santana do Cariri,16847,17170
+CE,Santa Quitéria,42375,42763
+CE,São Benedito,39894,44178
+CE,São Gonçalo do Amarante,35608,43890
+CE,São João do Jaguaribe,8650,7900
+CE,São Luís do Curu,11497,12332
+CE,Senador Pompeu,27225,26469
+CE,Senador Sá,5605,6852
+CE,Sobral,155276,188233
+CE,Solonópole,16902,17665
+CE,Tabuleiro do Norte,27098,29204
+CE,Tamboril,25973,25451
+CE,Tarrafas,9213,8910
+CE,Tauá,51948,55716
+CE,Tejuçuoca,13519,16827
+CE,Tianguá,58069,68892
+CE,Trairi,44527,51422
+CE,Tururu,11498,14408
+CE,Ubajara,27095,31787
+CE,Umari,7435,7545
+CE,Umirim,17343,18802
+CE,Uruburetama,16444,19765
+CE,Uruoca,11479,12883
+CE,Varjota,16593,17593
+CE,Várzea Alegre,34844,38434
+CE,Viçosa do Ceará,45427,54955
+DF,Brasília,2051146,2570160
+ES,Afonso Cláudio,32232,31091
+ES,Águia Branca,9599,9519
+ES,Água Doce do Norte,12751,11771
+ES,Alegre,31714,30768
+ES,Alfredo Chaves,13616,13955
+ES,Alto Rio Novo,6964,7317
+ES,Anchieta,19176,23902
+ES,Apiacá,7615,7512
+ES,Aracruz,64637,81832
+ES,Atilio Vivacqua,8327,9850
+ES,Baixo Guandu,27819,29081
+ES,Barra de São Francisco,37597,40649
+ES,Boa Esperança,13679,14199
+ES,Bom Jesus do Norte,9226,9476
+ES,Brejetuba,11687,11915
+ES,Cachoeiro de Itapemirim,174879,189889
+ES,Cariacica,324285,348738
+ES,Castelo,32756,34747
+ES,Colatina,112711,111788
+ES,Conceição da Barra,26494,28449
+ES,Conceição do Castelo,10910,11681
+ES,Divino de São Lourenço,4817,4516
+ES,Domingos Martins,30559,31847
+ES,Dores do Rio Preto,6188,6397
+ES,Ecoporanga,23979,23212
+ES,Fundão,13009,17025
+ES,Governador Lindenberg,NA,10869
+ES,Guaçuí,25492,27851
+ES,Guarapari,88400,105286
+ES,Ibatiba,19210,22366
+ES,Ibiraçu,10143,11178
+ES,Ibitirama,9211,8957
+ES,Iconha,11481,12523
+ES,Irupi,10354,11723
+ES,Itaguaçu,14495,14134
+ES,Itapemirim,28121,30988
+ES,Itarana,11425,10881
+ES,Iúna,26112,27328
+ES,Jaguaré,19539,24678
+ES,Jerônimo Monteiro,10189,10879
+ES,João Neiva,15301,15809
+ES,Laranja da Terra,10934,10826
+ES,Linhares,112617,141306
+ES,Mantenópolis,12201,13612
+ES,Marataízes,30603,34140
+ES,Marechal Floriano,12188,14262
+ES,Marilândia,9924,11107
+ES,Mimoso do Sul,26199,25902
+ES,Montanha,17263,17849
+ES,Mucurici,5900,5655
+ES,Muniz Freire,19689,18397
+ES,Muqui,13670,14396
+ES,Nova Venécia,43015,46031
+ES,Pancas,20402,21548
+ES,Pedro Canário,21961,23794
+ES,Pinheiros,21320,23895
+ES,Piúma,14987,18123
+ES,Ponto Belo,6263,6979
+ES,Presidente Kennedy,9555,10314
+ES,Rio Bananal,16324,17530
+ES,Rio Novo do Sul,11271,11325
+ES,Santa Leopoldina,12463,12240
+ES,Santa Maria de Jetibá,28774,34176
+ES,Santa Teresa,20622,21823
+ES,São Domingos do Norte,7547,8001
+ES,São Gabriel da Palha,26588,31859
+ES,São José do Calçado,10481,10408
+ES,São Mateus,90460,109028
+ES,São Roque do Canaã,10395,11273
+ES,Serra,321181,409267
+ES,Sooretama,18269,23843
+ES,Vargem Alta,17376,19130
+ES,Venda Nova do Imigrante,16165,20447
+ES,Viana,53452,65001
+ES,Vila Pavão,8330,8672
+ES,Vila Valério,13875,13830
+ES,Vila Velha,345965,414586
+ES,Vitória,292304,327801
+GO,Abadia de Goiás,4971,6876
+GO,Abadiânia,11452,15757
+GO,Acreúna,18301,20279
+GO,Adelândia,2460,2477
+GO,Água Fria de Goiás,4469,5090
+GO,Água Limpa,2200,2013
+GO,Águas Lindas de Goiás,105746,159378
+GO,Alexânia,20047,23814
+GO,Aloândia,2128,2051
+GO,Alto Horizonte,2564,4505
+GO,Alto Paraíso de Goiás,6182,6885
+GO,Alvorada do Norte,7560,8084
+GO,Amaralina,3074,3434
+GO,Americano do Brasil,4933,5508
+GO,Amorinópolis,4145,3609
+GO,Anápolis,288085,334613
+GO,Anhanguera,895,1020
+GO,Anicuns,18754,20239
+GO,Aparecida de Goiânia,336392,455657
+GO,Aparecida do Rio Doce,2402,2427
+GO,Aporé,3427,3803
+GO,Araçu,4127,3802
+GO,Aragarças,16592,18305
+GO,Aragoiânia,6424,8365
+GO,Araguapaz,7310,7510
+GO,Arenópolis,3999,3277
+GO,Aruanã,5095,7496
+GO,Aurilândia,4235,3650
+GO,Avelinópolis,2507,2450
+GO,Baliza,2270,3714
+GO,Barro Alto,6251,8716
+GO,Bela Vista de Goiás,19210,24554
+GO,Bom Jardim de Goiás,8068,8423
+GO,Bom Jesus de Goiás,16257,20727
+GO,Bonfinópolis,5353,7536
+GO,Bonópolis,2598,3503
+GO,Brazabrantes,2772,3232
+GO,Britânia,5279,5509
+GO,Buriti Alegre,8718,9054
+GO,Buriti de Goiás,2659,2560
+GO,Buritinópolis,3383,3321
+GO,Cabeceiras,6758,7354
+GO,Cachoeira Alta,8646,10553
+GO,Cachoeira de Goiás,1498,1417
+GO,Cachoeira Dourada,8525,8254
+GO,Caçu,10575,13283
+GO,Caiapônia,14673,16757
+GO,Caldas Novas,49660,70473
+GO,Caldazinha,2859,3325
+GO,Campestre de Goiás,3167,3387
+GO,Campinaçu,3707,3656
+GO,Campinorte,9641,11111
+GO,Campo Alegre de Goiás,4528,6060
+GO,Campo Limpo de Goiás,NA,6241
+GO,Campos Belos,17047,18410
+GO,Campos Verdes,8057,5020
+GO,Carmo do Rio Verde,7941,8928
+GO,Castelândia,3882,3638
+GO,Catalão,64347,86647
+GO,Caturaí,4330,4686
+GO,Cavalcante,9150,9392
+GO,Ceres,22209,20722
+GO,Cezarina,6514,7545
+GO,Chapadão do Céu,3778,7001
+GO,Cidade Ocidental,40377,55915
+GO,Cocalzinho de Goiás,14626,17407
+GO,Colinas do Sul,3702,3523
+GO,Córrego do Ouro,2973,2632
+GO,Corumbá de Goiás,9679,10361
+GO,Corumbaíba,6655,8181
+GO,Cristalina,34116,46580
+GO,Cristianópolis,2924,2932
+GO,Crixás,14673,15760
+GO,Cromínia,3660,3555
+GO,Cumari,3105,2964
+GO,Damianópolis,3303,3292
+GO,Damolândia,2573,2747
+GO,Davinópolis,2109,2056
+GO,Diorama,2498,2479
+GO,Doverlândia,8558,7892
+GO,Edealina,3803,3733
+GO,Edéia,10223,11266
+GO,Estrela do Norte,3398,3320
+GO,Faina,7419,6983
+GO,Fazenda Nova,7093,6322
+GO,Firminópolis,9909,11580
+GO,Flores de Goiás,7514,12066
+GO,Formosa,78651,100085
+GO,Formoso,5589,4883
+GO,Gameleira de Goiás,NA,3275
+GO,Divinópolis de Goiás,5172,4962
+GO,Goianápolis,10671,10695
+GO,Goiandira,4967,5265
+GO,Goianésia,49160,59549
+GO,Goiânia,1093007,1302001
+GO,Goianira,18719,34060
+GO,Goiás,27120,24727
+GO,Goiatuba,31130,32492
+GO,Gouvelândia,4009,4949
+GO,Guapó,13863,13976
+GO,Guaraíta,2794,2376
+GO,Guarani de Goiás,4678,4258
+GO,Guarinos,2844,2299
+GO,Heitoraí,3445,3571
+GO,Hidrolândia,13086,17398
+GO,Hidrolina,4548,4029
+GO,Iaciara,11295,12427
+GO,Inaciolândia,5239,5699
+GO,Indiara,11816,13687
+GO,Inhumas,43897,48246
+GO,Ipameri,22628,24735
+GO,Ipiranga de Goiás,NA,2844
+GO,Iporá,31300,31274
+GO,Israelândia,3004,2887
+GO,Itaberaí,27879,35371
+GO,Itaguari,4385,4513
+GO,Itaguaru,5696,5437
+GO,Itajá,6572,5062
+GO,Itapaci,13931,18458
+GO,Itapirapuã,10856,7835
+GO,Itapuranga,26740,26125
+GO,Itarumã,5446,6300
+GO,Itauçu,8277,8575
+GO,Itumbiara,81430,92883
+GO,Ivolândia,2992,2663
+GO,Jandaia,6342,6164
+GO,Jaraguá,33284,41870
+GO,Jataí,75451,88006
+GO,Jaupaci,3154,3000
+GO,Jesúpolis,2123,2300
+GO,Joviânia,6904,7118
+GO,Jussara,20034,19153
+GO,Lagoa Santa,NA,1254
+GO,Leopoldo de Bulhões,7766,7882
+GO,Luziânia,141082,174531
+GO,Mairipotaba,2403,2374
+GO,Mambaí,4838,6871
+GO,Mara Rosa,11939,10649
+GO,Marzagão,1920,2072
+GO,Matrinchã,4520,4414
+GO,Maurilândia,8969,11521
+GO,Mimoso de Goiás,2801,2685
+GO,Minaçu,33608,31154
+GO,Mineiros,39024,52935
+GO,Moiporá,2023,1763
+GO,Monte Alegre de Goiás,6892,7730
+GO,Montes Claros de Goiás,7991,7987
+GO,Montividiu,7736,10572
+GO,Montividiu do Norte,3789,4122
+GO,Morrinhos,36990,41460
+GO,Morro Agudo de Goiás,2489,2356
+GO,Mossâmedes,5798,5007
+GO,Mozarlândia,11186,13404
+GO,Mundo Novo,8109,6438
+GO,Mutunópolis,3958,3849
+GO,Nazário,6631,7874
+GO,Nerópolis,18578,24210
+GO,Niquelândia,38573,42361
+GO,Nova América,2185,2259
+GO,Nova Aurora,1927,2062
+GO,Nova Crixás,11061,11927
+GO,Nova Glória,8944,8508
+GO,Nova Iguaçu de Goiás,2746,2826
+GO,Nova Roma,3717,3471
+GO,Nova Veneza,6414,8129
+GO,Novo Brasil,4181,3519
+GO,Novo Gama,74380,95018
+GO,Novo Planalto,3432,3956
+GO,Orizona,13067,14300
+GO,Ouro Verde de Goiás,4358,4034
+GO,Ouvidor,4271,5467
+GO,Padre Bernardo,21514,27671
+GO,Palestina de Goiás,3307,3371
+GO,Palmeiras de Goiás,17822,23338
+GO,Palmelo,2309,2335
+GO,Palminópolis,3561,3557
+GO,Panamá,2776,2682
+GO,Paranaiguara,8192,9100
+GO,Paraúna,10834,10863
+GO,Perolândia,2791,2950
+GO,Petrolina de Goiás,10381,10283
+GO,Pilar de Goiás,3339,2773
+GO,Piracanjuba,23557,24026
+GO,Piranhas,12287,11266
+GO,Pirenópolis,21245,23006
+GO,Pires do Rio,26229,28762
+GO,Planaltina,73718,81649
+GO,Pontalina,16556,17121
+GO,Porangatu,39593,42355
+GO,Porteirão,2823,3347
+GO,Portelândia,3696,3839
+GO,Posse,25696,31419
+GO,Professor Jamil,3403,3239
+GO,Quirinópolis,36512,43220
+GO,Rialma,10210,10523
+GO,Rianápolis,4364,4566
+GO,Rio Quente,2097,3312
+GO,Rio Verde,116552,176424
+GO,Rubiataba,18087,18915
+GO,Sanclerlândia,7530,7550
+GO,Santa Bárbara de Goiás,4963,5751
+GO,Santa Cruz de Goiás,3470,3142
+GO,Santa Fé de Goiás,4083,4762
+GO,Santa Helena de Goiás,34545,36469
+GO,Santa Isabel,3592,3686
+GO,Santa Rita do Araguaia,5087,6924
+GO,Santa Rita do Novo Destino,3025,3173
+GO,Santa Rosa de Goiás,3548,2909
+GO,Santa Tereza de Goiás,4697,3995
+GO,Santa Terezinha de Goiás,12015,10302
+GO,Santo Antônio da Barra,4052,4423
+GO,Santo Antônio de Goiás,3106,4703
+GO,Santo Antônio do Descoberto,51897,63248
+GO,São Domingos,9636,11272
+GO,São Francisco de Goiás,6028,6120
+GO,São João d'Aliança,6736,10257
+GO,São João da Paraúna,2024,1689
+GO,São Luís de Montes Belos,26383,30034
+GO,São Luíz do Norte,4089,4617
+GO,São Miguel do Araguaia,22793,22283
+GO,São Miguel do Passa Quatro,3481,3757
+GO,São Patrício,1835,1991
+GO,São Simão,13552,17088
+GO,Senador Canedo,53105,84443
+GO,Serranópolis,6447,7481
+GO,Silvânia,20339,19089
+GO,Simolândia,6219,6514
+GO,Sítio d'Abadia,2681,2825
+GO,Taquaral de Goiás,3587,3541
+GO,Teresina de Goiás,2585,3016
+GO,Terezópolis de Goiás,5083,6561
+GO,Três Ranchos,2831,2819
+GO,Trindade,81457,104488
+GO,Trombas,3434,3452
+GO,Turvânia,5134,4839
+GO,Turvelândia,3524,4399
+GO,Uirapuru,3043,2933
+GO,Uruaçu,33530,36929
+GO,Uruana,13938,13826
+GO,Urutaí,3104,3074
+GO,Valparaíso de Goiás,94856,132982
+GO,Varjão,3519,3659
+GO,Vianópolis,11300,12548
+GO,Vicentinópolis,6015,7371
+GO,Vila Boa,3287,4735
+GO,Vila Propício,4492,5145
+MA,Açailândia,88320,104047
+MA,Afonso Cunha,4680,5905
+MA,Água Doce do Maranhão,9703,11581
+MA,Alcântara,21291,21851
+MA,Aldeias Altas,18827,23952
+MA,Altamira do Maranhão,8865,11063
+MA,Alto Alegre do Maranhão,20162,24599
+MA,Alto Alegre do Pindaré,30177,31057
+MA,Alto Parnaíba,10174,10766
+MA,Amapá do Maranhão,5431,6431
+MA,Amarante do Maranhão,31292,37932
+MA,Anajatuba,22978,25291
+MA,Anapurus,10280,13939
+MA,Apicum-Açu,11099,14959
+MA,Araguanã,9123,13973
+MA,Araioses,34906,42505
+MA,Arame,29843,31702
+MA,Arari,26366,28488
+MA,Axixá,10142,11407
+MA,Bacabal,91823,100014
+MA,Bacabeira,10516,14925
+MA,Bacuri,15531,16604
+MA,Bacurituba,4671,5293
+MA,Balsas,60163,83528
+MA,Barão de Grajaú,15349,17841
+MA,Barra do Corda,78147,82830
+MA,Barreirinhas,39669,54930
+MA,Belágua,5253,6524
+MA,Bela Vista do Maranhão,9900,12049
+MA,Benedito Leite,5288,5469
+MA,Bequimão,19700,20344
+MA,Bernardo do Mearim,5239,5996
+MA,Boa Vista do Gurupi,5128,7949
+MA,Bom Jardim,34474,39049
+MA,Bom Jesus das Selvas,16545,28459
+MA,Bom Lugar,11534,14818
+MA,Brejo,27513,33359
+MA,Brejo de Areia,10418,5577
+MA,Buriti,24126,27013
+MA,Buriti Bravo,21446,22899
+MA,Buriticupu,51059,65237
+MA,Buritirana,13822,14784
+MA,Cachoeira Grande,7383,8446
+MA,Cajapió,9622,10593
+MA,Cajari,13405,18338
+MA,Campestre do Maranhão,11521,13369
+MA,Cândido Mendes,16566,18505
+MA,Cantanhede,17713,20448
+MA,Capinzal do Norte,10543,10698
+MA,Carolina,23991,23959
+MA,Carutapera,18624,22006
+MA,Caxias,139756,155129
+MA,Cedral,9793,10297
+MA,Central do Maranhão,7186,7887
+MA,Centro do Guilherme,6152,12565
+MA,Centro Novo do Maranhão,14554,17622
+MA,Chapadinha,61322,73350
+MA,Cidelândia,11816,13681
+MA,Codó,111146,118038
+MA,Coelho Neto,42214,46750
+MA,Colinas,35803,39132
+MA,Conceição do Lago-Açu,10774,14436
+MA,Coroatá,55676,61725
+MA,Cururupu,33747,32652
+MA,Davinópolis,12275,12579
+MA,Dom Pedro,21956,22681
+MA,Duque Bacelar,9413,10649
+MA,Esperantinópolis,21224,18452
+MA,Estreito,22930,35835
+MA,Feira Nova do Maranhão,7543,8126
+MA,Fernando Falcão,4823,9241
+MA,Formosa da Serra Negra,13781,17757
+MA,Fortaleza dos Nogueiras,11301,11646
+MA,Fortuna,14596,15098
+MA,Godofredo Viana,6994,10635
+MA,Gonçalves Dias,16790,17482
+MA,Governador Archer,9100,10205
+MA,Governador Edison Lobão,10891,15895
+MA,Governador Eugênio Barros,14629,15991
+MA,Governador Luiz Rocha,6513,7337
+MA,Governador Newton Bello,11804,11921
+MA,Governador Nunes Freire,25921,25401
+MA,Graça Aranha,6080,6140
+MA,Grajaú,47155,62093
+MA,Guimarães,12641,12081
+MA,Humberto de Campos,21266,26189
+MA,Icatu,21489,25145
+MA,Igarapé do Meio,9842,12550
+MA,Igarapé Grande,9759,11041
+MA,Imperatriz,230566,247505
+MA,Itaipava do Grajaú,13341,14297
+MA,Itapecuru Mirim,42772,62110
+MA,Itinga do Maranhão,23128,24863
+MA,Jatobá,5055,8526
+MA,Jenipapo dos Vieiras,10119,15440
+MA,João Lisboa,24598,20381
+MA,Joselândia,14609,15433
+MA,Junco do Maranhão,5533,4020
+MA,Lago da Pedra,40405,46083
+MA,Lago do Junco,9833,10729
+MA,Lago Verde,13038,15412
+MA,Lagoa do Mato,9446,10934
+MA,Lago dos Rodrigues,8443,7794
+MA,Lagoa Grande do Maranhão,8469,10517
+MA,Lajeado Novo,5717,6923
+MA,Lima Campos,10749,11423
+MA,Loreto,10024,11390
+MA,Luís Domingues,5724,6510
+MA,Magalhães de Almeida,13021,17587
+MA,Maracaçumé,14866,19155
+MA,Marajá do Sena,7161,8051
+MA,Maranhãozinho,8445,14065
+MA,Mata Roma,11799,15150
+MA,Matinha,19231,21885
+MA,Matões,26433,31015
+MA,Matões do Norte,7435,13794
+MA,Milagres do Maranhão,5149,8118
+MA,Mirador,19906,20452
+MA,Miranda do Norte,16123,24427
+MA,Mirinzal,13005,14218
+MA,Monção,26043,31738
+MA,Montes Altos,10347,9413
+MA,Morros,14594,17783
+MA,Nina Rodrigues,8289,12464
+MA,Nova Colinas,3904,4885
+MA,Nova Iorque,4543,4590
+MA,Nova Olinda do Maranhão,15660,19134
+MA,Olho d'Água das Cunhãs,14377,18601
+MA,Olinda Nova do Maranhão,10128,13181
+MA,Paço do Lumiar,76188,105121
+MA,Palmeirândia,17264,18764
+MA,Paraibano,17854,20103
+MA,Parnarama,32469,34586
+MA,Passagem Franca,14817,17562
+MA,Pastos Bons,15460,18067
+MA,Paulino Neves,11526,14519
+MA,Paulo Ramos,19290,20079
+MA,Pedreiras,39828,39448
+MA,Pedro do Rosário,17954,22732
+MA,Penalva,30299,34267
+MA,Peri Mirim,13071,13803
+MA,Peritoró,17336,21201
+MA,Pindaré-Mirim,27517,31152
+MA,Pinheiro,68030,78162
+MA,Pio XII,28413,22016
+MA,Pirapemas,15124,17381
+MA,Poção de Pedras,22378,19708
+MA,Porto Franco,16840,21530
+MA,Porto Rico do Maranhão,6380,6030
+MA,Presidente Dutra,39541,44731
+MA,Presidente Juscelino,10693,11541
+MA,Presidente Médici,5116,6374
+MA,Presidente Sarney,13718,17165
+MA,Presidente Vargas,10483,10717
+MA,Primeira Cruz,11019,13954
+MA,Raposa,17088,26327
+MA,Riachão,20983,20209
+MA,Ribamar Fiquene,6488,7318
+MA,Rosário,33665,39576
+MA,Sambaíba,5261,5487
+MA,Santa Filomena do Maranhão,4667,7061
+MA,Santa Helena,30860,39110
+MA,Santa Inês,68321,77282
+MA,Santa Luzia,69271,74043
+MA,Santa Luzia do Paruá,20058,22644
+MA,Santa Quitéria do Maranhão,28150,29191
+MA,Santa Rita,24922,32366
+MA,Santana do Maranhão,10944,11661
+MA,Santo Amaro do Maranhão,9612,13820
+MA,Santo Antônio dos Lopes,14253,14288
+MA,São Benedito do Rio Preto,16442,17799
+MA,São Bento,31819,40736
+MA,São Bernardo,22720,26476
+MA,São Domingos do Azeitão,6289,6983
+MA,São Domingos do Maranhão,33049,33607
+MA,São Félix de Balsas,5144,4702
+MA,São Francisco do Brejão,7062,10261
+MA,São Francisco do Maranhão,12854,12146
+MA,São João Batista,18917,19920
+MA,São João do Carú,13495,12309
+MA,São João do Paraíso,10365,10814
+MA,São João do Soter,14834,17238
+MA,São João dos Patos,23182,24928
+MA,São José de Ribamar,107384,163045
+MA,São José dos Basílios,7432,7496
+MA,São Luís,870028,1014837
+MA,São Luís Gonzaga do Maranhão,22772,20153
+MA,São Mateus do Maranhão,34859,39093
+MA,São Pedro da Água Branca,10927,12028
+MA,São Pedro dos Crentes,4024,4425
+MA,São Raimundo das Mangabeiras,14870,17474
+MA,São Raimundo do Doca Bezerra,6671,6090
+MA,São Roberto,4400,5957
+MA,São Vicente Ferrer,18406,20863
+MA,Satubinha,10815,11990
+MA,Senador Alexandre Costa,8571,10256
+MA,Senador La Rocque,16242,17998
+MA,Serrano do Maranhão,9120,10940
+MA,Sítio Novo,15114,17002
+MA,Sucupira do Norte,10378,10444
+MA,Sucupira do Riachão,4287,4613
+MA,Tasso Fragoso,6393,7796
+MA,Timbiras,26401,27997
+MA,Timon,129692,155460
+MA,Trizidela do Vale,16402,18953
+MA,Tufilândia,5527,5596
+MA,Tuntum,35411,39183
+MA,Turiaçu,31289,33933
+MA,Turilândia,17231,22846
+MA,Tutóia,37728,52788
+MA,Urbano Santos,17603,24573
+MA,Vargem Grande,34707,49412
+MA,Viana,44190,49496
+MA,Vila Nova dos Martírios,6705,11258
+MA,Vitória do Mearim,29953,31217
+MA,Vitorino Freire,27462,31658
+MA,Zé Doca,46134,50173
+MG,Abadia dos Dourados,6446,6704
+MG,Abaeté,22360,22690
+MG,Abre Campo,13348,13311
+MG,Acaiaca,3889,3920
+MG,Açucena,11489,10276
+MG,Água Boa,17795,15195
+MG,Água Comprida,2092,2025
+MG,Aguanil,3562,4054
+MG,Águas Formosas,17845,18479
+MG,Águas Vermelhas,11878,12722
+MG,Aimorés,25105,24959
+MG,Aiuruoca,6469,6162
+MG,Alagoa,2800,2709
+MG,Albertina,2841,2913
+MG,Além Paraíba,33610,34349
+MG,Alfenas,66957,73774
+MG,Alfredo Vasconcelos,5101,6075
+MG,Almenara,35385,38775
+MG,Alpercata,6966,7172
+MG,Alpinópolis,17031,18488
+MG,Alterosa,12976,13717
+MG,Alto Caparaó,4673,5297
+MG,Alto Rio Doce,13858,12159
+MG,Alvarenga,5212,4444
+MG,Alvinópolis,15588,15261
+MG,Alvorada de Minas,3527,3546
+MG,Amparo do Serra,5477,5053
+MG,Andradas,32968,37270
+MG,Cachoeira de Pajeú,8523,8959
+MG,Andrelândia,12310,12173
+MG,Angelândia,7468,8003
+MG,Antônio Carlos,10870,11114
+MG,Antônio Dias,10044,9565
+MG,Antônio Prado de Minas,1794,1671
+MG,Araçaí,2145,2243
+MG,Aracitaba,2086,2058
+MG,Araçuaí,35713,36013
+MG,Araguari,101974,109801
+MG,Arantina,2906,2823
+MG,Araponga,7916,8152
+MG,Araporã,5309,6144
+MG,Arapuá,2744,2775
+MG,Araújos,6217,7883
+MG,Araxá,78997,93672
+MG,Arceburgo,8035,9509
+MG,Arcos,32687,36597
+MG,Areado,12228,13731
+MG,Argirita,3173,2901
+MG,Aricanduva,4255,4770
+MG,Arinos,17709,17674
+MG,Astolfo Dutra,11805,13049
+MG,Ataléia,16747,14455
+MG,Augusto de Lima,5159,4960
+MG,Baependi,17523,18307
+MG,Baldim,8155,7913
+MG,Bambuí,21697,22734
+MG,Bandeira,5318,4987
+MG,Bandeira do Sul,4899,5338
+MG,Barão de Cocais,23391,28442
+MG,Barão de Monte Alto,6232,5720
+MG,Barbacena,114126,126284
+MG,Barra Longa,7554,6143
+MG,Barroso,18359,19599
+MG,Bela Vista de Minas,9846,10004
+MG,Belmiro Braga,3427,3403
+MG,Belo Horizonte,2238526,2375151
+MG,Belo Oriente,19516,23397
+MG,Belo Vale,7429,7536
+MG,Berilo,12979,12300
+MG,Bertópolis,4436,4498
+MG,Berizal,3970,4370
+MG,Betim,306675,378089
+MG,Bias Fortes,4392,3793
+MG,Bicas,12793,13653
+MG,Biquinhas,2821,2630
+MG,Boa Esperança,37074,38516
+MG,Bocaina de Minas,4983,5007
+MG,Bocaiúva,42806,46654
+MG,Bom Despacho,39943,45624
+MG,Bom Jardim de Minas,6643,6501
+MG,Bom Jesus da Penha,3523,3887
+MG,Bom Jesus do Amparo,4817,5491
+MG,Bom Jesus do Galho,16173,15364
+MG,Bom Repouso,10514,10457
+MG,Bom Sucesso,17064,17243
+MG,Bonfim,6866,6818
+MG,Bonfinópolis de Minas,6443,5865
+MG,Bonito de Minas,7863,9673
+MG,Borda da Mata,14439,17118
+MG,Botelhos,15101,14920
+MG,Botumirim,6834,6497
+MG,Brasilândia de Minas,11473,14226
+MG,Brasília de Minas,30266,31213
+MG,Brás Pires,5107,4637
+MG,Braúnas,5408,5030
+MG,Brasópolis,15165,14661
+MG,Brumadinho,26614,33973
+MG,Bueno Brandão,10932,10892
+MG,Buenópolis,10368,10292
+MG,Bugre,3949,3992
+MG,Buritis,20396,22737
+MG,Buritizeiro,25904,26922
+MG,Cabeceira Grande,5920,6453
+MG,Cabo Verde,13727,13823
+MG,Cachoeira da Prata,3780,3654
+MG,Cachoeira de Minas,10555,11034
+MG,Cachoeira Dourada,2305,2505
+MG,Caetanópolis,8571,10218
+MG,Caeté,36299,40750
+MG,Caiana,4367,4968
+MG,Cajuri,4190,4047
+MG,Caldas,12766,13633
+MG,Camacho,3533,3154
+MG,Camanducaia,20537,21080
+MG,Cambuí,22969,26488
+MG,Cambuquira,12538,12602
+MG,Campanário,3419,3564
+MG,Campanha,14098,15433
+MG,Campestre,20553,20686
+MG,Campina Verde,19100,19324
+MG,Campo Azul,3574,3684
+MG,Campo Belo,49187,51544
+MG,Campo do Meio,11436,11476
+MG,Campo Florido,5328,6870
+MG,Campos Altos,12819,14206
+MG,Campos Gerais,26541,27600
+MG,Canaã,4789,4628
+MG,Canápolis,10633,11365
+MG,Cana Verde,5664,5589
+MG,Candeias,14461,14595
+MG,Cantagalo,3838,4195
+MG,Caparaó,5000,5209
+MG,Capela Nova,4964,4755
+MG,Capelinha,31231,34803
+MG,Capetinga,7424,7089
+MG,Capim Branco,7900,8881
+MG,Capinópolis,14403,15290
+MG,Capitão Andrade,4306,4925
+MG,Capitão Enéas,13113,14206
+MG,Capitólio,7737,8183
+MG,Caputira,8834,9030
+MG,Caraí,20981,22343
+MG,Caranaíba,3478,3288
+MG,Carandaí,21057,23346
+MG,Carangola,31921,32296
+MG,Caratinga,77789,85239
+MG,Carbonita,8967,9148
+MG,Careaçu,5810,6298
+MG,Carlos Chagas,21994,20069
+MG,Carmésia,2246,2446
+MG,Carmo da Cachoeira,11600,11836
+MG,Carmo da Mata,10400,10927
+MG,Carmo de Minas,12545,13750
+MG,Carmo do Cajuru,17157,20012
+MG,Carmo do Paranaíba,29460,29735
+MG,Carmo do Rio Claro,19732,20426
+MG,Carmópolis de Minas,14348,17048
+MG,Carneirinho,8910,9471
+MG,Carrancas,3887,3948
+MG,Carvalhópolis,3089,3341
+MG,Carvalhos,4733,4556
+MG,Casa Grande,2264,2244
+MG,Cascalho Rico,2622,2857
+MG,Cássia,17278,17412
+MG,Conceição da Barra de Minas,4021,3954
+MG,Cataguases,63980,69757
+MG,Catas Altas,4241,4846
+MG,Catas Altas da Noruega,3288,3462
+MG,Catuji,7332,6708
+MG,Catuti,5337,5102
+MG,Caxambu,22129,21705
+MG,Cedro do Abaeté,1289,1210
+MG,Central de Minas,6548,6772
+MG,Centralina,10236,10266
+MG,Chácara,2370,2792
+MG,Chalé,5663,5645
+MG,Chapada do Norte,15225,15189
+MG,Chapada Gaúcha,7270,10805
+MG,Chiador,2958,2785
+MG,Cipotânea,6345,6547
+MG,Claraval,4242,4542
+MG,Claro dos Poções,8193,7775
+MG,Cláudio,22522,25771
+MG,Coimbra,6523,7054
+MG,Coluna,9369,9024
+MG,Comendador Gomes,2842,2972
+MG,Comercinho,10204,8298
+MG,Conceição da Aparecida,9372,9820
+MG,Conceição das Pedras,2714,2749
+MG,Conceição das Alagoas,17156,23043
+MG,Conceição de Ipanema,4377,4456
+MG,Conceição do Mato Dentro,18637,17908
+MG,Conceição do Pará,4793,5158
+MG,Conceição do Rio Verde,12273,12949
+MG,Conceição dos Ouros,8929,10388
+MG,Cônego Marinho,6477,7101
+MG,Confins,4880,5936
+MG,Congonhal,8726,10468
+MG,Congonhas,41256,48519
+MG,Congonhas do Norte,4897,4943
+MG,Conquista,6101,6526
+MG,Conselheiro Lafaiete,102836,116512
+MG,Conselheiro Pena,21734,22242
+MG,Consolação,1699,1727
+MG,Contagem,538017,603442
+MG,Coqueiral,9612,9289
+MG,Coração de Jesus,25729,26033
+MG,Cordisburgo,8522,8667
+MG,Cordislândia,3359,3435
+MG,Corinto,24546,23914
+MG,Coroaci,10802,10270
+MG,Coromandel,27452,27547
+MG,Coronel Fabriciano,97451,103694
+MG,Coronel Murta,9134,9117
+MG,Coronel Pacheco,2900,2983
+MG,Coronel Xavier Chaves,3185,3301
+MG,Córrego Danta,3674,3391
+MG,Córrego do Bom Jesus,3827,3730
+MG,Córrego Fundo,5179,5790
+MG,Córrego Novo,3638,3127
+MG,Couto de Magalhães de Minas,4007,4204
+MG,Crisólita,5298,6047
+MG,Cristais,9518,11286
+MG,Cristália,5583,5760
+MG,Cristiano Otoni,4905,5007
+MG,Cristina,10339,10210
+MG,Crucilândia,4477,4757
+MG,Cruzeiro da Fortaleza,3720,3934
+MG,Cruzília,13765,14591
+MG,Cuparaque,4367,4680
+MG,Curral de Dentro,5973,6913
+MG,Curvelo,67512,74219
+MG,Datas,5040,5211
+MG,Delfim Moreira,8032,7971
+MG,Delfinópolis,6577,6830
+MG,Delta,5065,8089
+MG,Descoberto,4531,4768
+MG,Desterro de Entre Rios,6807,7002
+MG,Desterro do Melo,3211,3015
+MG,Diamantina,44259,45880
+MG,Diogo de Vasconcelos,3972,3848
+MG,Dionísio,10191,8739
+MG,Divinésia,3188,3293
+MG,Divino,18420,19133
+MG,Divino das Laranjeiras,4965,4937
+MG,Divinolândia de Minas,6434,7024
+MG,Divinópolis,183962,213016
+MG,Divisa Alegre,4815,5884
+MG,Divisa Nova,5539,5763
+MG,Divisópolis,6480,8974
+MG,Dom Bosco,4055,3814
+MG,Dom Cavati,5473,5209
+MG,Dom Joaquim,4698,4535
+MG,Dom Silvério,5228,5196
+MG,Dom Viçoso,3034,2994
+MG,Dona Eusébia,5362,6001
+MG,Dores de Campos,8349,9299
+MG,Dores de Guanhães,5380,5223
+MG,Dores do Indaiá,14388,13778
+MG,Dores do Turvo,4799,4462
+MG,Doresópolis,1350,1440
+MG,Douradoquara,1785,1841
+MG,Durandé,7005,7423
+MG,Elói Mendes,21947,25220
+MG,Engenheiro Caldas,9347,10280
+MG,Engenheiro Navarro,7085,7122
+MG,Entre Folhas,5054,5175
+MG,Entre Rios de Minas,13114,14242
+MG,Ervália,17018,17946
+MG,Esmeraldas,47090,60271
+MG,Espera Feliz,20528,22856
+MG,Espinosa,30978,31113
+MG,Espírito Santo do Dourado,4162,4429
+MG,Estiva,10366,10845
+MG,Estrela Dalva,2674,2470
+MG,Estrela do Indaiá,3597,3516
+MG,Estrela do Sul,6883,7446
+MG,Eugenópolis,9766,10540
+MG,Ewbank da Câmara,3608,3753
+MG,Extrema,19219,28599
+MG,Fama,2353,2350
+MG,Faria Lemos,3606,3376
+MG,Felício dos Santos,5729,5142
+MG,São Gonçalo do Rio Preto,2963,3056
+MG,Felisburgo,6241,6877
+MG,Felixlândia,12784,14121
+MG,Fernandes Tourinho,2563,3030
+MG,Ferros,12331,10837
+MG,Fervedouro,9671,10349
+MG,Florestal,5647,6600
+MG,Formiga,62907,65128
+MG,Formoso,6522,8177
+MG,Fortaleza de Minas,3759,4098
+MG,Fortuna de Minas,2437,2705
+MG,Francisco Badaró,10309,10248
+MG,Francisco Dumont,4488,4863
+MG,Francisco Sá,23562,24912
+MG,Franciscópolis,6426,5800
+MG,Frei Gaspar,5975,5879
+MG,Frei Inocêncio,8176,8920
+MG,Frei Lagonegro,3191,3329
+MG,Fronteira,9024,14041
+MG,Fronteira dos Vales,4902,4687
+MG,Fruta de Leite,6777,5940
+MG,Frutal,46566,53468
+MG,Funilândia,3281,3855
+MG,Galiléia,7241,6951
+MG,Gameleiras,5263,5139
+MG,Glaucilândia,2767,2962
+MG,Goiabeira,2715,3053
+MG,Goianá,3323,3659
+MG,Gonçalves,4123,4220
+MG,Gonzaga,5713,5921
+MG,Gouveia,11689,11681
+MG,Governador Valadares,247131,263689
+MG,Grão Mogol,14224,15024
+MG,Grupiara,1376,1373
+MG,Guanhães,27828,31262
+MG,Guapé,13620,13872
+MG,Guaraciaba,10262,10223
+MG,Guaraciama,4469,4718
+MG,Guaranésia,18628,18714
+MG,Guarani,8520,8678
+MG,Guarará,4166,3929
+MG,Guarda-Mor,6656,6565
+MG,Guaxupé,47036,49430
+MG,Guidoval,7490,7206
+MG,Guimarânia,6384,7265
+MG,Guiricema,9259,8707
+MG,Gurinhatã,6883,6137
+MG,Heliodora,5657,6121
+MG,Iapu,9718,10315
+MG,Ibertioga,5140,5036
+MG,Ibiá,21044,23218
+MG,Ibiaí,7251,7839
+MG,Ibiracatu,6534,6155
+MG,Ibiraci,10229,12176
+MG,Ibirité,133044,158954
+MG,Ibitiúra de Minas,3301,3382
+MG,Ibituruna,2755,2866
+MG,Icaraí de Minas,9315,10746
+MG,Igarapé,24838,34851
+MG,Igaratinga,7355,9264
+MG,Iguatama,8269,8029
+MG,Ijaci,5064,5859
+MG,Ilicínea,10532,11488
+MG,Imbé de Minas,5911,6424
+MG,Inconfidentes,6479,6908
+MG,Indaiabira,7425,7330
+MG,Indianópolis,5387,6190
+MG,Ingaí,2494,2629
+MG,Inhapim,24895,24294
+MG,Inhaúma,5195,5760
+MG,Inimutaba,6116,6724
+MG,Ipaba,14531,16708
+MG,Ipanema,16286,18170
+MG,Ipatinga,212496,239468
+MG,Ipiaçu,4026,4107
+MG,Ipuiúna,8958,9521
+MG,Iraí de Minas,5903,6467
+MG,Itabira,98322,109783
+MG,Itabirinha de Mantena,9809,10692
+MG,Itabirito,37901,45449
+MG,Itacambira,4558,4988
+MG,Itacarambi,17455,17720
+MG,Itaguara,11302,12372
+MG,Itaipé,10751,11798
+MG,Itajubá,84135,90658
+MG,Itamarandiba,29400,32175
+MG,Itamarati de Minas,3791,4079
+MG,Itambacuri,22668,22809
+MG,Itambé do Mato Dentro,2582,2283
+MG,Itamogi,10723,10349
+MG,Itamonte,12197,14003
+MG,Itanhandu,12915,14175
+MG,Itanhomi,11572,11856
+MG,Itaobim,21271,21001
+MG,Itapagipe,11832,13656
+MG,Itapecerica,21235,21377
+MG,Itapeva,7361,8664
+MG,Itatiaiuçu,8517,9928
+MG,Itaú de Minas,13691,14945
+MG,Itaúna,76862,85463
+MG,Itaverava,6388,5799
+MG,Itinga,13894,14407
+MG,Itueta,5641,5830
+MG,Ituiutaba,89091,97171
+MG,Itumirim,6391,6139
+MG,Iturama,28814,34456
+MG,Itutinga,4140,3913
+MG,Jaboticatubas,13530,17134
+MG,Jacinto,12087,12134
+MG,Jacuí,7389,7502
+MG,Jacutinga,19004,22772
+MG,Jaguaraçu,2855,2990
+MG,Jaíba,27287,33587
+MG,Jampruca,4716,5067
+MG,Janaúba,61651,66803
+MG,Januária,63605,65463
+MG,Japaraíba,3473,3939
+MG,Japonvar,8121,8298
+MG,Jeceaba,6109,5395
+MG,Jenipapo de Minas,6490,7116
+MG,Jequeri,13658,12848
+MG,Jequitaí,8750,8005
+MG,Jequitibá,5171,5156
+MG,Jequitinhonha,22902,24131
+MG,Jesuânia,4823,4768
+MG,Joaíma,14555,14941
+MG,Joanésia,6617,5425
+MG,João Monlevade,66690,73610
+MG,João Pinheiro,41368,45260
+MG,Joaquim Felício,3872,4305
+MG,Jordânia,9865,10324
+MG,José Gonçalves de Minas,4696,4553
+MG,José Raydan,3647,4376
+MG,Josenópolis,4253,4566
+MG,Nova União,5427,5555
+MG,Juatuba,16389,22202
+MG,Juiz de Fora,456796,516247
+MG,Juramento,3901,4113
+MG,Juruaia,7680,9238
+MG,Juvenília,7148,5708
+MG,Ladainha,15832,16994
+MG,Lagamar,7710,7600
+MG,Lagoa da Prata,38758,45984
+MG,Lagoa dos Patos,4454,4225
+MG,Lagoa Dourada,11486,12256
+MG,Lagoa Formosa,16293,17161
+MG,Lagoa Grande,7610,8631
+MG,Lagoa Santa,37872,52520
+MG,Lajinha,19528,19609
+MG,Lambari,18249,19554
+MG,Lamim,3587,3452
+MG,Laranjal,6126,6465
+MG,Lassance,6554,6484
+MG,Lavras,78772,92200
+MG,Leandro Ferreira,3227,3205
+MG,Leme do Prado,4736,4804
+MG,Leopoldina,50097,51130
+MG,Liberdade,5792,5346
+MG,Lima Duarte,15708,16149
+MG,Limeira do Oeste,6170,6890
+MG,Lontra,7640,8397
+MG,Luisburgo,6297,6234
+MG,Luislândia,6121,6400
+MG,Luminárias,5482,5422
+MG,Luz,16833,17486
+MG,Machacalis,6917,6976
+MG,Machado,34877,38688
+MG,Madre de Deus de Minas,4734,4904
+MG,Malacacheta,19250,18776
+MG,Mamonas,6138,6321
+MG,Manga,21959,19813
+MG,Manhuaçu,67123,79574
+MG,Manhumirim,20025,21382
+MG,Mantena,26872,27111
+MG,Maravilhas,6232,7163
+MG,Mar de Espanha,10567,11749
+MG,Maria da Fé,14607,14216
+MG,Mariana,46710,54219
+MG,Marilac,4424,4219
+MG,Mário Campos,10535,13192
+MG,Maripá de Minas,2594,2788
+MG,Marliéria,4044,4012
+MG,Marmelópolis,3293,2968
+MG,Martinho Campos,11817,12611
+MG,Martins Soares,5685,7173
+MG,Mata Verde,7085,7874
+MG,Materlândia,4846,4595
+MG,Mateus Leme,24144,27856
+MG,Matias Barbosa,12323,13435
+MG,Matias Cardoso,8600,9979
+MG,Matipó,16291,17639
+MG,Mato Verde,13185,12684
+MG,Matozinhos,30164,33955
+MG,Matutina,3838,3761
+MG,Medeiros,3038,3444
+MG,Medina,21641,21026
+MG,Mendes Pimentel,6286,6331
+MG,Mercês,10061,10368
+MG,Mesquita,6771,6069
+MG,Minas Novas,30646,30794
+MG,Minduri,3834,3840
+MG,Mirabela,12552,13042
+MG,Miradouro,9770,10251
+MG,Miraí,12479,13808
+MG,Miravânia,4187,4549
+MG,Moeda,4469,4689
+MG,Moema,6513,7028
+MG,Monjolos,2579,2360
+MG,Monsenhor Paulo,7615,8161
+MG,Montalvânia,16031,15862
+MG,Monte Alegre de Minas,18006,19619
+MG,Monte Azul,23832,21994
+MG,Monte Belo,13142,13061
+MG,Monte Carmelo,43899,45772
+MG,Monte Formoso,4411,4656
+MG,Monte Santo de Minas,21212,21234
+MG,Montes Claros,306947,361915
+MG,Monte Sião,18195,21203
+MG,Montezuma,6573,7464
+MG,Morada Nova de Minas,7606,8255
+MG,Morro da Garça,2960,2660
+MG,Morro do Pilar,3735,3399
+MG,Munhoz,6656,6257
+MG,Muriaé,92101,100765
+MG,Mutum,26693,26661
+MG,Muzambinho,20589,20430
+MG,Nacip Raydan,3122,3154
+MG,Nanuque,41619,40834
+MG,Naque,5601,6341
+MG,Natalândia,3293,3280
+MG,Natércia,4644,4658
+MG,Nazareno,7240,7954
+MG,Nepomuceno,24822,25733
+MG,Ninheira,9356,9815
+MG,Nova Belém,4495,3732
+MG,Nova Era,17754,17528
+MG,Nova Lima,64387,80998
+MG,Nova Módica,4100,3790
+MG,Nova Ponte,9492,12812
+MG,Nova Porteirinha,7389,7398
+MG,Nova Resende,13887,15374
+MG,Nova Serrana,37447,73699
+MG,Novo Cruzeiro,30453,30725
+MG,Novo Oriente de Minas,9974,10339
+MG,Novorizonte,4610,4963
+MG,Olaria,2304,1976
+MG,Olhos-d'Água,4284,5267
+MG,Olímpio Noronha,2247,2533
+MG,Oliveira,37250,39466
+MG,Oliveira Fortes,2145,2123
+MG,Onça de Pitangui,2985,3055
+MG,Oratórios,4359,4493
+MG,Orizânia,6457,7284
+MG,Ouro Branco,30383,35268
+MG,Ouro Fino,29416,31568
+MG,Ouro Preto,66277,70281
+MG,Ouro Verde de Minas,6223,6016
+MG,Padre Carvalho,5227,5834
+MG,Padre Paraíso,17475,18849
+MG,Paineiras,4895,4631
+MG,Pains,7798,8014
+MG,Pai Pedro,5832,5934
+MG,Paiva,1622,1558
+MG,Palma,6561,6545
+MG,Palmópolis,8886,6931
+MG,Papagaios,12472,14175
+MG,Paracatu,75216,84718
+MG,Pará de Minas,73007,84215
+MG,Paraguaçu,18942,20245
+MG,Paraisópolis,17498,19379
+MG,Paraopeba,20383,22563
+MG,Passabém,1946,1766
+MG,Passa Quatro,14855,15582
+MG,Passa Tempo,8480,8197
+MG,Passa-Vinte,2164,2079
+MG,Passos,97211,106290
+MG,Patis,5164,5579
+MG,Patos de Minas,123881,138710
+MG,Patrocínio,73130,82471
+MG,Patrocínio do Muriaé,4861,5287
+MG,Paula Cândido,9037,9271
+MG,Paulistas,5113,4918
+MG,Pavão,8912,8589
+MG,Peçanha,17183,17260
+MG,Pedra Azul,23608,23839
+MG,Pedra Bonita,6237,6673
+MG,Pedra do Anta,3925,3365
+MG,Pedra do Indaiá,3814,3875
+MG,Pedra Dourada,1822,2191
+MG,Pedralva,12009,11467
+MG,Pedras de Maria da Cruz,8871,10315
+MG,Pedrinópolis,3361,3490
+MG,Pedro Leopoldo,53957,58740
+MG,Pedro Teixeira,1787,1785
+MG,Pequeri,3016,3165
+MG,Pequi,3717,4076
+MG,Perdigão,5707,8912
+MG,Perdizes,12364,14404
+MG,Perdões,18736,20087
+MG,Periquito,7445,7036
+MG,Pescador,4037,4128
+MG,Piau,3008,2841
+MG,Piedade de Caratinga,5347,7110
+MG,Piedade de Ponte Nova,4029,4062
+MG,Piedade do Rio Grande,5063,4709
+MG,Piedade dos Gerais,4274,4640
+MG,Pimenta,7824,8236
+MG,Pingo-d'Água,3820,4420
+MG,Pintópolis,6949,7211
+MG,Piracema,6509,6406
+MG,Pirajuba,2741,4656
+MG,Piranga,17010,17232
+MG,Piranguçu,4974,5217
+MG,Piranguinho,7399,8016
+MG,Pirapetinga,10034,10364
+MG,Pirapora,50300,53368
+MG,Piraúba,11140,10862
+MG,Pitangui,22269,25311
+MG,Piumhi,28783,31883
+MG,Planura,8297,10384
+MG,Poço Fundo,15148,15959
+MG,Poços de Caldas,135627,152435
+MG,Pocrane,9851,8986
+MG,Pompéu,26089,29105
+MG,Ponte Nova,55303,57390
+MG,Ponto Chique,3651,3966
+MG,Ponto dos Volantes,10529,11345
+MG,Porteirinha,37890,37627
+MG,Porto Firme,9474,10417
+MG,Poté,14780,15667
+MG,Pouso Alegre,106776,130615
+MG,Pouso Alto,6669,6213
+MG,Prados,7703,8391
+MG,Prata,23576,25802
+MG,Pratápolis,9217,8807
+MG,Pratinha,2883,3265
+MG,Presidente Bernardes,5847,5537
+MG,Presidente Juscelino,4319,3908
+MG,Presidente Kubitschek,2951,2959
+MG,Presidente Olegário,17781,18577
+MG,Alto Jequitibá,8458,8318
+MG,Prudente de Morais,8232,9573
+MG,Quartel Geral,3022,3303
+MG,Queluzito,1791,1861
+MG,Raposos,14289,15342
+MG,Raul Soares,24287,23818
+MG,Recreio,10188,10299
+MG,Reduto,5923,6569
+MG,Resende Costa,10336,10913
+MG,Resplendor,16975,17089
+MG,Ressaquinha,4557,4711
+MG,Riachinho,7973,8007
+MG,Riacho dos Machados,9358,9360
+MG,Ribeirão das Neves,246846,296317
+MG,Ribeirão Vermelho,3621,3826
+MG,Rio Acima,7658,9090
+MG,Rio Casca,15260,14201
+MG,Rio Doce,2318,2465
+MG,Rio do Prado,5390,5217
+MG,Rio Espera,6942,6070
+MG,Rio Manso,4646,5276
+MG,Rio Novo,8550,8712
+MG,Rio Paranaíba,11528,11885
+MG,Rio Pardo de Minas,27237,29099
+MG,Rio Piracicaba,14138,14149
+MG,Rio Pomba,16359,17110
+MG,Rio Preto,5142,5292
+MG,Rio Vermelho,14905,13645
+MG,Ritápolis,5423,4925
+MG,Rochedo de Minas,1907,2116
+MG,Rodeiro,5375,6867
+MG,Romaria,3737,3596
+MG,Rosário da Limeira,3869,4247
+MG,Rubelita,10199,7772
+MG,Rubim,9666,9919
+MG,Sabará,115352,126269
+MG,Sabinópolis,16269,15704
+MG,Sacramento,21334,23896
+MG,Salinas,36720,39178
+MG,Salto da Divisa,6779,6859
+MG,Santa Bárbara,24180,27876
+MG,Santa Bárbara do Leste,7208,7682
+MG,Santa Bárbara do Monte Verde,2366,2788
+MG,Santa Bárbara do Tugúrio,4827,4570
+MG,Santa Cruz de Minas,7042,7865
+MG,Santa Cruz de Salinas,4801,4397
+MG,Santa Cruz do Escalvado,5378,4992
+MG,Santa Efigênia de Minas,4924,4600
+MG,Santa Fé de Minas,4192,3968
+MG,Santa Helena de Minas,5753,6055
+MG,Santa Juliana,8078,11337
+MG,Santa Luzia,184903,202942
+MG,Santa Margarida,13713,15011
+MG,Santa Maria de Itabira,10346,10552
+MG,Santa Maria do Salto,5438,5284
+MG,Santa Maria do Suaçuí,14350,14395
+MG,Santana da Vargem,7521,7231
+MG,Santana de Cataguases,3360,3622
+MG,Santana de Pirapama,8616,8009
+MG,Santana do Deserto,3774,3860
+MG,Santana do Garambéu,1982,2234
+MG,Santana do Jacaré,4408,4607
+MG,Santana do Manhuaçu,8607,8582
+MG,Santana do Paraíso,18155,27265
+MG,Santana do Riacho,3739,4023
+MG,Santana dos Montes,3944,3822
+MG,Santa Rita de Caldas,9278,9027
+MG,Santa Rita de Jacutinga,5218,4993
+MG,Santa Rita de Minas,5795,6547
+MG,Santa Rita de Ibitipoca,3847,3583
+MG,Santa Rita do Itueto,6061,5697
+MG,Santa Rita do Sapucaí,31264,37754
+MG,Santa Rosa da Serra,3114,3224
+MG,Santa Vitória,16365,18138
+MG,Santo Antônio do Amparo,16109,17345
+MG,Santo Antônio do Aventureiro,3514,3538
+MG,Santo Antônio do Grama,4377,4085
+MG,Santo Antônio do Itambé,4588,4135
+MG,Santo Antônio do Jacinto,12144,11775
+MG,Santo Antônio do Monte,23473,25975
+MG,Santo Antônio do Retiro,6655,6955
+MG,Santo Antônio do Rio Abaixo,1823,1777
+MG,Santo Hipólito,3488,3238
+MG,Santos Dumont,46789,46284
+MG,São Bento Abade,3737,4577
+MG,São Brás do Suaçuí,3282,3513
+MG,São Domingos das Dores,5192,5408
+MG,São Domingos do Prata,17642,17357
+MG,São Félix de Minas,3454,3382
+MG,São Francisco,51497,53828
+MG,São Francisco de Paula,6533,6483
+MG,São Francisco de Sales,5274,5776
+MG,São Francisco do Glória,5696,5178
+MG,São Geraldo,7716,10263
+MG,São Geraldo da Piedade,5015,4389
+MG,São Geraldo do Baixio,2864,3486
+MG,São Gonçalo do Abaeté,5432,6264
+MG,São Gonçalo do Pará,7969,10398
+MG,São Gonçalo do Rio Abaixo,8462,9777
+MG,São Gonçalo do Sapucaí,22308,23906
+MG,São Gotardo,27631,31819
+MG,São João Batista do Glória,6271,6887
+MG,São João da Lagoa,4400,4656
+MG,São João da Mata,2752,2731
+MG,São João da Ponte,26028,25358
+MG,São João das Missões,10230,11715
+MG,São João del Rei,78616,84469
+MG,São João do Manhuaçu,8716,10245
+MG,São João do Manteninha,4406,5188
+MG,São João do Oriente,8492,7874
+MG,São João do Pacuí,3664,4060
+MG,São João do Paraíso,21010,22319
+MG,São João Evangelista,15526,15553
+MG,São João Nepomuceno,23786,25057
+MG,São Joaquim de Bicas,18152,25537
+MG,São José da Barra,6053,6778
+MG,São José da Lapa,15000,19799
+MG,São José da Safira,3894,4075
+MG,São José da Varginha,3225,4198
+MG,São José do Alegre,3802,3996
+MG,São José do Divino,3863,3834
+MG,São José do Goiabal,6009,5636
+MG,São José do Jacuri,6789,6553
+MG,São José do Mantimento,2379,2592
+MG,São Lourenço,36927,41657
+MG,São Miguel do Anta,6641,6760
+MG,São Pedro da União,5618,5040
+MG,São Pedro dos Ferros,9239,8356
+MG,São Pedro do Suaçuí,6081,5570
+MG,São Romão,7783,10276
+MG,São Roque de Minas,6325,6686
+MG,São Sebastião da Bela Vista,4311,4948
+MG,São Sebastião da Vargem Alegre,2573,2798
+MG,São Sebastião do Anta,4779,5739
+MG,São Sebastião do Maranhão,11604,10647
+MG,São Sebastião do Oeste,4648,5805
+MG,São Sebastião do Paraíso,58335,64980
+MG,São Sebastião do Rio Preto,1779,1613
+MG,São Sebastião do Rio Verde,1976,2110
+MG,São Tiago,10245,10561
+MG,São Tomás de Aquino,7303,7093
+MG,São Thomé das Letras,6204,6655
+MG,São Vicente de Minas,6163,7008
+MG,Sapucaí-Mirim,5455,6241
+MG,Sardoá,4775,5594
+MG,Sarzedo,17274,25814
+MG,Setubinha,9291,10885
+MG,Sem-Peixe,3170,2847
+MG,Senador Amaral,5128,5219
+MG,Senador Cortes,2000,1988
+MG,Senador Firmino,6598,7230
+MG,Senador José Bento,2371,1868
+MG,Senador Modestino Gonçalves,5190,4574
+MG,Senhora de Oliveira,5643,5683
+MG,Senhora do Porto,3520,3497
+MG,Senhora dos Remédios,10024,10196
+MG,Sericita,6990,7128
+MG,Seritinga,1738,1789
+MG,Serra Azul de Minas,4197,4220
+MG,Serra da Saudade,873,815
+MG,Serra dos Aimorés,8182,8412
+MG,Serra do Salitre,9390,10549
+MG,Serrania,7504,7542
+MG,Serranópolis de Minas,4038,4425
+MG,Serranos,2071,1995
+MG,Serro,21012,20835
+MG,Sete Lagoas,184871,214152
+MG,Silveirânia,2138,2192
+MG,Silvianópolis,5855,6027
+MG,Simão Pereira,2479,2537
+MG,Simonésia,16875,18298
+MG,Sobrália,6284,5830
+MG,Soledade de Minas,5155,5676
+MG,Tabuleiro,4572,4079
+MG,Taiobeiras,27347,30917
+MG,Taparuba,3225,3137
+MG,Tapira,3327,4112
+MG,Tapiraí,1900,1873
+MG,Taquaraçu de Minas,3491,3794
+MG,Tarumirim,14488,14293
+MG,Teixeiras,11149,11355
+MG,Teófilo Otoni,129424,134745
+MG,Timóteo,71478,81243
+MG,Tiradentes,5759,6961
+MG,Tiros,7571,6906
+MG,Tocantins,15005,15823
+MG,Tocos do Moji,3821,3950
+MG,Toledo,5222,5764
+MG,Tombos,11652,9537
+MG,Três Corações,65291,72765
+MG,Três Marias,23568,28318
+MG,Três Pontas,51024,53860
+MG,Tumiritinga,5831,6293
+MG,Tupaciguara,23117,24188
+MG,Turmalina,15655,18055
+MG,Turvolândia,4243,4658
+MG,Ubá,85065,101519
+MG,Ubaí,10774,11681
+MG,Ubaporanga,11682,12040
+MG,Uberaba,252051,295988
+MG,Uberlândia,501214,604013
+MG,Umburatiba,2872,2705
+MG,Unaí,70033,77565
+MG,União de Minas,4638,4418
+MG,Uruana de Minas,3263,3235
+MG,Urucânia,10375,10291
+MG,Urucuia,9615,13604
+MG,Vargem Alegre,6544,6461
+MG,Vargem Bonita,2212,2163
+MG,Vargem Grande do Rio Pardo,4457,4733
+MG,Varginha,108998,123081
+MG,Varjão de Minas,4701,6054
+MG,Várzea da Palma,31641,35809
+MG,Varzelândia,19169,19116
+MG,Vazante,18928,19723
+MG,Verdelândia,7179,8346
+MG,Veredinha,5257,5549
+MG,Veríssimo,2874,3483
+MG,Vermelho Novo,4572,4689
+MG,Vespasiano,76422,104527
+MG,Viçosa,64854,72220
+MG,Vieiras,3952,3731
+MG,Mathias Lobato,3642,3370
+MG,Virgem da Lapa,13672,13619
+MG,Virgínia,8699,8623
+MG,Virginópolis,10827,10572
+MG,Virgolândia,6112,5658
+MG,Visconde do Rio Branco,32598,37942
+MG,Volta Grande,4919,5070
+MG,Wenceslau Braz,2596,2553
+MS,Água Clara,11015,14424
+MS,Alcinópolis,3679,4569
+MS,Amambaí,29484,34730
+MS,Anastácio,22477,23835
+MS,Anaurilândia,7955,8493
+MS,Angélica,7356,9185
+MS,Antônio João,7408,8208
+MS,Aparecida do Taboado,18402,22320
+MS,Aquidauana,43440,45614
+MS,Aral Moreira,8055,10251
+MS,Bandeirantes,6425,6609
+MS,Bataguassu,16197,19839
+MS,Batayporã,10625,10936
+MS,Bela Vista,21764,23181
+MS,Bodoquena,8367,7985
+MS,Bonito,16956,19587
+MS,Brasilândia,11956,11826
+MS,Caarapó,20706,25767
+MS,Camapuã,16446,13625
+MS,Campo Grande,663621,786797
+MS,Caracol,4592,5398
+MS,Cassilândia,20087,20966
+MS,Chapadão do Sul,11658,19648
+MS,Corguinho,3592,4862
+MS,Coronel Sapucaia,12810,14064
+MS,Corumbá,95701,103703
+MS,Costa Rica,15488,19695
+MS,Coxim,30866,32159
+MS,Deodápolis,11350,12139
+MS,Dois Irmãos do Buriti,9335,10363
+MS,Douradina,4732,5364
+MS,Dourados,164949,196035
+MS,Eldorado,11059,11694
+MS,Fátima do Sul,19111,19035
+MS,Figueirão,NA,2928
+MS,Glória de Dourados,10035,9927
+MS,Guia Lopes da Laguna,11115,10366
+MS,Iguatemi,13617,14875
+MS,Inocência,7872,7669
+MS,Itaporã,17045,20865
+MS,Itaquiraí,15770,18614
+MS,Ivinhema,21643,22341
+MS,Japorã,6140,7731
+MS,Jaraguari,5389,6341
+MS,Jardim,22542,24346
+MS,Jateí,4054,4011
+MS,Juti,4981,5900
+MS,Ladário,15313,19617
+MS,Laguna Carapã,5531,6491
+MS,Maracaju,26219,37405
+MS,Miranda,23007,25595
+MS,Mundo Novo,15669,17043
+MS,Naviraí,36662,46424
+MS,Nioaque,15086,14391
+MS,Nova Alvorada do Sul,9956,16432
+MS,Nova Andradina,35381,45585
+MS,Novo Horizonte do Sul,6415,4940
+MS,Paranaíba,38406,40192
+MS,Paranhos,10215,12350
+MS,Pedro Gomes,8535,7967
+MS,Ponta Porã,60916,77872
+MS,Porto Murtinho,13316,15372
+MS,Ribas do Rio Pardo,16721,20946
+MS,Rio Brilhante,22640,30663
+MS,Rio Negro,5432,5036
+MS,Rio Verde de Mato Grosso,18138,18890
+MS,Rochedo,4358,4928
+MS,Santa Rita do Pardo,6640,7259
+MS,São Gabriel do Oeste,16821,22203
+MS,Sete Quedas,10936,10780
+MS,Selvíria,6085,6287
+MS,Sidrolândia,23483,42132
+MS,Sonora,9543,14833
+MS,Tacuru,8717,10215
+MS,Taquarussu,3493,3518
+MS,Terenos,11662,17146
+MS,Três Lagoas,79059,101791
+MS,Vicentina,5779,5901
+MT,Acorizal,5817,5516
+MT,Água Boa,16737,20856
+MT,Alta Floresta,46982,49164
+MT,Alto Araguaia,11410,15644
+MT,Alto Boa Vista,6206,5247
+MT,Alto Garças,8335,10350
+MT,Alto Paraguai,8605,10066
+MT,Alto Taquari,4476,8072
+MT,Apiacás,6665,8567
+MT,Araguaiana,3426,3197
+MT,Araguainha,1352,1096
+MT,Araputanga,13675,15342
+MT,Arenápolis,11605,10316
+MT,Aripuanã,27560,18656
+MT,Barão de Melgaço,7682,7591
+MT,Barra do Bugres,27460,31793
+MT,Barra do Garças,52092,56560
+MT,Bom Jesus do Araguaia,NA,5314
+MT,Brasnorte,9815,15357
+MT,Cáceres,85857,87942
+MT,Campinápolis,12419,14305
+MT,Campo Novo do Parecis,17638,27577
+MT,Campo Verde,17221,31589
+MT,Campos de Júlio,2895,5154
+MT,Canabrava do Norte,4989,4786
+MT,Canarana,15408,18754
+MT,Carlinda,12296,10990
+MT,Castanheira,7790,8231
+MT,Chapada dos Guimarães,15755,17821
+MT,Cláudia,10249,11028
+MT,Cocalinho,5504,5490
+MT,Colíder,28051,30766
+MT,Colniza,NA,26381
+MT,Comodoro,15046,18178
+MT,Confresa,17841,25124
+MT,Conquista D'Oeste,NA,3385
+MT,Cotriguaçu,8474,14983
+MT,Cuiabá,483346,551098
+MT,Curvelândia,NA,4866
+MT,Denise,7463,8523
+MT,Diamantino,18580,20341
+MT,Dom Aquino,8418,8171
+MT,Feliz Natal,6769,10933
+MT,Figueirópolis D'Oeste,4315,3796
+MT,Gaúcha do Norte,4605,6293
+MT,General Carneiro,4349,5027
+MT,Glória D'Oeste,3361,3135
+MT,Guarantã do Norte,28200,32216
+MT,Guiratinga,12645,13934
+MT,Indiavaí,2056,2397
+MT,Ipiranga do Norte,NA,5123
+MT,Itanhangá,NA,5276
+MT,Itaúba,8565,4575
+MT,Itiquira,9200,11478
+MT,Jaciara,23796,25647
+MT,Jangada,7134,7696
+MT,Jauru,12764,10455
+MT,Juara,30748,32791
+MT,Juína,38017,39255
+MT,Juruena,5448,11201
+MT,Juscimeira,12063,11430
+MT,Lambari D'Oeste,4690,5431
+MT,Lucas do Rio Verde,19316,45556
+MT,Luciára,2494,2224
+MT,Vila Bela da Santíssima Trindade,12665,14493
+MT,Marcelândia,14448,12006
+MT,Matupá,11289,14174
+MT,Mirassol d'Oeste,22997,25299
+MT,Nobres,14983,15002
+MT,Nortelândia,7246,6436
+MT,Nossa Senhora do Livramento,12141,11609
+MT,Nova Bandeirantes,6951,11643
+MT,Nova Nazaré,NA,3029
+MT,Nova Lacerda,4045,5436
+MT,Nova Santa Helena,NA,3468
+MT,Nova Brasilândia,5786,4587
+MT,Nova Canaã do Norte,11516,12127
+MT,Nova Mutum,14818,31649
+MT,Nova Olímpia,14186,17515
+MT,Nova Ubiratã,5654,9218
+MT,Nova Xavantina,17832,19643
+MT,Novo Mundo,4997,7332
+MT,Novo Horizonte do Norte,3511,3749
+MT,Novo São Joaquim,9464,6042
+MT,Paranaíta,10254,10684
+MT,Paranatinga,15342,19290
+MT,Novo Santo Antônio,NA,2005
+MT,Pedra Preta,13611,15755
+MT,Peixoto de Azevedo,26156,30812
+MT,Planalto da Serra,2881,2726
+MT,Poconé,30773,31779
+MT,Pontal do Araguaia,3736,5395
+MT,Ponte Branca,2087,1768
+MT,Pontes e Lacerda,43012,41408
+MT,Porto Alegre do Norte,8623,10748
+MT,Porto dos Gaúchos,5665,5449
+MT,Porto Esperidião,9996,11031
+MT,Porto Estrela,4707,3649
+MT,Poxoréo,20030,17599
+MT,Primavera do Leste,39857,52066
+MT,Querência,7274,13033
+MT,São José dos Quatro Marcos,19693,18998
+MT,Reserva do Cabaçal,2418,2572
+MT,Ribeirão Cascalheira,8866,8881
+MT,Ribeirãozinho,1980,2199
+MT,Rio Branco,5092,5070
+MT,Santa Carmem,3599,4085
+MT,Santo Afonso,3098,2991
+MT,São José do Povo,3056,3592
+MT,São José do Rio Claro,12740,17124
+MT,São José do Xingu,5944,5240
+MT,São Pedro da Cipa,3495,4158
+MT,Rondolândia,NA,3604
+MT,Rondonópolis,150227,195476
+MT,Rosário Oeste,18755,17679
+MT,Santa Cruz do Xingu,NA,1900
+MT,Salto do Céu,4675,3908
+MT,Santa Rita do Trivelato,NA,2491
+MT,Santa Terezinha,6270,7397
+MT,Santo Antônio do Leste,NA,3754
+MT,Santo Antônio do Leverger,15435,18463
+MT,São Félix do Araguaia,10687,10625
+MT,Sapezal,7866,18094
+MT,Serra Nova Dourada,NA,1365
+MT,Sinop,74831,113099
+MT,Sorriso,35605,66521
+MT,Tabaporã,10842,9932
+MT,Tangará da Serra,58840,83431
+MT,Tapurah,11561,10392
+MT,Terra Nova do Norte,13694,11291
+MT,Tesouro,3130,3418
+MT,Torixoréu,4832,4071
+MT,União do Sul,4196,3760
+MT,Vale de São Domingos,NA,3052
+MT,Várzea Grande,215298,252596
+MT,Vera,9055,10235
+MT,Vila Rica,15583,21382
+MT,Nova Guarita,5651,4932
+MT,Nova Marilândia,2354,2951
+MT,Nova Maringá,3950,6590
+MT,Nova Monte verde,6827,8093
+PA,Abaetetuba,119152,141100
+PA,Abel Figueiredo,5957,6780
+PA,Acará,52126,53569
+PA,Afuá,29505,35042
+PA,Água Azul do Norte,22084,25057
+PA,Alenquer,41784,52626
+PA,Almeirim,33957,33614
+PA,Altamira,77439,99075
+PA,Anajás,18322,24759
+PA,Ananindeua,393569,471980
+PA,Anapu,9407,20543
+PA,Augusto Corrêa,33011,40497
+PA,Aurora do Pará,19728,26546
+PA,Aveiro,15518,15849
+PA,Bagre,13708,23864
+PA,Baião,21119,36882
+PA,Bannach,3780,3431
+PA,Barcarena,63268,99859
+PA,Belém,1280614,1393399
+PA,Belterra,14594,16318
+PA,Benevides,35546,51651
+PA,Bom Jesus do Tocantins,13106,15298
+PA,Bonito,9814,13630
+PA,Bragança,93779,113227
+PA,Brasil Novo,17193,15690
+PA,Brejo Grande do Araguaia,7464,7317
+PA,Breu Branco,32446,52493
+PA,Breves,80158,92860
+PA,Bujaru,21032,25695
+PA,Cachoeira do Piriá,15437,26484
+PA,Cachoeira do Arari,15783,20443
+PA,Cametá,97624,120896
+PA,Canaã dos Carajás,10922,26716
+PA,Capanema,57119,63639
+PA,Capitão Poço,49769,51893
+PA,Castanhal,134496,173149
+PA,Chaves,17350,21005
+PA,Colares,10632,11381
+PA,Conceição do Araguaia,43386,45557
+PA,Concórdia do Pará,20956,28216
+PA,Cumaru do Norte,5978,10466
+PA,Curionópolis,19486,18288
+PA,Curralinho,20016,28549
+PA,Curuá,9224,12254
+PA,Curuçá,26160,34294
+PA,Dom Eliseu,39529,51319
+PA,Eldorado dos Carajás,29608,31786
+PA,Faro,10037,8177
+PA,Floresta do Araguaia,14284,17768
+PA,Garrafão do Norte,24221,25034
+PA,Goianésia do Pará,22685,30436
+PA,Gurupá,23098,29062
+PA,Igarapé-Açu,32400,35887
+PA,Igarapé-Miri,52604,58077
+PA,Inhangapi,7681,10037
+PA,Ipixuna do Pará,25138,51309
+PA,Irituia,30518,31364
+PA,Itaituba,94750,97493
+PA,Itupiranga,49655,51220
+PA,Jacareacanga,24024,14103
+PA,Jacundá,40546,51360
+PA,Juruti,31198,47086
+PA,Limoeiro do Ajuru,19564,25021
+PA,Mãe do Rio,25351,27904
+PA,Magalhães Barata,7693,8115
+PA,Marabá,168020,233669
+PA,Maracanã,27571,28376
+PA,Marapanim,24718,26605
+PA,Marituba,74429,108246
+PA,Medicilândia,21379,27328
+PA,Melgaço,21064,24808
+PA,Mocajuba,20542,26731
+PA,Moju,52941,70018
+PA,Monte Alegre,61334,55462
+PA,Muaná,25467,34204
+PA,Nova Esperança do Piriá,18893,20158
+PA,Nova Ipixuna,11866,14645
+PA,Nova Timboteua,11406,13670
+PA,Novo Progresso,24948,25124
+PA,Novo Repartimento,41817,62050
+PA,Óbidos,46490,49333
+PA,Oeiras do Pará,23255,28595
+PA,Oriximiná,48332,62794
+PA,Ourém,14397,16311
+PA,Ourilândia do Norte,19471,27359
+PA,Pacajá,28888,39979
+PA,Palestina do Pará,7544,7475
+PA,Paragominas,76450,97819
+PA,Parauapebas,71568,153908
+PA,Pau D'Arco,7124,6033
+PA,Peixe-Boi,7760,7854
+PA,Piçarra,12671,12697
+PA,Placas,13394,23934
+PA,Ponta de Pedras,18694,25999
+PA,Portel,38043,52172
+PA,Porto de Moz,23545,33956
+PA,Prainha,27301,29349
+PA,Primavera,9718,10268
+PA,Quatipuru,10905,12411
+PA,Redenção,63251,75556
+PA,Rio Maria,17498,17697
+PA,Rondon do Pará,39870,46964
+PA,Rurópolis,24660,40087
+PA,Salinópolis,33449,37421
+PA,Salvaterra,15118,20183
+PA,Santa Bárbara do Pará,11378,17141
+PA,Santa Cruz do Arari,5255,8155
+PA,Santa Isabel do Pará,43227,59466
+PA,Santa Luzia do Pará,19400,19424
+PA,Santa Maria das Barreiras,10955,17206
+PA,Santa Maria do Pará,20850,23026
+PA,Santana do Araguaia,31218,56153
+PA,Santarém,262538,294580
+PA,Santarém Novo,5434,6141
+PA,Santo Antônio do Tauá,19835,26674
+PA,São Caetano de Odivelas,15595,16891
+PA,São Domingos do Araguaia,20005,23130
+PA,São Domingos do Capim,27405,29846
+PA,São Félix do Xingu,34621,91340
+PA,São Francisco do Pará,14245,15060
+PA,São Geraldo do Araguaia,27646,25587
+PA,São João da Ponta,4035,5265
+PA,São João de Pirabas,17484,20647
+PA,São João do Araguaia,12247,13155
+PA,São Miguel do Guamá,41366,51567
+PA,São Sebastião da Boa Vista,17664,22904
+PA,Sapucaia,3796,5047
+PA,Senador José Porfírio,15721,13045
+PA,Soure,19958,23001
+PA,Tailândia,38435,79297
+PA,Terra Alta,8261,10262
+PA,Terra Santa,14592,16949
+PA,Tomé-Açu,47273,56518
+PA,Tracuateua,22743,27455
+PA,Trairão,14042,16875
+PA,Tucumã,25309,33690
+PA,Tucuruí,73798,97128
+PA,Ulianópolis,19254,43341
+PA,Uruará,45201,44789
+PA,Vigia,40176,47889
+PA,Viseu,51090,56716
+PA,Vitória do Xingu,11142,13431
+PA,Xinguara,35220,40573
+PB,Água Branca,8377,9449
+PB,Aguiar,5638,5530
+PB,Alagoa Grande,29169,28479
+PB,Alagoa Nova,18575,19681
+PB,Alagoinha,11833,13576
+PB,Alcantil,4958,5239
+PB,Algodão de Jandaíra,2209,2366
+PB,Alhandra,15914,18007
+PB,São João do Rio do Peixe,17661,18201
+PB,Amparo,1886,2088
+PB,Aparecida,5894,7676
+PB,Araçagi,18095,17224
+PB,Arara,11530,12653
+PB,Araruna,16605,18879
+PB,Areia,26131,23829
+PB,Areia de Baraúnas,2104,1927
+PB,Areial,6039,6470
+PB,Aroeiras,19520,19082
+PB,Assunção,2960,3522
+PB,Baía da Traição,6483,8012
+PB,Bananeiras,21810,21851
+PB,Baraúna,3169,4220
+PB,Barra de Santana,8311,8206
+PB,Barra de Santa Rosa,13127,14157
+PB,Barra de São Miguel,5162,5611
+PB,Bayeux,87561,99716
+PB,Belém,16605,17093
+PB,Belém do Brejo do Cruz,7011,7143
+PB,Bernardino Batista,2559,3075
+PB,Boa Ventura,6588,5751
+PB,Boa Vista,4983,6227
+PB,Bom Jesus,2193,2400
+PB,Bom Sucesso,5285,5035
+PB,Bonito de Santa Fé,9230,10804
+PB,Boqueirão,15867,16888
+PB,Igaracy,6307,6156
+PB,Borborema,4730,5111
+PB,Brejo do Cruz,11868,13123
+PB,Brejo dos Santos,5948,6198
+PB,Caaporã,18441,20362
+PB,Cabaceiras,4290,5035
+PB,Cabedelo,42832,57944
+PB,Cachoeira dos Índios,7834,9546
+PB,Cacimba de Areia,3577,3557
+PB,Cacimba de Dentro,16817,16748
+PB,Cacimbas,6979,6814
+PB,Caiçara,7325,7220
+PB,Cajazeiras,54715,58446
+PB,Cajazeirinhas,2848,3033
+PB,Caldas Brandão,5155,5637
+PB,Camalaú,5516,5749
+PB,Campina Grande,355331,385213
+PB,Capim,4180,5601
+PB,Caraúbas,3401,3899
+PB,Carrapateira,2160,2378
+PB,Casserengue,6568,7058
+PB,Catingueira,4748,4812
+PB,Catolé do Rocha,26641,28759
+PB,Caturité,4183,4543
+PB,Conceição,17931,18363
+PB,Condado,6495,6584
+PB,Conde,16413,21400
+PB,Congo,4602,4687
+PB,Coremas,15130,15149
+PB,Coxixola,1422,1771
+PB,Cruz do Espírito Santo,14081,16257
+PB,Cubati,6388,6866
+PB,Cuité,19946,19978
+PB,Cuitegi,7254,6889
+PB,Cuité de Mamanguape,6124,6202
+PB,Curral de Cima,5323,5209
+PB,Curral Velho,2558,2505
+PB,Damião,3645,4900
+PB,Desterro,7701,7991
+PB,Vista Serrana,3121,3512
+PB,Diamante,6920,6616
+PB,Dona Inês,10227,10517
+PB,Duas Estradas,3818,3638
+PB,Emas,3061,3317
+PB,Esperança,28166,31095
+PB,Fagundes,11892,11405
+PB,Frei Martinho,2923,2933
+PB,Gado Bravo,8521,8376
+PB,Guarabira,51482,55326
+PB,Gurinhém,13182,13872
+PB,Gurjão,2789,3159
+PB,Ibiara,6383,6031
+PB,Imaculada,11577,11352
+PB,Ingá,17473,18180
+PB,Itabaiana,25207,24481
+PB,Itaporanga,21123,23192
+PB,Itapororoca,14633,16997
+PB,Itatuba,9374,10201
+PB,Jacaraú,14117,13942
+PB,Jericó,7416,7538
+PB,João Pessoa,597934,723515
+PB,Juarez Távora,7081,7459
+PB,Juazeirinho,14873,16776
+PB,Junco do Seridó,5968,6643
+PB,Juripiranga,9647,10237
+PB,Juru,10045,9826
+PB,Lagoa,4844,4681
+PB,Lagoa de Dentro,7086,7370
+PB,Lagoa Seca,24154,25900
+PB,Lastro,3118,2841
+PB,Livramento,7605,7164
+PB,Logradouro,3389,3942
+PB,Lucena,9755,11730
+PB,Mãe d'Água,3459,4019
+PB,Malta,5692,5613
+PB,Mamanguape,38772,42303
+PB,Manaíra,10473,10759
+PB,Marcação,6203,7609
+PB,Mari,20663,21176
+PB,Marizópolis,5618,6173
+PB,Massaranduba,11697,12902
+PB,Mataraca,5500,7407
+PB,Matinhas,4086,4321
+PB,Mato Grosso,2427,2702
+PB,Maturéia,5032,5939
+PB,Mogeiro,13231,12491
+PB,Montadas,3969,4990
+PB,Monte Horebe,4112,4508
+PB,Monteiro,27687,30852
+PB,Mulungu,9189,9469
+PB,Natuba,10562,10566
+PB,Nazarezinho,7272,7280
+PB,Nova Floresta,9421,10533
+PB,Nova Olinda,6457,6070
+PB,Nova Palmeira,3573,4361
+PB,Olho d'Água,7831,6931
+PB,Olivedos,3194,3627
+PB,Ouro Velho,2823,2928
+PB,Parari,1437,1256
+PB,Passagem,1979,2233
+PB,Patos,91761,100674
+PB,Paulista,11266,11788
+PB,Pedra Branca,3692,3721
+PB,Pedra Lavrada,6617,7475
+PB,Pedras de Fogo,25861,27032
+PB,Piancó,14872,15465
+PB,Picuí,17896,18222
+PB,Pilar,10274,11191
+PB,Pilões,7800,6978
+PB,Pilõezinhos,5430,5155
+PB,Pirpirituba,10198,10326
+PB,Pitimbu,13927,17024
+PB,Pocinhos,14880,17032
+PB,Poço Dantas,3828,3751
+PB,Poço de José de Moura,3529,3978
+PB,Pombal,31954,32110
+PB,Prata,3425,3854
+PB,Princesa Isabel,18231,21283
+PB,Puxinanã,11981,12923
+PB,Queimadas,36032,41049
+PB,Quixabá,1308,1699
+PB,Remígio,14914,17581
+PB,Pedro Régis,4883,5765
+PB,Riachão,2793,3266
+PB,Riachão do Bacamarte,3948,4264
+PB,Riachão do Poço,3694,4164
+PB,Riacho de Santo Antônio,1334,1722
+PB,Riacho dos Cavalos,8064,8314
+PB,Rio Tinto,22311,22976
+PB,Salgadinho,2823,3508
+PB,Salgado de São Félix,12046,11976
+PB,Santa Cecília,6862,6658
+PB,Santa Cruz,6471,6471
+PB,Santa Helena,6170,5369
+PB,Santa Inês,3548,3539
+PB,Santa Luzia,14012,14719
+PB,Santana de Mangueira,5773,5331
+PB,Santana dos Garrotes,7882,7266
+PB,Santarém,2568,2615
+PB,Santa Rita,115844,120310
+PB,Santa Teresinha,4728,4581
+PB,Santo André,2800,2638
+PB,São Bento,26225,30879
+PB,São Bentinho,3589,4138
+PB,São Domingos do Cariri,2189,2420
+PB,São Domingos de Pombal,2498,2855
+PB,São Francisco,3464,3364
+PB,São João do Cariri,4703,4344
+PB,São João do Tigre,4481,4396
+PB,São José da Lagoa Tapada,7184,7564
+PB,São José de Caiana,5737,6010
+PB,São José de Espinharas,5109,4760
+PB,São José dos Ramos,4900,5508
+PB,São José de Piranhas,17876,19096
+PB,São José de Princesa,4970,4219
+PB,São José do Bonfim,2838,3233
+PB,São José do Brejo do Cruz,1532,1684
+PB,São José do Sabugi,3903,4010
+PB,São José dos Cordeiros,4136,3985
+PB,São Mamede,8018,7748
+PB,São Miguel de Taipu,6086,6696
+PB,São Sebastião de Lagoa de Roça,10026,11041
+PB,São Sebastião do Umbuzeiro,2894,3235
+PB,Sapé,47353,50143
+PB,Seridó,9106,10230
+PB,Serra Branca,12275,12973
+PB,Serra da Raiz,3436,3204
+PB,Serra Grande,2855,2975
+PB,Serra Redonda,7307,7050
+PB,Serraria,6678,6238
+PB,Sertãozinho,3444,4395
+PB,Sobrado,6885,7373
+PB,Solânea,30658,26693
+PB,Soledade,12061,13739
+PB,Sossêgo,2598,3169
+PB,Sousa,62635,65803
+PB,Sumé,15035,16060
+PB,Campo de Santana,9388,10262
+PB,Taperoá,13299,14936
+PB,Tavares,13584,14103
+PB,Teixeira,11953,14153
+PB,Tenório,2473,2813
+PB,Triunfo,9053,9220
+PB,Uiraúna,13681,14584
+PB,Umbuzeiro,9192,9298
+PB,Várzea,2051,2504
+PB,Vieirópolis,4672,5045
+PB,Zabelê,1853,2075
+PE,Abreu e Lima,89039,94429
+PE,Afogados da Ingazeira,32922,35088
+PE,Afrânio,15014,17586
+PE,Agrestina,20036,22679
+PE,Água Preta,28531,33095
+PE,Águas Belas,36641,40235
+PE,Alagoinha,12535,13759
+PE,Aliança,37189,37415
+PE,Altinho,22131,22353
+PE,Amaraji,21309,21939
+PE,Angelim,9082,10202
+PE,Araçoiaba,15108,18156
+PE,Araripina,70898,77302
+PE,Arcoverde,61600,68793
+PE,Barra de Guabiraba,10939,12776
+PE,Barreiros,39139,40732
+PE,Belém de Maria,10626,11353
+PE,Belém de São Francisco,20208,20253
+PE,Belo Jardim,68698,72432
+PE,Betânia,11305,12003
+PE,Bezerros,57371,58668
+PE,Bodocó,31731,35158
+PE,Bom Conselho,42085,45503
+PE,Bom Jardim,37013,37826
+PE,Bonito,37750,37566
+PE,Brejão,8916,8844
+PE,Brejinho,7278,7307
+PE,Brejo da Madre de Deus,38109,45180
+PE,Buenos Aires,12007,12537
+PE,Buíque,44169,52105
+PE,Cabo de Santo Agostinho,152977,185025
+PE,Cabrobó,26741,30873
+PE,Cachoeirinha,17042,18819
+PE,Caetés,24137,26577
+PE,Calçado,11709,11125
+PE,Calumbi,7079,5648
+PE,Camaragibe,128702,144466
+PE,Camocim de São Félix,15115,17104
+PE,Camutanga,7844,8156
+PE,Canhotinho,24920,24521
+PE,Capoeiras,19556,19593
+PE,Carnaíba,17696,18574
+PE,Carnaubeira da Penha,10404,11782
+PE,Carpina,63811,74858
+PE,Caruaru,253634,314912
+PE,Casinhas,13345,13766
+PE,Catende,31257,37820
+PE,Cedro,9551,10778
+PE,Chã de Alegria,11102,12404
+PE,Chã Grande,18407,20137
+PE,Condado,21797,24282
+PE,Correntes,17044,17419
+PE,Cortês,12681,12452
+PE,Cumaru,27489,17183
+PE,Cupira,22383,23390
+PE,Custódia,29969,33855
+PE,Dormentes,14411,16917
+PE,Escada,57341,63517
+PE,Exu,32423,31636
+PE,Feira Nova,18857,20571
+PE,Fernando de Noronha,2051,2630
+PE,Ferreiros,10727,11430
+PE,Flores,20823,22169
+PE,Floresta,24729,29285
+PE,Frei Miguelinho,12978,14293
+PE,Gameleira,24003,27912
+PE,Garanhuns,117749,129408
+PE,Glória do Goitá,27554,29019
+PE,Goiana,71177,75644
+PE,Granito,6110,6855
+PE,Gravatá,67273,76458
+PE,Iati,17691,18360
+PE,Ibimirim,24340,26954
+PE,Ibirajuba,7438,7534
+PE,Igarassu,82277,102021
+PE,Iguaraci,11486,11779
+PE,Inajá,13280,19081
+PE,Ingazeira,4567,4496
+PE,Ipojuca,59281,80637
+PE,Ipubi,23042,28120
+PE,Itacuruba,3669,4369
+PE,Itaíba,26799,26256
+PE,Itamaracá,15858,21884
+PE,Itambé,34982,35398
+PE,Itapetim,14766,13881
+PE,Itapissuma,20116,23769
+PE,Itaquitinga,14950,15692
+PE,Jaboatão dos Guararapes,581556,644620
+PE,Jaqueira,11653,11501
+PE,Jataúba,14653,15819
+PE,Jatobá,13148,13963
+PE,João Alfredo,27023,30743
+PE,Joaquim Nabuco,15925,15773
+PE,Jucati,9695,10604
+PE,Jupi,12329,13705
+PE,Jurema,13741,14541
+PE,Lagoa do Carro,13110,16007
+PE,Lagoa do Itaenga,20172,20659
+PE,Lagoa do Ouro,10977,12132
+PE,Lagoa dos Gatos,16100,15615
+PE,Lagoa Grande,19137,22760
+PE,Lajedo,32209,36628
+PE,Limoeiro,56322,55439
+PE,Macaparana,22494,23925
+PE,Machados,9826,13596
+PE,Manari,13028,18083
+PE,Maraial,14017,12230
+PE,Mirandiba,13122,14308
+PE,Moreno,49205,56696
+PE,Nazaré da Mata,29254,30796
+PE,Olinda,367902,377779
+PE,Orobó,22475,22878
+PE,Orocó,10825,13180
+PE,Ouricuri,56733,64358
+PE,Palmares,55790,59526
+PE,Palmeirina,9536,8189
+PE,Panelas,25874,25645
+PE,Paranatama,10348,11001
+PE,Parnamirim,19289,20224
+PE,Passira,29132,28628
+PE,Paudalho,45138,51357
+PE,Paulista,262237,300466
+PE,Pedra,20244,20944
+PE,Pesqueira,57721,62931
+PE,Petrolândia,27320,32492
+PE,Petrolina,218538,293962
+PE,Poção,11178,11242
+PE,Pombos,23351,24046
+PE,Primavera,11477,13439
+PE,Quipapá,22145,24186
+PE,Quixaba,6855,6739
+PE,Recife,1422905,1537704
+PE,Riacho das Almas,18142,19162
+PE,Ribeirão,41449,44439
+PE,Rio Formoso,20764,22151
+PE,Sairé,13649,11240
+PE,Salgadinho,7139,9312
+PE,Salgueiro,51571,56629
+PE,Saloá,15006,15309
+PE,Sanharó,15879,21955
+PE,Santa Cruz,11264,13594
+PE,Santa Cruz da Baixa Verde,10893,11768
+PE,Santa Cruz do Capibaribe,59048,87582
+PE,Santa Filomena,12115,13371
+PE,Santa Maria da Boa Vista,36914,39435
+PE,Santa Maria do Cambucá,11739,13021
+PE,Santa Terezinha,10251,10991
+PE,São Benedito do Sul,10477,13941
+PE,São Bento do Una,45360,53242
+PE,São Caitano,33426,35274
+PE,São João,19744,21312
+PE,São Joaquim do Monte,19842,20488
+PE,São José da Coroa Grande,13971,18180
+PE,São José do Belmonte,31652,32617
+PE,São José do Egito,29468,31829
+PE,São Lourenço da Mata,90402,102895
+PE,São Vicente Ferrer,16004,17000
+PE,Serra Talhada,70912,79232
+PE,Serrita,17848,18331
+PE,Sertânia,31657,33787
+PE,Sirinhaém,33046,40296
+PE,Moreilândia,11116,11132
+PE,Solidão,5532,5744
+PE,Surubim,50331,58515
+PE,Tabira,24065,26427
+PE,Tacaimbó,12929,12725
+PE,Tacaratu,17096,22068
+PE,Tamandaré,17281,20715
+PE,Taquaritinga do Norte,19757,24903
+PE,Terezinha,6300,6737
+PE,Terra Nova,7518,9278
+PE,Timbaúba,56906,53825
+PE,Toritama,21800,35554
+PE,Tracunhaém,12394,13055
+PE,Trindade,21930,26116
+PE,Triunfo,15135,15006
+PE,Tupanatinga,20801,24425
+PE,Tuparetama,7766,7925
+PE,Venturosa,13462,16052
+PE,Verdejante,8846,9142
+PE,Vertente do Lério,8536,7873
+PE,Vertentes,14957,18222
+PE,Vicência,28820,30732
+PE,Vitória de Santo Antão,117609,129974
+PE,Xexéu,13597,14093
+PI,Acauã,5147,6749
+PI,Agricolândia,5340,5098
+PI,Água Branca,14517,16451
+PI,Alagoinha do Piauí,6868,7341
+PI,Alegrete do Piauí,4713,5153
+PI,Alto Longá,12000,13646
+PI,Altos,39122,38822
+PI,Alvorada do Gurguéia,4211,5050
+PI,Amarante,16884,17135
+PI,Angical do Piauí,6788,6672
+PI,Anísio de Abreu,7166,9098
+PI,Antônio Almeida,2851,3039
+PI,Aroazes,6025,5779
+PI,Aroeiras de Itaim,NA,2440
+PI,Arraial,4909,4688
+PI,Assunção do Piauí,6933,7503
+PI,Avelino Lopes,9625,11067
+PI,Baixa Grande do Ribeiro,7779,10516
+PI,Barra D'Alcântara,4107,3852
+PI,Barras,40891,44850
+PI,Barreiras do Piauí,3098,3234
+PI,Barro Duro,6787,6607
+PI,Batalha,24127,25774
+PI,Bela Vista do Piauí,2963,3778
+PI,Belém do Piauí,2429,3284
+PI,Beneditinos,9712,9911
+PI,Bertolínia,5117,5319
+PI,Betânia do Piauí,8640,6015
+PI,Boa Hora,5170,6296
+PI,Bocaina,4208,4369
+PI,Bom Jesus,15924,22629
+PI,Bom Princípio do Piauí,4625,5304
+PI,Bonfim do Piauí,4881,5393
+PI,Boqueirão do Piauí,5567,6193
+PI,Brasileira,7366,7966
+PI,Brejo do Piauí,3986,3850
+PI,Buriti dos Lopes,18598,19074
+PI,Buriti dos Montes,7284,7974
+PI,Cabeceiras do Piauí,8498,9928
+PI,Cajazeiras do Piauí,2667,3343
+PI,Cajueiro da Praia,6122,7163
+PI,Caldeirão Grande do Piauí,5481,5671
+PI,Campinas do Piauí,5141,5408
+PI,Campo Alegre do Fidalgo,4451,4693
+PI,Campo Grande do Piauí,4882,5592
+PI,Campo Largo do Piauí,5743,6803
+PI,Campo Maior,43126,45177
+PI,Canavieira,4114,3921
+PI,Canto do Buriti,18371,20020
+PI,Capitão de Campos,10036,10953
+PI,Capitão Gervásio Oliveira,3433,3878
+PI,Caracol,8040,10212
+PI,Caraúbas do Piauí,4809,5525
+PI,Caridade do Piauí,4062,4826
+PI,Castelo do Piauí,18339,18336
+PI,Caxingó,4147,5039
+PI,Cocal,24150,26036
+PI,Cocal de Telha,4248,4525
+PI,Cocal dos Alves,5155,5572
+PI,Coivaras,3507,3811
+PI,Colônia do Gurguéia,5012,6036
+PI,Colônia do Piauí,7251,7433
+PI,Conceição do Canindé,4926,4475
+PI,Coronel José Dias,4415,4541
+PI,Corrente,23226,25407
+PI,Cristalândia do Piauí,6493,7831
+PI,Cristino Castro,9269,9981
+PI,Curimatá,9518,10761
+PI,Currais,4232,4704
+PI,Curralinhos,3641,4183
+PI,Curral Novo do Piauí,4220,4869
+PI,Demerval Lobão,12489,13278
+PI,Dirceu Arcoverde,6066,6675
+PI,Dom Expedito Lopes,5954,6569
+PI,Domingos Mourão,4284,4264
+PI,Dom Inocêncio,8909,9245
+PI,Elesbão Veloso,15002,14512
+PI,Eliseu Martins,4188,4665
+PI,Esperantina,34094,37767
+PI,Fartura do Piauí,4685,5074
+PI,Flores do Piauí,4372,4366
+PI,Floresta do Piauí,2416,2482
+PI,Floriano,54591,57690
+PI,Francinópolis,5254,5235
+PI,Francisco Ayres,5236,4477
+PI,Francisco Macedo,2337,2879
+PI,Francisco Santos,7043,8592
+PI,Fronteiras,10012,11117
+PI,Geminiano,4790,5475
+PI,Gilbués,10229,10402
+PI,Guadalupe,10308,10268
+PI,Guaribas,4814,4401
+PI,Hugo Napoleão,3703,3771
+PI,Ilha Grande,7890,8914
+PI,Inhuma,14426,14845
+PI,Ipiranga do Piauí,8428,9327
+PI,Isaías Coelho,7658,8221
+PI,Itainópolis,10381,11109
+PI,Itaueira,10347,10678
+PI,Jacobina do Piauí,5690,5722
+PI,Jaicós,15859,18035
+PI,Jardim do Mulato,3990,4309
+PI,Jatobá do Piauí,4314,4656
+PI,Jerumenha,4515,4390
+PI,João Costa,3025,2960
+PI,Joaquim Pires,13076,13817
+PI,Joca Marques,4349,5100
+PI,José de Freitas,32858,37085
+PI,Juazeiro do Piauí,4523,4757
+PI,Júlio Borges,4866,5373
+PI,Jurema,4047,4517
+PI,Lagoinha do Piauí,2231,2656
+PI,Lagoa Alegre,6849,8008
+PI,Lagoa do Barro do Piauí,4450,4523
+PI,Lagoa de São Francisco,5795,6422
+PI,Lagoa do Piauí,3488,3863
+PI,Lagoa do Sítio,4138,4850
+PI,Landri Sales,5628,5281
+PI,Luís Correia,24253,28406
+PI,Luzilândia,24042,24721
+PI,Madeiro,6771,7816
+PI,Manoel Emídio,5151,5213
+PI,Marcolândia,6178,7812
+PI,Marcos Parente,4279,4456
+PI,Massapê do Piauí,5988,6220
+PI,Matias Olímpio,9727,10473
+PI,Miguel Alves,29849,32289
+PI,Miguel Leão,1370,1253
+PI,Milton Brandão,6900,6769
+PI,Monsenhor Gil,10309,10333
+PI,Monsenhor Hipólito,6764,7391
+PI,Monte Alegre do Piauí,10230,10345
+PI,Morro Cabeça no Tempo,4426,4068
+PI,Morro do Chapéu do Piauí,6006,6499
+PI,Murici dos Portelas,6375,8464
+PI,Nazaré do Piauí,7805,7321
+PI,Nazária,NA,8068
+PI,Nossa Senhora de Nazaré,3865,4556
+PI,Nossa Senhora dos Remédios,7214,8206
+PI,Novo Oriente do Piauí,6760,6498
+PI,Novo Santo Antônio,3155,3260
+PI,Oeiras,33910,35640
+PI,Olho D'Água do Piauí,2283,2626
+PI,Padre Marcos,7178,6657
+PI,Paes Landim,4184,4059
+PI,Pajeú do Piauí,2894,3363
+PI,Palmeira do Piauí,5199,4993
+PI,Palmeirais,12154,13745
+PI,Paquetá,4386,4147
+PI,Parnaguá,9345,10276
+PI,Parnaíba,132282,145705
+PI,Passagem Franca do Piauí,4195,4546
+PI,Patos do Piauí,5634,6105
+PI,Pau D'Arco do Piauí,NA,3757
+PI,Paulistana,16529,19785
+PI,Pavussu,3973,3663
+PI,Pedro II,36201,37496
+PI,Pedro Laurentino,2002,2407
+PI,Nova Santa Rita,4150,4187
+PI,Picos,68974,73414
+PI,Pimenteiras,11306,11733
+PI,Pio IX,16505,17671
+PI,Piracuruca,24786,27553
+PI,Piripiri,60154,61834
+PI,Porto,10573,11897
+PI,Porto Alegre do Piauí,2421,2559
+PI,Prata do Piauí,3117,3085
+PI,Queimada Nova,8332,8553
+PI,Redenção do Gurguéia,7781,8400
+PI,Regeneração,17471,17556
+PI,Riacho Frio,4321,4241
+PI,Ribeira do Piauí,3879,4263
+PI,Ribeiro Gonçalves,5722,6845
+PI,Rio Grande do Piauí,6131,6273
+PI,Santa Cruz do Piauí,5776,6027
+PI,Santa Cruz dos Milagres,3334,3794
+PI,Santa Filomena,6031,6096
+PI,Santa Luz,4780,5513
+PI,Santana do Piauí,4595,4917
+PI,Santa Rosa do Piauí,5223,5149
+PI,Santo Antônio de Lisboa,5154,6007
+PI,Santo Antônio dos Milagres,1876,2059
+PI,Santo Inácio do Piauí,3447,3648
+PI,São Braz do Piauí,4192,4313
+PI,São Félix do Piauí,3397,3069
+PI,São Francisco de Assis do Piauí,3806,5567
+PI,São Francisco do Piauí,6356,6298
+PI,São Gonçalo do Gurguéia,2322,2825
+PI,São Gonçalo do Piauí,4249,4754
+PI,São João da Canabrava,4240,4445
+PI,São João da Fronteira,4886,5608
+PI,São João da Serra,6675,6157
+PI,São João da Varjota,4375,4651
+PI,São João do Arraial,5734,7336
+PI,São João do Piauí,17670,19548
+PI,São José do Divino,4881,5148
+PI,São José do Peixe,3825,3700
+PI,São José do Piauí,6706,6591
+PI,São Julião,5700,5675
+PI,São Lourenço do Piauí,4274,4427
+PI,São Luis do Piauí,2488,2561
+PI,São Miguel da Baixa Grande,2030,2110
+PI,São Miguel do Fidalgo,2991,2976
+PI,São Miguel do Tapuio,18808,18134
+PI,São Pedro do Piauí,12510,13639
+PI,São Raimundo Nonato,26890,32327
+PI,Sebastião Barros,4524,3560
+PI,Sebastião Leal,3835,4116
+PI,Sigefredo Pacheco,9046,9619
+PI,Simões,13621,14180
+PI,Simplício Mendes,10966,12077
+PI,Socorro do Piauí,4675,4522
+PI,Sussuapara,5042,6229
+PI,Tamboril do Piauí,2413,2753
+PI,Tanque do Piauí,2318,2620
+PI,Teresina,715360,814230
+PI,União,39801,42654
+PI,Uruçuí,17011,20149
+PI,Valença do Piauí,19887,20326
+PI,Várzea Branca,5203,4913
+PI,Várzea Grande,4475,4336
+PI,Vera Mendes,2907,2986
+PI,Vila Nova do Piauí,2906,3076
+PI,Wall Ferraz,3998,4280
+PR,Abatiá,8259,7764
+PR,Adrianópolis,7007,6376
+PR,Agudos do Sul,7221,8270
+PR,Almirante Tamandaré,88277,103204
+PR,Altamira do Paraná,6999,4306
+PR,Altônia,19230,20516
+PR,Alto Paraná,12717,13663
+PR,Alto Piquiri,10761,10179
+PR,Alvorada do Sul,9253,10283
+PR,Amaporã,4655,5443
+PR,Ampére,15623,17308
+PR,Anahy,3011,2874
+PR,Andirá,21663,20610
+PR,Ângulo,2840,2859
+PR,Antonina,19174,18891
+PR,Antônio Olinto,7407,7351
+PR,Apucarana,107827,120919
+PR,Arapongas,85428,104150
+PR,Arapoti,23884,25855
+PR,Arapuã,4172,3561
+PR,Araruna,13081,13419
+PR,Araucária,94258,119123
+PR,Ariranha do Ivaí,2883,2453
+PR,Assaí,18045,16354
+PR,Assis Chateaubriand,33317,33025
+PR,Astorga,23637,24698
+PR,Atalaia,4015,3913
+PR,Balsa Nova,10153,11300
+PR,Bandeirantes,33732,32184
+PR,Barbosa Ferraz,14110,12656
+PR,Barracão,9271,9735
+PR,Barra do Jacaré,2723,2727
+PR,Bela Vista da Caroba,4503,3945
+PR,Bela Vista do Paraíso,15031,15079
+PR,Bituruna,15733,15880
+PR,Boa Esperança,5162,4568
+PR,Boa Esperança do Iguaçu,3107,2764
+PR,Boa Ventura de São Roque,6780,6554
+PR,Boa Vista da Aparecida,8423,7911
+PR,Bocaiúva do Sul,9050,10987
+PR,Bom Jesus do Sul,4154,3796
+PR,Bom Sucesso,6173,6561
+PR,Bom Sucesso do Sul,3392,3293
+PR,Borrazópolis,9453,7878
+PR,Braganey,6191,5735
+PR,Brasilândia do Sul,3889,3209
+PR,Cafeara,2485,2695
+PR,Cafelândia,11143,14662
+PR,Cafezal do Sul,4648,4290
+PR,Califórnia,7678,8069
+PR,Cambará,22740,23886
+PR,Cambé,88186,96733
+PR,Cambira,6688,7236
+PR,Campina da Lagoa,17018,15394
+PR,Campina do Simão,4365,4076
+PR,Campina Grande do Sul,34566,38769
+PR,Campo Bonito,5128,4407
+PR,Campo do Tenente,6335,7125
+PR,Campo Largo,92782,112377
+PR,Campo Magro,20409,24843
+PR,Campo Mourão,80476,87194
+PR,Cândido de Abreu,18795,16655
+PR,Candói,14185,14983
+PR,Cantagalo,12810,12952
+PR,Capanema,18239,18526
+PR,Capitão Leônidas Marques,14377,14970
+PR,Carambeí,14860,19163
+PR,Carlópolis,13305,13706
+PR,Cascavel,245369,286205
+PR,Castro,63581,67084
+PR,Catanduvas,10421,10202
+PR,Centenário do Sul,11817,11190
+PR,Cerro Azul,16352,16938
+PR,Céu Azul,10445,11032
+PR,Chopinzinho,20543,19679
+PR,Cianorte,57401,69958
+PR,Cidade Gaúcha,9531,11062
+PR,Clevelândia,18338,17240
+PR,Colombo,183329,212967
+PR,Colorado,20957,22345
+PR,Congonhinhas,7851,8279
+PR,Conselheiro Mairinck,3463,3636
+PR,Contenda,13241,15891
+PR,Corbélia,15803,16312
+PR,Cornélio Procópio,46861,46928
+PR,Coronel Domingos Soares,7004,7238
+PR,Coronel Vivida,23306,21749
+PR,Corumbataí do Sul,4946,4002
+PR,Cruzeiro do Iguaçu,4394,4278
+PR,Cruzeiro do Oeste,20222,20416
+PR,Cruzeiro do Sul,4759,4563
+PR,Cruz Machado,17667,18040
+PR,Cruzmaltina,3459,3162
+PR,Curitiba,1587315,1751907
+PR,Curiúva,12904,13923
+PR,Diamante do Norte,6099,5516
+PR,Diamante do Sul,3659,3510
+PR,Diamante D'Oeste,4878,5027
+PR,Dois Vizinhos,31986,36179
+PR,Douradina,6160,7445
+PR,Doutor Camargo,5777,5828
+PR,Enéas Marques,6382,6103
+PR,Engenheiro Beltrão,14082,13906
+PR,Esperança Nova,2308,1970
+PR,Entre Rios do Oeste,3328,3926
+PR,Espigão Alto do Iguaçu,5388,4677
+PR,Farol,3963,3472
+PR,Faxinal,15608,16314
+PR,Fazenda Rio Grande,62877,81675
+PR,Fênix,4942,4802
+PR,Fernandes Pinheiro,6368,5932
+PR,Figueira,9038,8293
+PR,Floraí,5285,5050
+PR,Flor da Serra do Sul,5059,4726
+PR,Floresta,5122,5931
+PR,Florestópolis,12190,11222
+PR,Flórida,2434,2543
+PR,Formosa do Oeste,8755,7541
+PR,Foz do Iguaçu,258543,256088
+PR,Francisco Alves,6956,6418
+PR,Francisco Beltrão,67132,78943
+PR,Foz do Jordão,6378,5420
+PR,General Carneiro,13899,13669
+PR,Godoy Moreira,3836,3337
+PR,Goioerê,29750,29018
+PR,Goioxim,8086,7503
+PR,Grandes Rios,7868,6625
+PR,Guaíra,28659,30704
+PR,Guairaçá,5898,6197
+PR,Guamiranga,7134,7900
+PR,Guapirama,4068,3891
+PR,Guaporema,2244,2219
+PR,Guaraci,4919,5227
+PR,Guaraniaçu,17201,14582
+PR,Guarapuava,155161,167328
+PR,Guaraqueçaba,8288,7871
+PR,Guaratuba,27257,32095
+PR,Honório Serpa,6896,5955
+PR,Ibaiti,26448,28751
+PR,Ibema,5872,6066
+PR,Ibiporã,42153,48198
+PR,Icaraíma,10048,8839
+PR,Iguaraçu,3598,3982
+PR,Iguatu,2255,2234
+PR,Imbaú,9474,11274
+PR,Imbituva,24496,28455
+PR,Inácio Martins,10963,10943
+PR,Inajá,2915,2988
+PR,Indianópolis,4212,4299
+PR,Ipiranga,13308,14150
+PR,Iporã,16445,14981
+PR,Iracema do Oeste,2951,2578
+PR,Irati,52352,56207
+PR,Iretama,11335,10622
+PR,Itaguajé,4771,4568
+PR,Itaipulândia,6836,9026
+PR,Itambaracá,7090,6759
+PR,Itambé,5956,5979
+PR,Itapejara d'Oeste,9162,10531
+PR,Itaperuçu,19344,23887
+PR,Itaúna do Sul,4447,3583
+PR,Ivaí,11899,12815
+PR,Ivaiporã,32270,31816
+PR,Ivaté,6925,7514
+PR,Ivatuba,2796,3010
+PR,Jaboti,4590,4902
+PR,Jacarezinho,39625,39121
+PR,Jaguapitã,10932,12225
+PR,Jaguariaíva,30780,32606
+PR,Jandaia do Sul,19676,20269
+PR,Janiópolis,8084,6532
+PR,Japira,4901,4903
+PR,Japurá,7755,8549
+PR,Jardim Alegre,13673,12324
+PR,Jardim Olinda,1523,1409
+PR,Jataizinho,11327,11875
+PR,Jesuítas,9832,9001
+PR,Joaquim Távora,9661,10736
+PR,Jundiaí do Sul,3659,3433
+PR,Juranda,8134,7641
+PR,Jussara,6299,6610
+PR,Kaloré,5044,4506
+PR,Lapa,41838,44932
+PR,Laranjal,7121,6360
+PR,Laranjeiras do Sul,30025,30777
+PR,Leópolis,4440,4145
+PR,Lidianópolis,4783,3973
+PR,Lindoeste,6224,5361
+PR,Loanda,19549,21201
+PR,Lobato,4064,4401
+PR,Londrina,447065,506701
+PR,Luiziana,7540,7315
+PR,Lunardelli,5668,5160
+PR,Lupionópolis,4323,4592
+PR,Mallet,12602,12973
+PR,Mamborê,15156,13961
+PR,Mandaguaçu,16828,19781
+PR,Mandaguari,31395,32658
+PR,Mandirituba,17540,22220
+PR,Manfrinópolis,3802,3127
+PR,Mangueirinha,17760,17048
+PR,Manoel Ribas,13066,13169
+PR,Marechal Cândido Rondon,41007,46819
+PR,Maria Helena,6384,5956
+PR,Marialva,28702,31959
+PR,Marilândia do Sul,9071,8863
+PR,Marilena,6756,6858
+PR,Mariluz,10296,10224
+PR,Maringá,288653,357077
+PR,Mariópolis,6017,6268
+PR,Maripá,5889,5684
+PR,Marmeleiro,13665,13900
+PR,Marquinho,5659,4981
+PR,Marumbi,4612,4603
+PR,Matelândia,14344,16078
+PR,Matinhos,24184,29428
+PR,Mato Rico,4496,3818
+PR,Mauá da Serra,6471,8555
+PR,Medianeira,37827,41817
+PR,Mercedes,4608,5046
+PR,Mirador,2500,2327
+PR,Miraselva,1961,1862
+PR,Missal,10433,10474
+PR,Moreira Sales,13395,12606
+PR,Morretes,15275,15718
+PR,Munhoz de Melo,3401,3672
+PR,Nossa Senhora das Graças,3833,3836
+PR,Nova Aliança do Ivaí,1338,1431
+PR,Nova América da Colina,3585,3478
+PR,Nova Aurora,13641,11866
+PR,Nova Cantu,9914,7425
+PR,Nova Esperança,25729,26615
+PR,Nova Esperança do Sudoeste,5258,5098
+PR,Nova Fátima,8305,8147
+PR,Nova Laranjeiras,11699,11241
+PR,Nova Londrina,13169,13067
+PR,Nova Olímpia,5280,5503
+PR,Nova Santa Bárbara,3611,3908
+PR,Nova Santa Rosa,7125,7626
+PR,Nova Prata do Iguaçu,10397,10377
+PR,Nova Tebas,9476,7398
+PR,Novo Itacolomi,2866,2827
+PR,Ortigueira,25216,23380
+PR,Ourizona,3396,3380
+PR,Ouro Verde do Oeste,5472,5692
+PR,Paiçandu,30764,35936
+PR,Palmas,34819,42888
+PR,Palmeira,30847,32123
+PR,Palmital,16958,14865
+PR,Palotina,25771,28683
+PR,Paraíso do Norte,9739,11772
+PR,Paranacity,9109,10250
+PR,Paranaguá,127339,140469
+PR,Paranapoema,2393,2791
+PR,Paranavaí,75750,81590
+PR,Pato Bragado,4049,4822
+PR,Pato Branco,62234,72370
+PR,Paula Freitas,5060,5434
+PR,Paulo Frontin,6565,6913
+PR,Peabiru,13487,13624
+PR,Perobal,5291,5653
+PR,Pérola,9282,10208
+PR,Pérola d'Oeste,7354,6761
+PR,Piên,9798,11236
+PR,Pinhais,102985,117008
+PR,Pinhalão,6217,6215
+PR,Pinhal de São Bento,2560,2625
+PR,Pinhão,28408,30208
+PR,Piraí do Sul,21647,23424
+PR,Piraquara,72886,93207
+PR,Pitanga,35861,32638
+PR,Pitangueiras,2418,2814
+PR,Planaltina do Paraná,3992,4095
+PR,Planalto,14122,13654
+PR,Ponta Grossa,273616,311611
+PR,Pontal do Paraná,14323,20920
+PR,Porecatu,15881,14189
+PR,Porto Amazonas,4236,4514
+PR,Porto Barreiro,4206,3663
+PR,Porto Rico,2550,2530
+PR,Porto Vitória,4051,4020
+PR,Prado Ferreira,3152,3434
+PR,Pranchita,6260,5628
+PR,Presidente Castelo Branco,4305,4784
+PR,Primeiro de Maio,10728,10832
+PR,Prudentópolis,46346,48792
+PR,Quarto Centenário,5333,4856
+PR,Quatiguá,6742,7045
+PR,Quatro Barras,16161,19851
+PR,Quatro Pontes,3646,3803
+PR,Quedas do Iguaçu,27364,30605
+PR,Querência do Norte,11438,11729
+PR,Quinta do Sol,5759,5088
+PR,Quitandinha,15272,17089
+PR,Ramilândia,3868,4134
+PR,Rancho Alegre,4197,3955
+PR,Rancho Alegre D'Oeste,3117,2847
+PR,Realeza,16023,16338
+PR,Rebouças,13663,14176
+PR,Renascença,6959,6812
+PR,Reserva,23977,25172
+PR,Reserva do Iguaçu,6678,7307
+PR,Ribeirão Claro,10903,10678
+PR,Ribeirão do Pinhal,14341,13524
+PR,Rio Azul,13023,14093
+PR,Rio Bom,3546,3334
+PR,Rio Bonito do Iguaçu,13791,13661
+PR,Rio Branco do Ivaí,3758,3898
+PR,Rio Branco do Sul,29341,30650
+PR,Rio Negro,28710,31274
+PR,Rolândia,49410,57862
+PR,Roncador,13632,11537
+PR,Rondon,8527,8996
+PR,Rosário do Ivaí,6585,5588
+PR,Sabáudia,5413,6096
+PR,Salgado Filho,5338,4403
+PR,Salto do Itararé,5549,5178
+PR,Salto do Lontra,12757,13689
+PR,Santa Amélia,4407,3803
+PR,Santa Cecília do Pavão,4064,3646
+PR,Santa Cruz de Monte Castelo,8578,8092
+PR,Santa Fé,8870,10432
+PR,Santa Helena,20491,23413
+PR,Santa Inês,2099,1818
+PR,Santa Isabel do Ivaí,9154,8760
+PR,Santa Izabel do Oeste,11711,13132
+PR,Santa Lúcia,4126,3925
+PR,Santa Maria do Oeste,13639,11500
+PR,Santa Mariana,13470,12435
+PR,Santa Mônica,3190,3571
+PR,Santana do Itararé,5638,5249
+PR,Santa Tereza do Oeste,10754,10332
+PR,Santa Terezinha de Itaipu,18368,20841
+PR,Santo Antônio da Platina,39943,42707
+PR,Santo Antônio do Caiuá,2878,2727
+PR,Santo Antônio do Paraíso,2790,2408
+PR,Santo Antônio do Sudoeste,17870,18893
+PR,Santo Inácio,5188,5269
+PR,São Carlos do Ivaí,5904,6354
+PR,São Jerônimo da Serra,11750,11337
+PR,São João,11207,10599
+PR,São João do Caiuá,6091,5911
+PR,São João do Ivaí,13196,11525
+PR,São João do Triunfo,12418,13704
+PR,São Jorge d'Oeste,9307,9085
+PR,São Jorge do Ivaí,5590,5517
+PR,São Jorge do Patrocínio,6604,6041
+PR,São José da Boa Vista,6978,6511
+PR,São José das Palmeiras,4102,3830
+PR,São José dos Pinhais,204316,264210
+PR,São Manoel do Paraná,2072,2098
+PR,São Mateus do Sul,36569,41257
+PR,São Miguel do Iguaçu,24432,25769
+PR,São Pedro do Iguaçu,7277,6491
+PR,São Pedro do Ivaí,9473,10167
+PR,São Pedro do Paraná,2738,2491
+PR,São Sebastião da Amoreira,8548,8626
+PR,São Tomé,5045,5349
+PR,Sapopema,6872,6736
+PR,Sarandi,71422,82847
+PR,Saudade do Iguaçu,4608,5028
+PR,Sengés,17778,18414
+PR,Serranópolis do Iguaçu,4740,4568
+PR,Sertaneja,6521,5817
+PR,Sertanópolis,15147,15638
+PR,Siqueira Campos,16000,18454
+PR,Sulina,3918,3394
+PR,Tamarana,9713,12262
+PR,Tamboara,4255,4664
+PR,Tapejara,13120,14598
+PR,Tapira,6282,5836
+PR,Teixeira Soares,8192,10283
+PR,Telêmaco Borba,61238,69872
+PR,Terra Boa,14640,15776
+PR,Terra Rica,13797,15221
+PR,Terra Roxa,16300,16759
+PR,Tibagi,18434,19344
+PR,Tijucas do Sul,12260,14537
+PR,Toledo,98200,119313
+PR,Tomazina,9931,8791
+PR,Três Barras do Paraná,11822,11824
+PR,Tunas do Paraná,3611,6256
+PR,Tuneiras do Oeste,9013,8695
+PR,Tupãssi,8018,7997
+PR,Turvo,14530,13811
+PR,Ubiratã,22593,21558
+PR,Umuarama,90690,100676
+PR,União da Vitória,48522,52735
+PR,Uniflor,2362,2466
+PR,Uraí,11876,11472
+PR,Wenceslau Braz,19559,19298
+PR,Ventania,8024,9957
+PR,Vera Cruz do Oeste,9651,8973
+PR,Verê,8721,7878
+PR,Vila Alta,3783,3206
+PR,Doutor Ulysses,6003,5727
+PR,Virmond,3949,3950
+PR,Vitorino,6285,6513
+PR,Xambrê,6500,6012
+RJ,Angra dos Reis,119247,169511
+RJ,Aperibé,8018,10213
+RJ,Araruama,82803,112008
+RJ,Areal,9899,11423
+RJ,Armação dos Búzios,18204,27560
+RJ,Arraial do Cabo,23877,27715
+RJ,Barra do Piraí,88503,94778
+RJ,Barra Mansa,170753,177813
+RJ,Belford Roxo,434474,469332
+RJ,Bom Jardim,22651,25333
+RJ,Bom Jesus do Itabapoana,33655,35411
+RJ,Cabo Frio,126828,186227
+RJ,Cachoeiras de Macacu,48543,54273
+RJ,Cambuci,14670,14827
+RJ,Carapebus,8666,13359
+RJ,Comendador Levy Gasparian,7924,8180
+RJ,Campos dos Goytacazes,406989,463731
+RJ,Cantagalo,19835,19830
+RJ,Cardoso Moreira,12595,12600
+RJ,Carmo,15289,17434
+RJ,Casimiro de Abreu,22152,35347
+RJ,Conceição de Macabu,18782,21211
+RJ,Cordeiro,18601,20430
+RJ,Duas Barras,10334,10930
+RJ,Duque de Caxias,775456,855048
+RJ,Engenheiro Paulo de Frontin,12164,13237
+RJ,Guapimirim,37952,51483
+RJ,Iguaba Grande,15089,22851
+RJ,Itaboraí,187479,218008
+RJ,Itaguaí,82003,109091
+RJ,Italva,12621,14063
+RJ,Itaocara,23003,22899
+RJ,Itaperuna,86720,95841
+RJ,Itatiaia,24739,28783
+RJ,Japeri,83278,95492
+RJ,Laje do Muriaé,7909,7487
+RJ,Macaé,132461,206728
+RJ,Macuco,4886,5269
+RJ,Magé,205830,227322
+RJ,Mangaratiba,24901,36456
+RJ,Maricá,76737,127461
+RJ,Mendes,17289,17935
+RJ,Mesquita,NA,168376
+RJ,Miguel Pereira,23902,24642
+RJ,Miracema,27064,26843
+RJ,Natividade,15125,15082
+RJ,Nilópolis,153712,157425
+RJ,Niterói,459451,487562
+RJ,Nova Friburgo,173418,182082
+RJ,Nova Iguaçu,920599,796257
+RJ,Paracambi,40475,47124
+RJ,Paraíba do Sul,37410,41084
+RJ,Parati,29544,37533
+RJ,Paty do Alferes,24931,26359
+RJ,Petrópolis,286537,295917
+RJ,Pinheiral,19481,22719
+RJ,Piraí,22118,26314
+RJ,Porciúncula,15952,17760
+RJ,Porto Real,12095,16592
+RJ,Quatis,10730,12793
+RJ,Queimados,121993,137962
+RJ,Quissamã,13674,20242
+RJ,Resende,104549,119769
+RJ,Rio Bonito,49691,55551
+RJ,Rio Claro,16228,17425
+RJ,Rio das Flores,7625,8561
+RJ,Rio das Ostras,36419,105676
+RJ,Rio de Janeiro,5857904,6320446
+RJ,Santa Maria Madalena,10476,10321
+RJ,Santo Antônio de Pádua,38692,40589
+RJ,São Francisco de Itabapoana,41145,41354
+RJ,São Fidélis,36789,37543
+RJ,São Gonçalo,891119,999728
+RJ,São João da Barra,27682,32747
+RJ,São João de Meriti,449476,458673
+RJ,São José de Ubá,6413,7003
+RJ,São José do Vale do Rio Preto,19278,20251
+RJ,São Pedro da Aldeia,63227,87875
+RJ,São Sebastião do Alto,8402,8895
+RJ,Sapucaia,17157,17525
+RJ,Saquarema,52461,74234
+RJ,Seropédica,65260,78186
+RJ,Silva Jardim,21265,21349
+RJ,Sumidouro,14176,14900
+RJ,Tanguá,26057,30732
+RJ,Teresópolis,138081,163746
+RJ,Trajano de Morais,10038,10289
+RJ,Três Rios,71976,77432
+RJ,Valença,66308,71843
+RJ,Varre-Sai,7854,9475
+RJ,Vassouras,31451,34410
+RJ,Volta Redonda,242063,257803
+RN,Acari,11189,11035
+RN,Açu,47904,53227
+RN,Afonso Bezerra,10867,10844
+RN,Água Nova,2678,2980
+RN,Alexandria,13772,13507
+RN,Almino Afonso,5195,4871
+RN,Alto do Rodrigues,9499,12305
+RN,Angicos,11626,11549
+RN,Antônio Martins,6757,6907
+RN,Apodi,34174,34763
+RN,Areia Branca,22530,25315
+RN,Arês,11323,12924
+RN,Augusto Severo,9024,9289
+RN,Baía Formosa,7821,8573
+RN,Baraúna,18922,24182
+RN,Barcelona,3990,3950
+RN,Bento Fernandes,4709,5113
+RN,Bodó,2775,2425
+RN,Bom Jesus,8608,9440
+RN,Brejinho,10317,11577
+RN,Caiçara do Norte,5842,6016
+RN,Caiçara do Rio do Vento,2867,3308
+RN,Caicó,57002,62709
+RN,Campo Redondo,9201,10266
+RN,Canguaretama,27011,30916
+RN,Caraúbas,18810,19576
+RN,Carnaúba dos Dantas,6572,7429
+RN,Carnaubais,8192,9762
+RN,Ceará-Mirim,62424,68141
+RN,Cerro Corá,10839,10916
+RN,Coronel Ezequiel,5409,5405
+RN,Coronel João Pessoa,4703,4772
+RN,Cruzeta,8138,7967
+RN,Currais Novos,40791,42652
+RN,Doutor Severiano,6552,6492
+RN,Parnamirim,124690,202456
+RN,Encanto,4798,5231
+RN,Equador,5664,5822
+RN,Espírito Santo,10715,10475
+RN,Extremoz,19572,24569
+RN,Felipe Guerra,5534,5734
+RN,Fernando Pedroza,2650,2854
+RN,Florânia,8978,8959
+RN,Francisco Dantas,3021,2874
+RN,Frutuoso Gomes,4580,4233
+RN,Galinhos,1767,2159
+RN,Goianinha,17661,22481
+RN,Governador Dix-Sept Rosado,11772,12374
+RN,Grossos,8249,9393
+RN,Guamaré,8149,12404
+RN,Ielmo Marinho,10249,12171
+RN,Ipanguaçu,11924,13856
+RN,Ipueira,1902,2077
+RN,Itajá,6249,6932
+RN,Itaú,5271,5564
+RN,Jaçanã,7677,7925
+RN,Jandaíra,6124,6801
+RN,Janduís,5597,5345
+RN,Januário Cicco,7687,9011
+RN,Japi,6328,5522
+RN,Jardim de Angicos,2670,2607
+RN,Jardim de Piranhas,11994,13506
+RN,Jardim do Seridó,12041,12113
+RN,João Câmara,29248,32227
+RN,João Dias,2596,2601
+RN,José da Penha,5908,5868
+RN,Jucurutu,17319,17692
+RN,Jundiá,NA,3582
+RN,Lagoa d'Anta,5629,6227
+RN,Lagoa de Pedras,6395,6989
+RN,Lagoa de Velhos,2651,2668
+RN,Lagoa Nova,12058,13983
+RN,Lagoa Salgada,6808,7564
+RN,Lajes,9399,10381
+RN,Lajes Pintadas,4530,4612
+RN,Lucrécia,3218,3633
+RN,Luís Gomes,9154,9610
+RN,Macaíba,54883,69467
+RN,Macau,25700,28954
+RN,Major Sales,2948,3536
+RN,Marcelino Vieira,8373,8265
+RN,Martins,7725,8218
+RN,Maxaranguape,8001,10441
+RN,Messias Targino,3718,4188
+RN,Montanhas,11948,11413
+RN,Monte Alegre,18874,20685
+RN,Monte das Gameleiras,2541,2261
+RN,Mossoró,213841,259815
+RN,Natal,712317,803739
+RN,Nísia Floresta,19040,23784
+RN,Nova Cruz,33834,35490
+RN,Olho-d'Água do Borges,4461,4295
+RN,Ouro Branco,4667,4699
+RN,Paraná,3633,3952
+RN,Paraú,4092,3859
+RN,Parazinho,4325,4845
+RN,Parelhas,19319,20354
+RN,Rio do Fogo,9217,10059
+RN,Passa e Fica,8329,11100
+RN,Passagem,2691,2895
+RN,Patu,11171,11964
+RN,Santa Maria,3778,4762
+RN,Pau dos Ferros,24758,27745
+RN,Pedra Grande,4017,3521
+RN,Pedra Preta,2847,2590
+RN,Pedro Avelino,8006,7171
+RN,Pedro Velho,13518,14114
+RN,Pendências,11401,13432
+RN,Pilões,3002,3453
+RN,Poço Branco,12261,13949
+RN,Portalegre,6746,7320
+RN,Porto do Mangue,4064,5217
+RN,Presidente Juscelino,7005,8768
+RN,Pureza,6963,8424
+RN,Rafael Fernandes,4247,4692
+RN,Rafael Godeiro,2953,3063
+RN,Riacho da Cruz,2667,3165
+RN,Riacho de Santana,4200,4156
+RN,Riachuelo,5760,7067
+RN,Rodolfo Fernandes,4467,4418
+RN,Tibau,3197,3687
+RN,Ruy Barbosa,3686,3595
+RN,Santa Cruz,31294,35797
+RN,Santana do Matos,15987,13809
+RN,Santana do Seridó,2377,2526
+RN,Santo Antônio,20107,22216
+RN,São Bento do Norte,3378,2975
+RN,São Bento do Trairí,3244,3905
+RN,São Fernando,3234,3401
+RN,São Francisco do Oeste,3480,3874
+RN,São Gonçalo do Amarante,69435,87668
+RN,São João do Sabugi,5698,5922
+RN,São José de Mipibu,34912,39776
+RN,São José do Campestre,11982,12356
+RN,São José do Seridó,3777,4231
+RN,São Miguel,20124,22157
+RN,São Miguel de Touros,7580,8670
+RN,São Paulo do Potengi,13822,15843
+RN,São Pedro,6776,6235
+RN,São Rafael,8201,8111
+RN,São Tomé,10798,10827
+RN,São Vicente,5633,6028
+RN,Senador Elói de Souza,5028,5637
+RN,Senador Georgino Avelino,3302,3924
+RN,Serra de São Bento,5870,5743
+RN,Serra do Mel,8237,10287
+RN,Serra Negra do Norte,7543,7770
+RN,Serrinha,7253,6581
+RN,Serrinha dos Pintos,4295,4540
+RN,Severiano Melo,10579,5752
+RN,Sítio Novo,4448,5020
+RN,Taboleiro Grande,2029,2317
+RN,Taipu,11531,11836
+RN,Tangará,12118,14175
+RN,Tenente Ananias,8875,9883
+RN,Tenente Laurentino Cruz,4412,5406
+RN,Tibau do Sul,7749,11385
+RN,Timbaúba dos Batistas,2189,2295
+RN,Touros,27879,31089
+RN,Triunfo Potiguar,3642,3368
+RN,Umarizal,11092,10659
+RN,Upanema,10991,12992
+RN,Várzea,8238,5236
+RN,Venha-Ver,3422,3821
+RN,Vera Cruz,8522,10719
+RN,Viçosa,1521,1618
+RN,Vila Flor,2528,2872
+RO,Alta Floresta D'Oeste,26533,24392
+RO,Ariquemes,74503,90353
+RO,Cabixi,7518,6313
+RO,Cacoal,73568,78574
+RO,Cerejeiras,18207,17029
+RO,Colorado do Oeste,21892,18591
+RO,Corumbiara,10459,8783
+RO,Costa Marques,10208,13678
+RO,Espigão D'Oeste,25688,28729
+RO,Guajará-Mirim,38045,41656
+RO,Jaru,53600,52005
+RO,Ji-Paraná,106800,116610
+RO,Machadinho D'Oeste,22739,31135
+RO,Nova Brasilândia D'Oeste,17067,19874
+RO,Ouro Preto do Oeste,40884,37928
+RO,Pimenta Bueno,31752,33822
+RO,Porto Velho,334661,428527
+RO,Presidente Médici,26365,22319
+RO,Rio Crespo,2937,3316
+RO,Rolim de Moura,47382,50648
+RO,Santa Luzia D'Oeste,11603,8886
+RO,Vilhena,53598,76202
+RO,São Miguel do Guaporé,23874,21828
+RO,Nova Mamoré,14778,22546
+RO,Alvorada D'Oeste,19832,16853
+RO,Alto Alegre dos Parecis,12708,12816
+RO,Alto Paraíso,13118,17135
+RO,Buritis,25668,32383
+RO,Novo Horizonte do Oeste,12276,10240
+RO,Cacaulândia,5372,5736
+RO,Campo Novo de Rondônia,11463,12665
+RO,Candeias do Jamari,13107,19779
+RO,Castanheiras,4212,3575
+RO,Chupinguaia,5521,8301
+RO,Cujubim,6536,15854
+RO,Governador Jorge Teixeira,13641,10512
+RO,Itapuã do Oeste,6822,8566
+RO,Ministro Andreazza,11342,10352
+RO,Mirante da Serra,13154,11878
+RO,Monte Negro,12627,14091
+RO,Nova União,8233,7493
+RO,Parecis,3622,4810
+RO,Pimenteiras do Oeste,2527,2315
+RO,Primavera de Rondônia,4311,3524
+RO,São Felipe D'Oeste,7056,6018
+RO,São Francisco do Guaporé,11085,16035
+RO,Seringueiras,11655,11629
+RO,Teixeirópolis,5618,4888
+RO,Theobroma,11140,10649
+RO,Urupá,14880,12974
+RO,Vale do Anari,7737,9384
+RO,Vale do Paraíso,9863,8210
+RR,Amajari,5294,9327
+RR,Alto Alegre,17907,16448
+RR,Boa Vista,200568,284313
+RR,Bonfim,9326,10943
+RR,Cantá,8571,13902
+RR,Caracaraí,14286,18398
+RR,Caroebe,5692,8114
+RR,Iracema,4781,8696
+RR,Mucajaí,11247,14792
+RR,Normandia,6138,8940
+RR,Pacaraima,6990,10433
+RR,Rorainópolis,17393,24279
+RR,São João da Baliza,5091,6769
+RR,São Luiz,5311,6750
+RR,Uiramutã,5802,8375
+RS,Aceguá,NA,4394
+RS,Água Santa,4127,3722
+RS,Agudo,17455,16722
+RS,Ajuricaba,7709,7255
+RS,Alecrim,8487,7045
+RS,Alegrete,84338,77653
+RS,Alegria,5367,4301
+RS,Almirante Tamandaré do Sul,NA,2067
+RS,Alpestre,10266,8027
+RS,Alto Alegre,2137,1848
+RS,Alto Feliz,2834,2917
+RS,Alvorada,183968,195673
+RS,Amaral Ferrador,5740,6353
+RS,Ametista do Sul,7414,7323
+RS,André da Rocha,1113,1216
+RS,Anta Gorda,6327,6073
+RS,Antônio Prado,12918,12833
+RS,Arambaré,3917,3693
+RS,Araricá,4032,4864
+RS,Aratiba,7116,6565
+RS,Arroio do Meio,16951,18783
+RS,Arroio do Sal,5273,7740
+RS,Arroio do Padre,NA,2730
+RS,Arroio dos Ratos,13335,13606
+RS,Arroio do Tigre,12216,12648
+RS,Arroio Grande,19152,18470
+RS,Arvorezinha,10262,10225
+RS,Augusto Pestana,8173,7096
+RS,Áurea,3889,3665
+RS,Bagé,118767,116794
+RS,Balneário Pinhal,7452,10856
+RS,Barão,5397,5741
+RS,Barão de Cotegipe,6927,6529
+RS,Barão do Triunfo,6662,7018
+RS,Barracão,5592,5357
+RS,Barra do Guarita,2987,3089
+RS,Barra do Quaraí,3884,4012
+RS,Barra do Ribeiro,11845,12572
+RS,Barra do Rio Azul,2414,2003
+RS,Barra Funda,2231,2367
+RS,Barros Cassal,11347,11133
+RS,Benjamin Constant do Sul,2727,2307
+RS,Bento Gonçalves,91486,107278
+RS,Boa Vista das Missões,2188,2114
+RS,Boa Vista do Buricá,6587,6574
+RS,Boa Vista do Cadeado,NA,2441
+RS,Boa Vista do Incra,NA,2425
+RS,Boa Vista do Sul,2840,2776
+RS,Bom Jesus,12014,11519
+RS,Bom Princípio,9494,11789
+RS,Bom Progresso,2831,2328
+RS,Bom Retiro do Sul,10788,11472
+RS,Boqueirão do Leão,7825,7673
+RS,Bossoroca,7757,6884
+RS,Bozano,NA,2200
+RS,Braga,4198,3702
+RS,Brochier,4372,4675
+RS,Butiá,20322,20406
+RS,Caçapava do Sul,34643,33690
+RS,Cacequi,15311,13676
+RS,Cachoeira do Sul,87873,83827
+RS,Cachoeirinha,107564,118278
+RS,Cacique Doble,4770,4868
+RS,Caibaté,7243,4954
+RS,Caiçara,5580,5071
+RS,Camaquã,60383,62764
+RS,Camargo,2498,2592
+RS,Cambará do Sul,6840,6542
+RS,Campestre da Serra,3170,3247
+RS,Campina das Missões,7014,6117
+RS,Campinas do Sul,8258,5506
+RS,Campo Bom,54018,60074
+RS,Campo Novo,6721,5459
+RS,Campos Borges,3785,3494
+RS,Candelária,29585,30171
+RS,Cândido Godói,7092,6535
+RS,Candiota,8065,8771
+RS,Canela,33625,39229
+RS,Canguçu,51447,53259
+RS,Canoas,306093,323827
+RS,Canudos do Vale,NA,1807
+RS,Capão Bonito do Sul,NA,1754
+RS,Capão da Canoa,30498,42040
+RS,Capão do Cipó,NA,3104
+RS,Capão do Leão,23718,24298
+RS,Capivari do Sul,3107,3890
+RS,Capela de Santana,10032,11612
+RS,Capitão,2565,2636
+RS,Carazinho,59894,59317
+RS,Caraá,6403,7312
+RS,Carlos Barbosa,20519,25192
+RS,Carlos Gomes,1912,1607
+RS,Casca,8440,8651
+RS,Caseiros,2899,3007
+RS,Catuípe,10198,9323
+RS,Caxias do Sul,360419,435564
+RS,Centenário,3127,2965
+RS,Cerrito,6925,6402
+RS,Cerro Branco,4297,4454
+RS,Cerro Grande,2601,2417
+RS,Cerro Grande do Sul,8273,10268
+RS,Cerro Largo,12665,13289
+RS,Chapada,9746,9377
+RS,Charqueadas,29961,35320
+RS,Charrua,3783,3471
+RS,Chiapetta,4481,4044
+RS,Chuí,5167,5917
+RS,Chuvisca,4502,4944
+RS,Cidreira,8882,12668
+RS,Ciríaco,5252,4922
+RS,Colinas,2462,2420
+RS,Colorado,4072,3550
+RS,Condor,6491,6552
+RS,Constantina,11667,9752
+RS,Coqueiro Baixo,NA,1528
+RS,Coqueiros do Sul,2695,2457
+RS,Coronel Barros,2454,2459
+RS,Coronel Bicaco,8435,7748
+RS,Coronel Pilar,NA,1725
+RS,Cotiporã,4093,3917
+RS,Coxilha,2979,2826
+RS,Crissiumal,15180,14084
+RS,Cristal,6632,7280
+RS,Cristal do Sul,2874,2826
+RS,Cruz Alta,71254,62821
+RS,Cruzaltense,NA,2141
+RS,Cruzeiro do Sul,11664,12320
+RS,David Canabarro,4740,4683
+RS,Derrubadas,3715,3190
+RS,Dezesseis de Novembro,3444,2866
+RS,Dilermando de Aguiar,3200,3064
+RS,Dois Irmãos,22435,27572
+RS,Dois Irmãos das Missões,2365,2157
+RS,Dois Lajeados,3224,3278
+RS,Dom Feliciano,13297,14380
+RS,Dom Pedro de Alcântara,2636,2550
+RS,Dom Pedrito,40410,38898
+RS,Dona Francisca,3902,3401
+RS,Doutor Maurício Cardoso,6329,5313
+RS,Doutor Ricardo,2128,2030
+RS,Eldorado do Sul,27268,34343
+RS,Encantado,18528,20510
+RS,Encruzilhada do Sul,23902,24534
+RS,Engenho Velho,2134,1527
+RS,Entre-Ijuís,9702,8938
+RS,Entre Rios do Sul,3491,3080
+RS,Erebango,3023,2970
+RS,Erechim,90347,96087
+RS,Ernestina,3941,3088
+RS,Herval,8487,6753
+RS,Erval Grande,5647,5163
+RS,Erval Seco,9177,7878
+RS,Esmeralda,5521,3168
+RS,Esperança do Sul,3755,3272
+RS,Espumoso,16185,15240
+RS,Estação,6228,6011
+RS,Estância Velha,35132,42574
+RS,Esteio,80048,80755
+RS,Estrela,27401,30619
+RS,Estrela Velha,3691,3628
+RS,Eugênio de Castro,3313,2798
+RS,Fagundes Varela,2471,2579
+RS,Farroupilha,55308,63635
+RS,Faxinal do Soturno,6841,6672
+RS,Faxinalzinho,2923,2567
+RS,Fazenda Vilanova,2833,3697
+RS,Feliz,11316,12359
+RS,Flores da Cunha,23678,27126
+RS,Floriano Peixoto,2361,2018
+RS,Fontoura Xavier,11473,10719
+RS,Formigueiro,7598,7014
+RS,Forquetinha,NA,2479
+RS,Fortaleza dos Valos,5079,4575
+RS,Frederico Westphalen,26759,28843
+RS,Garibaldi,28337,30689
+RS,Garruchos,3675,3234
+RS,Gaurama,6391,5862
+RS,General Câmara,8737,8447
+RS,Gentil,1771,1677
+RS,Getúlio Vargas,16509,16154
+RS,Giruá,18749,17075
+RS,Glorinha,5684,6891
+RS,Gramado,28593,32273
+RS,Gramado dos Loureiros,2543,2269
+RS,Gramado Xavier,3666,3970
+RS,Gravataí,232629,255660
+RS,Guabiju,1749,1598
+RS,Guaíba,94307,95204
+RS,Guaporé,20064,22814
+RS,Guarani das Missões,8990,8115
+RS,Harmonia,3659,4254
+RS,Herveiras,2957,2954
+RS,Horizontina,17699,18348
+RS,Hulha Negra,5359,6043
+RS,Humaitá,5228,4919
+RS,Ibarama,4454,4371
+RS,Ibiaçá,5233,4710
+RS,Ibiraiaras,7163,7171
+RS,Ibirapuitã,5170,4061
+RS,Ibirubá,18633,19310
+RS,Igrejinha,26767,31660
+RS,Ijuí,78461,78915
+RS,Ilópolis,4255,4102
+RS,Imbé,12242,17670
+RS,Imigrante,3850,3023
+RS,Independência,7308,6618
+RS,Inhacorá,2378,2267
+RS,Ipê,5456,6016
+RS,Ipiranga do Sul,2057,1944
+RS,Iraí,9250,8078
+RS,Itaara,4578,5010
+RS,Itacurubi,3503,3441
+RS,Itapuca,2691,2344
+RS,Itaqui,39770,38159
+RS,Itati,NA,2584
+RS,Itatiba do Sul,5252,4171
+RS,Ivorá,2495,2156
+RS,Ivoti,15318,19874
+RS,Jaboticaba,4536,4098
+RS,Jacuizinho,NA,2507
+RS,Jacutinga,4248,3633
+RS,Jaguarão,30093,27931
+RS,Jaguari,12488,11473
+RS,Jaquirana,4814,4177
+RS,Jari,3751,3575
+RS,Jóia,8284,8331
+RS,Júlio de Castilhos,20416,19579
+RS,Lagoa Bonita do Sul,NA,2662
+RS,Lagoão,6098,6185
+RS,Lagoa dos Três Cantos,1627,1598
+RS,Lagoa Vermelha,29833,27525
+RS,Lajeado,64133,71445
+RS,Lajeado do Bugre,2463,2487
+RS,Lavras do Sul,8109,7679
+RS,Liberato Salzano,6574,5780
+RS,Lindolfo Collor,4414,5227
+RS,Linha Nova,1564,1624
+RS,Machadinho,5728,5510
+RS,Maçambara,5035,4738
+RS,Mampituba,3106,3003
+RS,Manoel Viana,6995,7072
+RS,Maquiné,7304,6905
+RS,Maratá,2513,2527
+RS,Marau,28361,36364
+RS,Marcelino Ramos,6108,5134
+RS,Mariana Pimentel,3733,3768
+RS,Mariano Moro,2474,2210
+RS,Marques de Souza,4241,4068
+RS,Mata,5575,5111
+RS,Mato Castelhano,2454,2470
+RS,Mato Leitão,3210,3865
+RS,Mato Queimado,NA,1799
+RS,Maximiliano de Almeida,5651,4911
+RS,Minas do Leão,7321,7631
+RS,Miraguaí,5034,4855
+RS,Montauri,1684,1542
+RS,Monte Alegre dos Campos,3040,3102
+RS,Monte Belo do Sul,2880,2670
+RS,Montenegro,54692,59415
+RS,Mormaço,2435,2749
+RS,Morrinhos do Sul,3533,3182
+RS,Morro Redondo,5998,6227
+RS,Morro Reuter,4984,5676
+RS,Mostardas,11658,12124
+RS,Muçum,4728,4791
+RS,Muitos Capões,2867,2988
+RS,Muliterno,1768,1813
+RS,Não-Me-Toque,14413,15936
+RS,Nicolau Vergueiro,1812,1721
+RS,Nonoai,12822,12074
+RS,Nova Alvorada,2757,3182
+RS,Nova Araçá,3236,4001
+RS,Nova Bassano,7836,8840
+RS,Nova Boa Vista,2222,1960
+RS,Nova Bréscia,4564,3184
+RS,Nova Candelária,2883,2751
+RS,Nova Esperança do Sul,4010,4671
+RS,Nova Hartz,15071,18346
+RS,Nova Pádua,2396,2450
+RS,Nova Palma,6312,6342
+RS,Nova Petrópolis,16891,19045
+RS,Nova Prata,18344,22830
+RS,Nova Ramada,2723,2437
+RS,Nova Roma do Sul,3032,3343
+RS,Nova Santa Rita,15750,22716
+RS,Novo Cabrais,3565,3855
+RS,Novo Hamburgo,236193,238940
+RS,Novo Machado,4718,3925
+RS,Novo Tiradentes,2412,2277
+RS,Novo Xingu,NA,1757
+RS,Novo Barreiro,3867,3978
+RS,Osório,36131,40906
+RS,Paim Filho,4831,4243
+RS,Palmares do Sul,10854,10969
+RS,Palmeira das Missões,38192,34328
+RS,Palmitinho,6943,6920
+RS,Panambi,32610,38058
+RS,Pantano Grande,10979,9895
+RS,Paraí,6020,6812
+RS,Paraíso do Sul,7212,7336
+RS,Pareci Novo,3242,3511
+RS,Parobé,44776,51502
+RS,Passa Sete,4644,5154
+RS,Passo do Sobrado,5566,6011
+RS,Passo Fundo,168458,184826
+RS,Paulo Bento,NA,2196
+RS,Paverama,7744,8044
+RS,Pedras Altas,NA,2212
+RS,Pedro Osório,8107,7811
+RS,Pejuçara,4189,3973
+RS,Pelotas,323158,328275
+RS,Picada Café,4673,5182
+RS,Pinhal,2503,2513
+RS,Pinhal da Serra,NA,2130
+RS,Pinhal Grande,4725,4471
+RS,Pinheirinho do Vale,4184,4497
+RS,Pinheiro Machado,14594,12780
+RS,Pirapó,3349,2757
+RS,Piratini,19414,19841
+RS,Planalto,11302,10524
+RS,Poço das Antas,1946,2017
+RS,Pontão,3904,3857
+RS,Ponte Preta,2153,1750
+RS,Portão,24657,30920
+RS,Porto Alegre,1360590,1409351
+RS,Porto Lucena,6398,5413
+RS,Porto Mauá,2802,2542
+RS,Porto Vera Cruz,2464,1852
+RS,Porto Xavier,11190,10558
+RS,Pouso Novo,2195,1875
+RS,Presidente Lucena,2069,2484
+RS,Progresso,6497,6163
+RS,Protásio Alves,2112,2000
+RS,Putinga,4629,4141
+RS,Quaraí,24002,23021
+RS,Quatro Irmãos,NA,1775
+RS,Quevedos,2691,2710
+RS,Quinze de Novembro,3582,3653
+RS,Redentora,8846,10222
+RS,Relvado,2294,2155
+RS,Restinga Seca,16400,15849
+RS,Rio dos Índios,4702,3616
+RS,Rio Grande,186544,197228
+RS,Rio Pardo,37783,37591
+RS,Riozinho,4071,4330
+RS,Roca Sales,9284,10284
+RS,Rodeio Bonito,5751,5743
+RS,Rolador,NA,2546
+RS,Rolante,17851,19485
+RS,Ronda Alta,10051,10221
+RS,Rondinha,6107,5518
+RS,Roque Gonzales,7799,7203
+RS,Rosário do Sul,41058,39707
+RS,Sagrada Família,2648,2595
+RS,Saldanha Marinho,3195,2869
+RS,Salto do Jacuí,12948,11880
+RS,Salvador das Missões,2665,2669
+RS,Salvador do Sul,6913,6747
+RS,Sananduva,14744,15373
+RS,Santa Bárbara do Sul,10003,8829
+RS,Santa Cecília do Sul,NA,1655
+RS,Santa Clara do Sul,4806,5697
+RS,Santa Cruz do Sul,107632,118374
+RS,Santa Maria,243611,261031
+RS,Santa Maria do Herval,5891,6053
+RS,Santa Margarida do Sul,NA,2352
+RS,Santana da Boa Vista,8621,8242
+RS,Santana do Livramento,90849,82464
+RS,Santa Rosa,65016,68587
+RS,Santa Tereza,1768,1720
+RS,Santa Vitória do Palmar,33304,30990
+RS,Santiago,52138,49071
+RS,Santo Ângelo,76745,76275
+RS,Santo Antônio do Palma,2207,2139
+RS,Santo Antônio da Patrulha,37035,39685
+RS,Santo Antônio das Missões,12691,11210
+RS,Santo Antônio do Planalto,2001,1987
+RS,Santo Augusto,14426,13968
+RS,Santo Cristo,14890,14378
+RS,Santo Expedito do Sul,2683,2461
+RS,São Borja,64869,61671
+RS,São Domingos do Sul,2831,2926
+RS,São Francisco de Assis,20810,19254
+RS,São Francisco de Paula,19725,20537
+RS,São Gabriel,62249,60425
+RS,São Jerônimo,20283,22134
+RS,São João da Urtiga,4929,4726
+RS,São João do Polêsine,2745,2635
+RS,São Jorge,2875,2774
+RS,São José das Missões,3000,2720
+RS,São José do Herval,2530,2204
+RS,São José do Hortêncio,3387,4094
+RS,São José do Inhacorá,2402,2200
+RS,São José do Norte,23796,25503
+RS,São José do Ouro,7051,6904
+RS,São José do Sul,NA,2082
+RS,São José dos Ausentes,3104,3290
+RS,São Leopoldo,193547,214087
+RS,São Lourenço do Sul,43691,43111
+RS,São Luiz Gonzaga,39553,34556
+RS,São Marcos,18958,20103
+RS,São Martinho,6321,5773
+RS,São Martinho da Serra,3246,3201
+RS,São Miguel das Missões,7682,7421
+RS,São Nicolau,6406,5727
+RS,São Paulo das Missões,7187,6364
+RS,São Pedro da Serra,2843,3315
+RS,São Pedro das Missões,NA,1886
+RS,São Pedro do Butiá,2862,2873
+RS,São Pedro do Sul,16989,16368
+RS,São Sebastião do Caí,19700,21932
+RS,São Sepé,24621,23798
+RS,São Valentim,4109,3632
+RS,São Valentim do Sul,2140,2168
+RS,São Valério do Sul,2625,2647
+RS,São Vendelino,1682,1944
+RS,São Vicente do Sul,8336,8440
+RS,Sapiranga,69189,74985
+RS,Sapucaia do Sul,122751,130957
+RS,Sarandi,18162,21285
+RS,Seberi,11349,10897
+RS,Sede Nova,3208,3011
+RS,Segredo,6911,7158
+RS,Selbach,4861,4929
+RS,Senador Salgado Filho,2927,2814
+RS,Sentinela do Sul,4892,5198
+RS,Serafina Corrêa,10894,14253
+RS,Sério,2706,2281
+RS,Sertão,7466,6294
+RS,Sertão Santana,5272,5850
+RS,Sete de Setembro,2357,2124
+RS,Severiano de Almeida,4153,3842
+RS,Silveira Martins,2571,2449
+RS,Sinimbu,10210,10068
+RS,Sobradinho,16328,14283
+RS,Soledade,29727,30044
+RS,Tabaí,3563,4131
+RS,Tapejara,15115,19250
+RS,Tapera,10564,10448
+RS,Tapes,16291,16629
+RS,Taquara,52825,54643
+RS,Taquari,25887,26092
+RS,Taquaruçu do Sul,2921,2966
+RS,Tavares,5342,5351
+RS,Tenente Portela,14343,13719
+RS,Terra de Areia,11453,9878
+RS,Teutônia,22891,27272
+RS,Tio Hugo,NA,2724
+RS,Tiradentes do Sul,7497,6461
+RS,Toropi,3196,2952
+RS,Torres,30880,34656
+RS,Tramandaí,31040,41585
+RS,Travesseiro,2349,2314
+RS,Três Arroios,3144,2855
+RS,Três Cachoeiras,9523,10217
+RS,Três Coroas,19430,23848
+RS,Três de Maio,24136,23726
+RS,Três Forquilhas,3239,2914
+RS,Três Palmeiras,4620,4381
+RS,Três Passos,24656,23965
+RS,Trindade do Sul,5922,5787
+RS,Triunfo,22166,25793
+RS,Tucunduva,6305,5898
+RS,Tunas,4310,4395
+RS,Tupanci do Sul,1728,1573
+RS,Tupanciretã,20947,22281
+RS,Tupandi,2958,3924
+RS,Tuparendi,9542,8557
+RS,Turuçu,3710,3522
+RS,Ubiretama,2677,2296
+RS,União da Serra,1908,1487
+RS,Unistalda,2644,2450
+RS,Uruguaiana,126936,125435
+RS,Vacaria,57341,61342
+RS,Vale Verde,3057,3253
+RS,Vale do Sol,10558,11077
+RS,Vale Real,4340,5118
+RS,Vanini,1887,1984
+RS,Venâncio Aires,61234,65946
+RS,Vera Cruz,21300,23983
+RS,Veranópolis,19466,22810
+RS,Vespasiano Correa,2209,1974
+RS,Viadutos,6087,5311
+RS,Viamão,227429,239384
+RS,Vicente Dutra,6128,5285
+RS,Victor Graeff,3924,3036
+RS,Vila Flores,3086,3207
+RS,Vila Lângaro,2277,2152
+RS,Vila Maria,4173,4221
+RS,Vila Nova do Sul,4263,4221
+RS,Vista Alegre,2996,2832
+RS,Vista Alegre do Prata,1618,1569
+RS,Vista Gaúcha,2725,2759
+RS,Vitória das Missões,3979,3485
+RS,Westfalia,NA,2793
+RS,Xangri-lá,8197,12434
+SC,Abdon Batista,2775,2653
+SC,Abelardo Luz,16440,17100
+SC,Agrolândia,7810,9323
+SC,Agronômica,4257,4904
+SC,Água Doce,6843,6961
+SC,Águas de Chapecó,5782,6110
+SC,Águas Frias,2525,2424
+SC,Águas Mornas,5390,5548
+SC,Alfredo Wagner,8857,9410
+SC,Alto Bela Vista,2098,2005
+SC,Anchieta,7133,6380
+SC,Angelina,5776,5250
+SC,Anita Garibaldi,10273,8623
+SC,Anitápolis,3234,3214
+SC,Antônio Carlos,6434,7458
+SC,Apiúna,8520,9600
+SC,Arabutã,4160,4193
+SC,Araquari,23645,24810
+SC,Araranguá,54706,61310
+SC,Armazém,6873,7753
+SC,Arroio Trinta,3490,3502
+SC,Arvoredo,2305,2260
+SC,Ascurra,6934,7412
+SC,Atalanta,3429,3300
+SC,Aurora,5474,5549
+SC,Balneário Arroio do Silva,6043,9586
+SC,Balneário Camboriú,73455,108089
+SC,Balneário Barra do Sul,6045,8430
+SC,Balneário Gaivota,5450,8234
+SC,Bandeirante,3177,2906
+SC,Barra Bonita,2118,1878
+SC,Barra Velha,15530,22386
+SC,Bela Vista do Toldo,5721,6004
+SC,Belmonte,2588,2635
+SC,Benedito Novo,9071,10336
+SC,Biguaçu,48077,58206
+SC,Blumenau,261808,309011
+SC,Bocaina do Sul,2980,3290
+SC,Bombinhas,8716,14293
+SC,Bom Jardim da Serra,4079,4395
+SC,Bom Jesus,2046,2526
+SC,Bom Jesus do Oeste,2150,2132
+SC,Bom Retiro,7967,8942
+SC,Botuverá,3756,4468
+SC,Braço do Norte,24802,29018
+SC,Braço do Trombudo,3187,3457
+SC,Brunópolis,3331,2850
+SC,Brusque,76058,105503
+SC,Caçador,63322,70762
+SC,Caibi,6354,6219
+SC,Calmon,3467,3387
+SC,Camboriú,41445,62361
+SC,Capão Alto,3020,2753
+SC,Campo Alegre,11634,11748
+SC,Campo Belo do Sul,8051,7483
+SC,Campo Erê,10353,9370
+SC,Campos Novos,28729,32824
+SC,Canelinha,9004,10603
+SC,Canoinhas,51631,52765
+SC,Capinzal,19955,20769
+SC,Capivari de Baixo,18561,21674
+SC,Catanduvas,8291,9555
+SC,Caxambu do Sul,5263,4411
+SC,Celso Ramos,2844,2771
+SC,Cerro Negro,4098,3581
+SC,Chapadão do Lageado,2561,2762
+SC,Chapecó,146967,183530
+SC,Cocal do Sul,13726,15159
+SC,Concórdia,63058,68621
+SC,Cordilheira Alta,3093,3767
+SC,Coronel Freitas,10535,10213
+SC,Coronel Martins,2388,2458
+SC,Corupá,11847,13852
+SC,Correia Pinto,17026,14785
+SC,Criciúma,170420,192308
+SC,Cunha Porã,10229,10613
+SC,Cunhataí,1822,1882
+SC,Curitibanos,36061,37748
+SC,Descanso,9129,8634
+SC,Dionísio Cerqueira,14250,14811
+SC,Dona Emma,3309,3721
+SC,Doutor Pedrinho,3082,3604
+SC,Entre Rios,2857,3018
+SC,Ermo,2057,2050
+SC,Erval Velho,4269,4352
+SC,Faxinal dos Guedes,10767,10661
+SC,Flor do Sertão,1612,1588
+SC,Florianópolis,342315,421240
+SC,Formosa do Sul,2725,2601
+SC,Forquilhinha,18348,22548
+SC,Fraiburgo,32948,34553
+SC,Frei Rogério,2971,2474
+SC,Galvão,4235,3472
+SC,Garopaba,13164,18138
+SC,Garuva,11378,14761
+SC,Gaspar,46414,57981
+SC,Governador Celso Ramos,11598,12999
+SC,Grão Pará,5817,6223
+SC,Gravatal,10799,10635
+SC,Guabiruba,12976,18430
+SC,Guaraciaba,11038,10498
+SC,Guaramirim,23794,35172
+SC,Guarujá do Sul,4696,4908
+SC,Guatambú,4702,4679
+SC,Herval d'Oeste,20044,21239
+SC,Ibiam,1955,1945
+SC,Ibicaré,3587,3373
+SC,Ibirama,15802,17330
+SC,Içara,48634,58833
+SC,Ilhota,10574,12355
+SC,Imaruí,13404,11672
+SC,Imbituba,35700,40170
+SC,Imbuia,5246,5707
+SC,Indaial,40194,54854
+SC,Iomerê,2553,2739
+SC,Ipira,4979,4752
+SC,Iporã do Oeste,7877,8409
+SC,Ipuaçu,6122,6798
+SC,Ipumirim,6907,7220
+SC,Iraceminha,4592,4253
+SC,Irani,8602,9531
+SC,Irati,2202,2096
+SC,Irineópolis,9734,10448
+SC,Itá,6764,6426
+SC,Itaiópolis,19086,20301
+SC,Itajaí,147494,183373
+SC,Itapema,25869,45797
+SC,Itapiranga,13998,15409
+SC,Itapoá,8839,14763
+SC,Ituporanga,19492,22250
+SC,Jaborá,4194,4041
+SC,Jacinto Machado,10923,10609
+SC,Jaguaruna,14613,17290
+SC,Jaraguá do Sul,108489,143123
+SC,Jardinópolis,1994,1766
+SC,Joaçaba,24066,27020
+SC,Joinville,429604,515288
+SC,José Boiteux,4594,4721
+SC,Jupiá,2220,2148
+SC,Lacerdópolis,2173,2199
+SC,Lages,157682,156727
+SC,Laguna,47568,51562
+SC,Lajeado Grande,1572,1490
+SC,Laurentino,5062,6004
+SC,Lauro Muller,13604,14367
+SC,Lebon Régis,11682,11838
+SC,Leoberto Leal,3739,3365
+SC,Lindóia do Sul,4877,4642
+SC,Lontras,8381,10244
+SC,Luiz Alves,7974,10438
+SC,Luzerna,5572,5600
+SC,Macieira,1900,1826
+SC,Mafra,49940,52912
+SC,Major Gercino,3143,3279
+SC,Major Vieira,6906,7479
+SC,Maracajá,5541,6404
+SC,Maravilha,18521,22101
+SC,Marema,2651,2203
+SC,Massaranduba,12562,14674
+SC,Matos Costa,3204,2839
+SC,Meleiro,7080,7000
+SC,Mirim Doce,2753,2513
+SC,Modelo,3930,4045
+SC,Mondaí,8728,10231
+SC,Monte Carlo,8579,9312
+SC,Monte Castelo,8350,8346
+SC,Morro da Fumaça,14551,16126
+SC,Morro Grande,2917,2890
+SC,Navegantes,39317,60556
+SC,Nova Erechim,3543,4275
+SC,Nova Itaberaba,4256,4267
+SC,Nova Trento,9852,12190
+SC,Nova Veneza,11511,13309
+SC,Novo Horizonte,3101,2750
+SC,Orleans,20031,21393
+SC,Otacílio Costa,13993,16337
+SC,Ouro,7419,7372
+SC,Ouro Verde,2352,2271
+SC,Paial,2052,1763
+SC,Painel,2384,2353
+SC,Palhoça,102742,137334
+SC,Palma Sola,8206,7765
+SC,Palmeira,2133,2373
+SC,Palmitos,16034,16020
+SC,Papanduva,16822,17928
+SC,Paraíso,4796,4080
+SC,Passo de Torres,4400,6627
+SC,Passos Maia,4763,4425
+SC,Paulo Lopes,5924,6692
+SC,Pedras Grandes,4921,4107
+SC,Penha,17678,25141
+SC,Peritiba,3230,2988
+SC,Petrolândia,6406,6131
+SC,Piçarras,10911,17078
+SC,Pinhalzinho,12356,16332
+SC,Pinheiro Preto,2729,3147
+SC,Piratuba,5812,4786
+SC,Planalto Alegre,2452,2654
+SC,Pomerode,22127,27759
+SC,Ponte Alta,5168,4894
+SC,Ponte Alta do Norte,3221,3303
+SC,Ponte Serrada,10561,11031
+SC,Porto Belo,10704,16083
+SC,Porto União,31858,33493
+SC,Pouso Redondo,12203,14810
+SC,Praia Grande,7286,7267
+SC,Presidente Castelo Branco,2160,1725
+SC,Presidente Getúlio,12333,14887
+SC,Presidente Nereu,2305,2284
+SC,Princesa,2613,2758
+SC,Quilombo,10736,10248
+SC,Rancho Queimado,2637,2748
+SC,Rio das Antas,6129,6143
+SC,Rio do Campo,6522,6192
+SC,Rio do Oeste,6730,7090
+SC,Rio dos Cedros,8939,10284
+SC,Rio do Sul,51650,61198
+SC,Rio Fortuna,4320,4446
+SC,Rio Negrinho,37707,39846
+SC,Rio Rufino,2414,2436
+SC,Riqueza,5166,4838
+SC,Rodeio,10380,10922
+SC,Romelândia,6491,5551
+SC,Salete,7163,7370
+SC,Saltinho,4196,3961
+SC,Salto Veloso,3910,4301
+SC,Sangão,8128,10400
+SC,Santa Cecília,14802,15757
+SC,Santa Helena,2588,2382
+SC,Santa Rosa de Lima,2007,2065
+SC,Santa Rosa do Sul,7810,8054
+SC,Santa Terezinha,8840,8767
+SC,Santa Terezinha do Progresso,3416,2896
+SC,Santiago do Sul,1696,1465
+SC,Santo Amaro da Imperatriz,15708,19823
+SC,São Bernardino,3140,2677
+SC,São Bento do Sul,65437,74801
+SC,São Bonifácio,3218,3008
+SC,São Carlos,9364,10291
+SC,São Cristovão do Sul,4504,5012
+SC,São Domingos,9540,9491
+SC,São Francisco do Sul,32301,42520
+SC,São João do Oeste,5789,6036
+SC,São João Batista,14861,26260
+SC,São João do Itaperiú,3161,3435
+SC,São João do Sul,6784,7002
+SC,São Joaquim,22836,24812
+SC,São José,173559,209804
+SC,São José do Cedro,13678,13684
+SC,São José do Cerrito,10393,9273
+SC,São Lourenço do Oeste,19647,21792
+SC,São Ludgero,8587,10993
+SC,São Martinho,3274,3209
+SC,São Miguel da Boa Vista,2018,1904
+SC,São Miguel do Oeste,32324,36306
+SC,São Pedro de Alcântara,3584,4704
+SC,Saudades,8324,9016
+SC,Schroeder,10811,15316
+SC,Seara,16484,16936
+SC,Serra Alta,3330,3285
+SC,Siderópolis,12082,12998
+SC,Sombrio,22962,26613
+SC,Sul Brasil,3116,2766
+SC,Taió,16257,17260
+SC,Tangará,8754,8674
+SC,Tigrinhos,1878,1757
+SC,Tijucas,23499,30960
+SC,Timbé do Sul,5323,5308
+SC,Timbó,29358,36774
+SC,Timbó Grande,6501,7167
+SC,Três Barras,17124,18129
+SC,Treviso,3144,3527
+SC,Treze de Maio,6716,6876
+SC,Treze Tílias,4840,6341
+SC,Trombudo Central,5795,6553
+SC,Tubarão,88470,97235
+SC,Tunápolis,4777,4633
+SC,Turvo,10887,11854
+SC,União do Oeste,3391,2910
+SC,Urubici,10252,10699
+SC,Urupema,2527,2482
+SC,Urussanga,18727,20223
+SC,Vargeão,3526,3532
+SC,Vargem,3225,2808
+SC,Vargem Bonita,5158,4793
+SC,Vidal Ramos,6279,6290
+SC,Videira,41589,47188
+SC,Vitor Meireles,5519,5207
+SC,Witmarsum,3251,3600
+SC,Xanxerê,37429,44128
+SC,Xavantina,4404,4142
+SC,Xaxim,22857,25713
+SC,Zortéa,2633,2991
+SE,Amparo de São Francisco,2182,2275
+SE,Aquidabã,18344,20056
+SE,Aracaju,461534,571149
+SE,Arauá,9762,10878
+SE,Areia Branca,14824,16857
+SE,Barra dos Coqueiros,17807,24976
+SE,Boquim,24188,25533
+SE,Brejo Grande,7102,7742
+SE,Campo do Brito,15175,16749
+SE,Canhoba,3965,3956
+SE,Canindé de São Francisco,17754,24686
+SE,Capela,26518,30761
+SE,Carira,17770,20007
+SE,Carmópolis,9352,13503
+SE,Cedro de São João,5378,5633
+SE,Cristinápolis,14268,16519
+SE,Cumbe,3646,3813
+SE,Divina Pastora,3266,4326
+SE,Estância,59002,64409
+SE,Feira Nova,5068,5324
+SE,Frei Paulo,11973,13874
+SE,Gararu,11363,11405
+SE,General Maynard,2400,2929
+SE,Gracho Cardoso,5519,5645
+SE,Ilha das Flores,8281,8348
+SE,Indiaroba,13152,15831
+SE,Itabaiana,76813,86967
+SE,Itabaianinha,35454,38910
+SE,Itabi,5174,4972
+SE,Itaporanga d'Ajuda,25482,30419
+SE,Japaratuba,14556,16864
+SE,Japoatã,13020,12938
+SE,Lagarto,83334,94861
+SE,Laranjeiras,23560,26902
+SE,Macambira,5802,6401
+SE,Malhada dos Bois,3208,3456
+SE,Malhador,11481,12042
+SE,Maruim,15454,16343
+SE,Moita Bonita,10758,11001
+SE,Monte Alegre de Sergipe,11587,13627
+SE,Muribeca,7101,7344
+SE,Neópolis,18593,18506
+SE,Nossa Senhora Aparecida,8279,8508
+SE,Nossa Senhora da Glória,26910,32497
+SE,Nossa Senhora das Dores,22195,24580
+SE,Nossa Senhora de Lourdes,6023,6238
+SE,Nossa Senhora do Socorro,131679,160827
+SE,Pacatuba,11536,13137
+SE,Pedra Mole,2630,2974
+SE,Pedrinhas,7929,8833
+SE,Pinhão,5244,5973
+SE,Pirambu,7255,8369
+SE,Poço Redondo,26022,30880
+SE,Poço Verde,19973,21983
+SE,Porto da Folha,25664,27146
+SE,Propriá,27385,28451
+SE,Riachão do Dantas,19202,19386
+SE,Riachuelo,8337,9355
+SE,Ribeirópolis,15439,17173
+SE,Rosário do Catete,7102,9221
+SE,Salgado,18876,19365
+SE,Santa Luzia do Itanhy,13948,12969
+SE,Santana do São Francisco,6135,7038
+SE,Santa Rosa de Lima,3595,3749
+SE,Santo Amaro das Brotas,10670,11410
+SE,São Cristóvão,64647,78864
+SE,São Domingos,9260,10271
+SE,São Francisco,2532,3393
+SE,São Miguel do Aleixo,3447,3698
+SE,Simão Dias,36813,38702
+SE,Siriri,6914,8004
+SE,Telha,2638,2957
+SE,Tobias Barreto,43172,48040
+SE,Tomar do Geru,12840,12855
+SE,Umbaúba,19214,22434
+SP,Adamantina,33497,33797
+SP,Adolfo,3684,3557
+SP,Aguaí,28195,32148
+SP,Águas da Prata,7131,7584
+SP,Águas de Lindóia,16190,17266
+SP,Águas de Santa Bárbara,5224,5601
+SP,Águas de São Pedro,1883,2707
+SP,Agudos,32484,34524
+SP,Alambari,3650,4884
+SP,Alfredo Marcondes,3697,3891
+SP,Altair,3530,3815
+SP,Altinópolis,15481,15607
+SP,Alto Alegre,4261,4102
+SP,Alumínio,15252,16839
+SP,Álvares Florence,4316,3897
+SP,Álvares Machado,22661,23513
+SP,Álvaro de Carvalho,4109,4650
+SP,Alvinlândia,2837,3000
+SP,Americana,182593,210638
+SP,Américo Brasiliense,28287,34478
+SP,Américo de Campos,5594,5706
+SP,Amparo,60404,65829
+SP,Analândia,3582,4293
+SP,Andradina,55161,55334
+SP,Angatuba,19297,22210
+SP,Anhembi,4535,5653
+SP,Anhumas,3411,3738
+SP,Aparecida,34904,35007
+SP,Aparecida d'Oeste,4935,4450
+SP,Apiaí,27162,25191
+SP,Araçariguama,11154,17080
+SP,Araçatuba,169254,181579
+SP,Araçoiaba da Serra,19816,27299
+SP,Aramina,4763,5152
+SP,Arandu,6065,6123
+SP,Arapeí,2618,2493
+SP,Araraquara,182471,208662
+SP,Araras,104196,118843
+SP,Arco-Íris,2163,1925
+SP,Arealva,7244,7841
+SP,Areias,3600,3696
+SP,Areiópolis,10296,10579
+SP,Ariranha,7477,8547
+SP,Artur Nogueira,33124,44177
+SP,Arujá,59185,74905
+SP,Aspásia,1861,1809
+SP,Assis,87251,95144
+SP,Atibaia,111300,126603
+SP,Auriflama,13513,14202
+SP,Avaí,4596,4959
+SP,Avanhandava,8829,11310
+SP,Avaré,76472,82934
+SP,Bady Bassitt,11550,14603
+SP,Balbinos,1313,3702
+SP,Bálsamo,7340,8160
+SP,Bananal,9713,10223
+SP,Barão de Antonina,2794,3116
+SP,Barbosa,5837,6593
+SP,Bariri,28224,31593
+SP,Barra Bonita,35487,35246
+SP,Barra do Chapéu,4846,5244
+SP,Barra do Turvo,8108,7729
+SP,Barretos,103913,112101
+SP,Barrinha,24207,28496
+SP,Barueri,208281,240749
+SP,Bastos,20588,20445
+SP,Batatais,51112,56476
+SP,Bauru,316064,343937
+SP,Bebedouro,74815,75035
+SP,Bento de Abreu,2394,2674
+SP,Bernardino de Campos,10720,10775
+SP,Bertioga,30039,47645
+SP,Bilac,6088,7048
+SP,Birigui,94300,108728
+SP,Biritiba-Mirim,24653,28575
+SP,Boa Esperança do Sul,12573,13645
+SP,Bocaina,9442,10859
+SP,Bofete,7356,9618
+SP,Boituva,34368,48314
+SP,Bom Jesus dos Perdões,13313,19708
+SP,Bom Sucesso de Itararé,3231,3571
+SP,Borá,795,805
+SP,Boracéia,3739,4268
+SP,Borborema,13193,14529
+SP,Borebi,1933,2293
+SP,Botucatu,108306,127328
+SP,Bragança Paulista,125031,146744
+SP,Braúna,4383,5021
+SP,Brejo Alegre,2308,2573
+SP,Brodowski,17139,21107
+SP,Brotas,18886,21580
+SP,Buri,17629,18563
+SP,Buritama,13854,15418
+SP,Buritizal,3674,4053
+SP,Cabrália Paulista,4656,4365
+SP,Cabreúva,33100,41604
+SP,Caçapava,76130,84752
+SP,Cachoeira Paulista,27205,30091
+SP,Caconde,18378,18538
+SP,Cafelândia,15793,16607
+SP,Caiabu,4077,4072
+SP,Caieiras,71221,86529
+SP,Caiuá,4192,5039
+SP,Cajamar,50761,64114
+SP,Cajati,29227,28372
+SP,Cajobi,9174,9768
+SP,Cajuru,20777,23371
+SP,Campina do Monte Alegre,5209,5567
+SP,Campinas,969396,1080113
+SP,Campo Limpo Paulista,63724,74074
+SP,Campos do Jordão,44252,47789
+SP,Campos Novos Paulista,4181,4539
+SP,Cananéia,12298,12226
+SP,Canas,3614,4385
+SP,Cândido Mota,29280,29884
+SP,Cândido Rodrigues,2613,2668
+SP,Canitar,3481,4369
+SP,Capão Bonito,46732,46178
+SP,Capela do Alto,14247,17532
+SP,Capivari,41468,48576
+SP,Caraguatatuba,78921,100840
+SP,Carapicuíba,344596,369584
+SP,Cardoso,11605,11805
+SP,Casa Branca,26800,28307
+SP,Cássia dos Coqueiros,2871,2634
+SP,Castilho,14948,18003
+SP,Catanduva,105847,112820
+SP,Catiguá,6555,7127
+SP,Cedral,6700,7972
+SP,Cerqueira César,15144,17532
+SP,Cerquilho,29508,39617
+SP,Cesário Lange,12883,15540
+SP,Charqueada,13037,15085
+SP,Clementina,5404,7065
+SP,Colina,16664,17371
+SP,Colômbia,5954,5994
+SP,Conchal,22676,25229
+SP,Conchas,14904,16288
+SP,Cordeirópolis,17591,21080
+SP,Coroados,4417,5238
+SP,Coronel Macedo,5589,5001
+SP,Corumbataí,3794,3874
+SP,Cosmópolis,44355,58827
+SP,Cosmorama,7372,7214
+SP,Cotia,148987,201150
+SP,Cravinhos,28411,31691
+SP,Cristais Paulista,6579,7588
+SP,Cruzália,2610,2274
+SP,Cruzeiro,73492,77039
+SP,Cubatão,108309,118720
+SP,Cunha,23090,21866
+SP,Descalvado,28921,31056
+SP,Diadema,357064,386089
+SP,Dirce Reis,1623,1689
+SP,Divinolândia,12016,11208
+SP,Dobrada,7007,7939
+SP,Dois Córregos,22522,24761
+SP,Dolcinópolis,2152,2096
+SP,Dourado,8606,8609
+SP,Dracena,40500,43258
+SP,Duartina,12475,12251
+SP,Dumont,6307,8143
+SP,Echaporã,6827,6318
+SP,Eldorado,14134,14641
+SP,Elias Fausto,13888,15775
+SP,Elisiário,2577,3120
+SP,Embaúba,2478,2423
+SP,Embu,207663,240230
+SP,Embu-Guaçu,56916,62769
+SP,Emilianópolis,2893,3020
+SP,Engenheiro Coelho,10033,15721
+SP,Espírito Santo do Pinhal,40480,41907
+SP,Espírito Santo do Turvo,3677,4244
+SP,Estrela d'Oeste,8256,8208
+SP,Estrela do Norte,2625,2658
+SP,Euclides da Cunha Paulista,10214,9585
+SP,Fartura,15010,15320
+SP,Fernandópolis,61647,64696
+SP,Fernando Prestes,5434,5534
+SP,Fernão,1432,1563
+SP,Ferraz de Vasconcelos,142377,168306
+SP,Flora Rica,2177,1752
+SP,Floreal,3223,3003
+SP,Flórida Paulista,11106,12848
+SP,Florínia,3127,2829
+SP,Franca,287737,318640
+SP,Francisco Morato,133738,154472
+SP,Franco da Rocha,108122,131604
+SP,Gabriel Monteiro,2726,2708
+SP,Gália,7853,7011
+SP,Garça,43162,43115
+SP,Gastão Vidigal,3586,4193
+SP,Gavião Peixoto,4126,4419
+SP,General Salgado,10824,10669
+SP,Getulina,10370,10765
+SP,Glicério,4428,4565
+SP,Guaiçara,9211,10670
+SP,Guaimbê,5207,5425
+SP,Guaíra,34610,37404
+SP,Guapiaçu,14086,17869
+SP,Guapiara,19726,17998
+SP,Guará,18916,19858
+SP,Guaraçaí,8894,8435
+SP,Guaraci,8846,9976
+SP,Guarani d'Oeste,2006,1970
+SP,Guarantã,6323,6404
+SP,Guararapes,28843,30597
+SP,Guararema,21904,25844
+SP,Guaratinguetá,104219,112072
+SP,Guareí,10197,14565
+SP,Guariba,31085,35486
+SP,Guarujá,264812,290752
+SP,Guarulhos,1072717,1221979
+SP,Guatapará,6371,6966
+SP,Guzolândia,4295,4754
+SP,Herculândia,7992,8696
+SP,Holambra,7211,11299
+SP,Hortolândia,152523,192692
+SP,Iacanga,8282,10013
+SP,Iacri,6783,6419
+SP,Iaras,3054,6376
+SP,Ibaté,26462,30734
+SP,Ibirá,9447,10896
+SP,Ibirarema,5701,6725
+SP,Ibitinga,46620,53158
+SP,Ibiúna,64384,71217
+SP,Icém,6772,7462
+SP,Iepê,7257,7628
+SP,Igaraçu do Tietê,22614,23362
+SP,Igarapava,25925,27952
+SP,Igaratá,8292,8831
+SP,Iguape,27427,28841
+SP,Ilhabela,20836,28196
+SP,Ilha Comprida,6704,9025
+SP,Ilha Solteira,23996,25064
+SP,Indaiatuba,147050,201619
+SP,Indiana,4932,4825
+SP,Indiaporã,4058,3903
+SP,Inúbia Paulista,3318,3630
+SP,Ipaussu,12553,13663
+SP,Iperó,18384,28300
+SP,Ipeúna,4340,6016
+SP,Ipiguá,3476,4463
+SP,Iporanga,4562,4299
+SP,Ipuã,11870,14148
+SP,Iracemápolis,15555,20029
+SP,Irapuã,6658,7275
+SP,Irapuru,7457,7789
+SP,Itaberá,18911,17858
+SP,Itaí,21039,24008
+SP,Itajobi,14230,14556
+SP,Itaju,2638,3246
+SP,Itanhaém,71995,87057
+SP,Itaóca,3226,3228
+SP,Itapecerica da Serra,129685,152614
+SP,Itapetininga,125559,144377
+SP,Itapeva,82866,87753
+SP,Itapevi,162433,200769
+SP,Itapira,63377,68537
+SP,Itapirapuã Paulista,3577,3880
+SP,Itápolis,37750,40051
+SP,Itaporanga,14354,14549
+SP,Itapuí,10371,12173
+SP,Itapura,3838,4357
+SP,Itaquaquecetuba,272942,321770
+SP,Itararé,46554,47934
+SP,Itariri,13613,15471
+SP,Itatiba,81197,101471
+SP,Itatinga,15446,18052
+SP,Itirapina,12836,15524
+SP,Itirapuã,5412,5914
+SP,Itobi,7466,7546
+SP,Itu,135366,154147
+SP,Itupeva,26166,44859
+SP,Ituverava,36268,38695
+SP,Jaborandi,6424,6592
+SP,Jaboticabal,67408,71662
+SP,Jacareí,191291,211214
+SP,Jaci,4117,5657
+SP,Jacupiranga,17041,17208
+SP,Jaguariúna,29597,44311
+SP,Jales,46186,47012
+SP,Jambeiro,3992,5349
+SP,Jandira,91807,108344
+SP,Jardinópolis,30729,37661
+SP,Jarinu,17041,23847
+SP,Jaú,112104,131040
+SP,Jeriquara,3280,3160
+SP,Joanópolis,10409,11768
+SP,João Ramalho,3842,4150
+SP,José Bonifácio,28714,32763
+SP,Júlio Mesquita,4166,4430
+SP,Jumirim,2196,2798
+SP,Jundiaí,323397,370126
+SP,Junqueirópolis,17005,18726
+SP,Juquiá,20516,19246
+SP,Juquitiba,26459,28737
+SP,Lagoinha,4957,4841
+SP,Laranjal Paulista,22145,25251
+SP,Lavínia,5131,8779
+SP,Lavrinhas,6008,6590
+SP,Leme,80757,91756
+SP,Lençóis Paulista,55042,61428
+SP,Limeira,249046,276022
+SP,Lindóia,5331,6712
+SP,Lins,65952,71432
+SP,Lorena,77990,82537
+SP,Lourdes,2007,2128
+SP,Louveira,23903,37125
+SP,Lucélia,18316,19882
+SP,Lucianópolis,2154,2249
+SP,Luís Antônio,7160,11286
+SP,Luiziânia,4274,5030
+SP,Lupércio,4230,4353
+SP,Lutécia,2897,2714
+SP,Macatuba,15752,16259
+SP,Macaubal,7385,7663
+SP,Macedônia,3761,3664
+SP,Magda,3421,3200
+SP,Mairinque,39975,43223
+SP,Mairiporã,60111,80956
+SP,Manduri,8271,8992
+SP,Marabá Paulista,3699,4812
+SP,Maracaí,13004,13332
+SP,Marapoama,2238,2633
+SP,Mariápolis,3854,3916
+SP,Marília,197342,216745
+SP,Marinópolis,2195,2113
+SP,Martinópolis,22346,24219
+SP,Matão,71753,76786
+SP,Mauá,363392,417064
+SP,Mendonça,3759,4640
+SP,Meridiano,4025,3855
+SP,Mesópolis,1930,1886
+SP,Miguelópolis,19019,20451
+SP,Mineiros do Tietê,11410,12038
+SP,Miracatu,22383,20592
+SP,Mira Estrela,2596,2820
+SP,Mirandópolis,25936,27483
+SP,Mirante do Paranapanema,16213,17059
+SP,Mirassol,48327,53792
+SP,Mirassolândia,3741,4295
+SP,Mococa,65574,66290
+SP,Moji das Cruzes,330241,387779
+SP,Mogi Guaçu,124228,137245
+SP,Moji-Mirim,81467,86505
+SP,Mombuca,3107,3266
+SP,Monções,2055,2132
+SP,Mongaguá,35098,46293
+SP,Monte Alegre do Sul,6321,7152
+SP,Monte Alto,43613,46642
+SP,Monte Aprazível,18413,21746
+SP,Monte Azul Paulista,19553,18931
+SP,Monte Castelo,4089,4063
+SP,Monteiro Lobato,3615,4120
+SP,Monte Mor,37340,48949
+SP,Morro Agudo,25428,29116
+SP,Morungaba,9911,11769
+SP,Motuca,3871,4290
+SP,Murutinga do Sul,3971,4186
+SP,Nantes,2269,2707
+SP,Narandiba,3743,4288
+SP,Natividade da Serra,6952,6678
+SP,Nazaré Paulista,14410,16414
+SP,Neves Paulista,8907,8772
+SP,Nhandeara,10194,10725
+SP,Nipoã,3267,4274
+SP,Nova Aliança,4768,5891
+SP,Nova Campina,7295,8515
+SP,Nova Canaã Paulista,2483,2114
+SP,Nova Castilho,991,1125
+SP,Nova Europa,7307,9300
+SP,Nova Granada,17020,19180
+SP,Nova Guataporanga,2087,2177
+SP,Nova Independência,2063,3068
+SP,Novais,3225,4592
+SP,Nova Luzitânia,2749,3441
+SP,Nova Odessa,42071,51242
+SP,Novo Horizonte,32432,36593
+SP,Nuporanga,6309,6817
+SP,Ocauçu,4164,4163
+SP,Óleo,2994,2673
+SP,Olímpia,46013,50024
+SP,Onda Verde,3413,3884
+SP,Oriente,5884,6097
+SP,Orindiúva,4161,5675
+SP,Orlândia,36004,39781
+SP,Osasco,652593,666740
+SP,Oscar Bressane,2552,2537
+SP,Osvaldo Cruz,29648,30917
+SP,Ourinhos,93868,103035
+SP,Ouroeste,6290,8405
+SP,Ouro Verde,7148,7800
+SP,Pacaembu,12518,13226
+SP,Palestina,9100,11051
+SP,Palmares Paulista,8437,10934
+SP,Palmeira d'Oeste,10322,9584
+SP,Palmital,20701,21186
+SP,Panorama,13649,14583
+SP,Paraguaçu Paulista,39618,42278
+SP,Paraibuna,17009,17388
+SP,Paraíso,5429,5898
+SP,Paranapanema,15510,17808
+SP,Paranapuã,3632,3815
+SP,Parapuã,11104,10844
+SP,Pardinho,4732,5582
+SP,Pariquera-Açu,17649,18446
+SP,Parisi,1948,2032
+SP,Patrocínio Paulista,11416,13000
+SP,Paulicéia,5302,6339
+SP,Paulínia,51326,82146
+SP,Paulistânia,1779,1779
+SP,Paulo de Faria,8472,8589
+SP,Pederneiras,36614,41497
+SP,Pedra Bela,5609,5780
+SP,Pedranópolis,2734,2558
+SP,Pedregulho,14994,15700
+SP,Pedreira,35219,41558
+SP,Pedrinhas Paulista,2861,2940
+SP,Pedro de Toledo,9187,10204
+SP,Penápolis,54635,58510
+SP,Pereira Barreto,25028,24962
+SP,Pereiras,6226,7454
+SP,Peruíbe,51451,59773
+SP,Piacatu,4625,5287
+SP,Piedade,50131,52143
+SP,Pilar do Sul,23948,26406
+SP,Pindamonhangaba,126026,146995
+SP,Pindorama,13109,15039
+SP,Pinhalzinho,10986,13105
+SP,Piquerobi,3478,3537
+SP,Piquete,15200,14107
+SP,Piracaia,23347,25116
+SP,Piracicaba,329158,364571
+SP,Piraju,27897,28475
+SP,Pirajuí,20095,22704
+SP,Pirangi,10038,10623
+SP,Pirapora do Bom Jesus,12395,15733
+SP,Pirapozinho,22104,24694
+SP,Pirassununga,64864,70081
+SP,Piratininga,10584,12072
+SP,Pitangueiras,31156,35307
+SP,Planalto,3670,4463
+SP,Platina,2867,3192
+SP,Poá,95801,106013
+SP,Poloni,4774,5395
+SP,Pompéia,18171,19964
+SP,Pongaí,3693,3481
+SP,Pontal,29681,40244
+SP,Pontalinda,3539,4074
+SP,Pontes Gestal,2539,2518
+SP,Populina,4450,4223
+SP,Porangaba,6652,8326
+SP,Porto Feliz,45514,48893
+SP,Porto Ferreira,47437,51400
+SP,Potim,13605,19397
+SP,Potirendaba,13656,15449
+SP,Pracinha,1431,2858
+SP,Pradópolis,12912,17377
+SP,Praia Grande,193582,262051
+SP,Pratânia,3950,4599
+SP,Presidente Alves,4317,4123
+SP,Presidente Bernardes,14662,13570
+SP,Presidente Epitácio,39298,41318
+SP,Presidente Prudente,189186,207610
+SP,Presidente Venceslau,37347,37910
+SP,Promissão,31105,35674
+SP,Quadra,2651,3236
+SP,Quatá,11655,12799
+SP,Queiroz,2171,2808
+SP,Queluz,9112,11309
+SP,Quintana,5443,6004
+SP,Rafard,8360,8612
+SP,Rancharia,28772,28804
+SP,Redenção da Serra,4047,3873
+SP,Regente Feijó,16998,18494
+SP,Reginópolis,4742,7323
+SP,Registro,53752,54261
+SP,Restinga,5584,6587
+SP,Ribeira,3507,3358
+SP,Ribeirão Bonito,11246,12135
+SP,Ribeirão Branco,21231,18269
+SP,Ribeirão Corrente,3881,4273
+SP,Ribeirão do Sul,4497,4446
+SP,Ribeirão dos Índios,2222,2187
+SP,Ribeirão Grande,7390,7422
+SP,Ribeirão Pires,104508,113068
+SP,Ribeirão Preto,504923,604682
+SP,Riversul,7192,6163
+SP,Rifaina,3325,3436
+SP,Rincão,10330,10414
+SP,Rinópolis,10255,9935
+SP,Rio Claro,168218,186253
+SP,Rio das Pedras,23494,29501
+SP,Rio Grande da Serra,37091,43974
+SP,Riolândia,8560,10575
+SP,Rosana,24229,19691
+SP,Roseira,8577,9599
+SP,Rubiácea,2337,2729
+SP,Rubinéia,2615,2862
+SP,Sabino,4951,5217
+SP,Sagres,2439,2395
+SP,Sales,4563,5451
+SP,Sales Oliveira,9325,10568
+SP,Salesópolis,14357,15635
+SP,Salmourão,4401,4818
+SP,Saltinho,5799,7059
+SP,Salto,93159,105516
+SP,Salto de Pirapora,35072,40132
+SP,Salto Grande,8444,8787
+SP,Sandovalina,3089,3699
+SP,Santa Adélia,13449,14333
+SP,Santa Albertina,5586,5723
+SP,Santa Bárbara d'Oeste,170078,180009
+SP,Santa Branca,13010,13763
+SP,Santa Clara d'Oeste,2123,2084
+SP,Santa Cruz da Conceição,3531,4002
+SP,Santa Cruz da Esperança,1796,1953
+SP,Santa Cruz das Palmeiras,25556,29932
+SP,Santa Cruz do Rio Pardo,40919,43921
+SP,Santa Ernestina,5741,5568
+SP,Santa Fé do Sul,26512,29239
+SP,Santa Gertrudes,15906,21634
+SP,Santa Isabel,43740,50453
+SP,Santa Lúcia,7853,8248
+SP,Santa Maria da Serra,4673,5413
+SP,Santa Mercedes,2803,2831
+SP,Santana da Ponte Pensa,1894,1641
+SP,Santana de Parnaíba,74828,108813
+SP,Santa Rita d'Oeste,2695,2543
+SP,Santa Rita do Passa Quatro,26138,26478
+SP,Santa Rosa de Viterbo,21435,23862
+SP,Santa Salete,1379,1447
+SP,Santo Anastácio,20749,20475
+SP,Santo André,649331,676407
+SP,Santo Antônio da Alegria,5764,6304
+SP,Santo Antônio de Posse,18124,20650
+SP,Santo Antônio do Aracanguá,6929,7626
+SP,Santo Antônio do Jardim,6154,5943
+SP,Santo Antônio do Pinhal,6328,6486
+SP,Santo Expedito,2526,2803
+SP,Santópolis do Aguapeí,3816,4277
+SP,Santos,417983,419400
+SP,São Bento do Sapucaí,10355,10468
+SP,São Bernardo do Campo,703177,765463
+SP,São Caetano do Sul,140159,149263
+SP,São Carlos,192998,221950
+SP,São Francisco,2863,2793
+SP,São João da Boa Vista,77387,83639
+SP,São João das Duas Pontes,2660,2566
+SP,São João de Iracema,1671,1780
+SP,São João do Pau d'Alho,2180,2103
+SP,São Joaquim da Barra,41587,46512
+SP,São José da Bela Vista,8075,8406
+SP,São José do Barreiro,4143,4077
+SP,São José do Rio Pardo,50077,51900
+SP,São José do Rio Preto,358523,408258
+SP,São José dos Campos,539313,629921
+SP,São Lourenço da Serra,12199,13973
+SP,São Luís do Paraitinga,10429,10397
+SP,São Manuel,36545,38342
+SP,São Miguel Arcanjo,30798,31450
+SP,São Paulo,10434252,11253503
+SP,São Pedro,27897,31662
+SP,São Pedro do Turvo,6888,7198
+SP,São Roque,66637,78821
+SP,São Sebastião,58038,73942
+SP,São Sebastião da Grama,12454,12099
+SP,São Simão,13675,14346
+SP,São Vicente,303551,332445
+SP,Sarapuí,7805,9027
+SP,Sarutaiá,3739,3622
+SP,Sebastianópolis do Sul,2546,3031
+SP,Serra Azul,7446,11256
+SP,Serrana,32603,38878
+SP,Serra Negra,23851,26387
+SP,Sertãozinho,94664,110074
+SP,Sete Barras,13714,13005
+SP,Severínia,13605,15501
+SP,Silveiras,5378,5792
+SP,Socorro,32704,36686
+SP,Sorocaba,493468,586625
+SP,Sud Mennucci,7365,7435
+SP,Sumaré,196723,241311
+SP,Suzano,228690,262480
+SP,Suzanápolis,2790,3383
+SP,Tabapuã,10493,11363
+SP,Tabatinga,12990,14686
+SP,Taboão da Serra,197644,244528
+SP,Taciba,5221,5714
+SP,Taguaí,7468,10828
+SP,Taiaçu,5619,5894
+SP,Taiúva,5506,5447
+SP,Tambaú,22258,22406
+SP,Tanabi,22587,24055
+SP,Tapiraí,8570,8012
+SP,Tapiratiba,12942,12737
+SP,Taquaral,2722,2726
+SP,Taquaritinga,52065,53988
+SP,Taquarituba,21982,22291
+SP,Taquarivaí,4473,5151
+SP,Tarabai,5786,6607
+SP,Tarumã,10743,12885
+SP,Tatuí,93430,107326
+SP,Taubaté,244165,278686
+SP,Tejupá,5336,4809
+SP,Teodoro Sampaio,20003,21386
+SP,Terra Roxa,7752,8505
+SP,Tietê,31710,36835
+SP,Timburi,2731,2646
+SP,Torre de Pedra,2144,2254
+SP,Torrinha,8837,9330
+SP,Trabiju,1380,1544
+SP,Tremembé,34823,40984
+SP,Três Fronteiras,5159,5427
+SP,Tuiuti,4956,5930
+SP,Tupã,63333,63476
+SP,Tupi Paulista,13286,14269
+SP,Turiúba,1895,1930
+SP,Turmalina,2366,1978
+SP,Ubarana,4220,5289
+SP,Ubatuba,66861,78801
+SP,Ubirajara,4156,4427
+SP,Uchoa,9035,9471
+SP,União Paulista,1354,1599
+SP,Urânia,8825,8836
+SP,Uru,1404,1251
+SP,Urupês,11833,12714
+SP,Valentim Gentil,8605,11036
+SP,Valinhos,82973,106793
+SP,Valparaíso,18574,22576
+SP,Vargem,6975,8801
+SP,Vargem Grande do Sul,36302,39266
+SP,Vargem Grande Paulista,32683,42997
+SP,Várzea Paulista,92800,107089
+SP,Vera Cruz,11085,10769
+SP,Vinhedo,47215,63611
+SP,Viradouro,15962,17297
+SP,Vista Alegre do Alto,4754,6886
+SP,Vitória Brasil,1675,1737
+SP,Votorantim,95925,108809
+SP,Votuporanga,75641,84692
+SP,Zacarias,1947,2335
+SP,Chavantes,12194,12114
+SP,Estiva Gerbi,8856,10044
+TO,Abreulândia,2189,2391
+TO,Aguiarnópolis,3145,5162
+TO,Aliança do Tocantins,6177,5671
+TO,Almas,8474,7586
+TO,Alvorada,8508,8374
+TO,Ananás,10512,9865
+TO,Angico,2889,3175
+TO,Aparecida do Rio Negro,3517,4213
+TO,Aragominas,6180,5882
+TO,Araguacema,5414,6317
+TO,Araguaçu,9346,8786
+TO,Araguaína,113143,150484
+TO,Araguanã,4193,5030
+TO,Araguatins,26010,31329
+TO,Arapoema,7025,6742
+TO,Arraias,10984,10645
+TO,Augustinópolis,12964,15950
+TO,Aurora do Tocantins,3101,3446
+TO,Axixá do Tocantins,8827,9275
+TO,Babaçulândia,10329,10424
+TO,Bandeirantes do Tocantins,2608,3122
+TO,Barra do Ouro,3579,4123
+TO,Barrolândia,5082,5349
+TO,Bernardo Sayão,4551,4456
+TO,Bom Jesus do Tocantins,2323,3768
+TO,Brasilândia do Tocantins,1923,2064
+TO,Brejinho de Nazaré,4877,5185
+TO,Buriti do Tocantins,7842,9768
+TO,Cachoeirinha,2023,2148
+TO,Campos Lindos,5638,8139
+TO,Cariri do Tocantins,2990,3756
+TO,Carmolândia,2008,2316
+TO,Carrasco Bonito,3218,3688
+TO,Caseara,3660,4601
+TO,Centenário,2163,2566
+TO,Chapada de Areia,1270,1335
+TO,Chapada da Natividade,3274,3277
+TO,Colinas do Tocantins,25301,30838
+TO,Combinado,4524,4669
+TO,Conceição do Tocantins,4377,4182
+TO,Couto de Magalhães,4335,5009
+TO,Cristalândia,7318,7234
+TO,Crixás do Tocantins,1384,1564
+TO,Darcinópolis,4273,5273
+TO,Dianópolis,15428,19112
+TO,Divinópolis do Tocantins,5776,6363
+TO,Dois Irmãos do Tocantins,7269,7161
+TO,Dueré,4565,4592
+TO,Esperantina,7623,9476
+TO,Fátima,3848,3805
+TO,Figueirópolis,5562,5340
+TO,Filadélfia,8218,8505
+TO,Formoso do Araguaia,18817,18427
+TO,Fortaleza do Tabocão,2242,2419
+TO,Goianorte,4839,4956
+TO,Goiatins,11036,12064
+TO,Guaraí,20018,23200
+TO,Gurupi,65034,76755
+TO,Ipueiras,1166,1639
+TO,Itacajá,6815,7104
+TO,Itaguatins,6386,6029
+TO,Itapiratins,3277,3532
+TO,Itaporã do Tocantins,2522,2445
+TO,Jaú do Tocantins,3121,3507
+TO,Juarina,2333,2231
+TO,Lagoa da Confusão,6168,10210
+TO,Lagoa do Tocantins,2530,3525
+TO,Lajeado,2344,2773
+TO,Lavandeira,1209,1605
+TO,Lizarda,3787,3725
+TO,Luzinópolis,2021,2622
+TO,Marianópolis do Tocantins,3332,4352
+TO,Mateiros,1646,2223
+TO,Maurilândia do Tocantins,2854,3154
+TO,Miracema do Tocantins,24444,20684
+TO,Miranorte,11802,12623
+TO,Monte do Carmo,5193,6716
+TO,Monte Santo do Tocantins,1869,2085
+TO,Palmeiras do Tocantins,4622,5740
+TO,Muricilândia,2680,3152
+TO,Natividade,8867,9000
+TO,Nazaré,5150,4386
+TO,Nova Olinda,9385,10686
+TO,Nova Rosalândia,3190,3770
+TO,Novo Acordo,3057,3762
+TO,Novo Alegre,2274,2286
+TO,Novo Jardim,2151,2457
+TO,Oliveira de Fátima,958,1037
+TO,Palmeirante,3610,4954
+TO,Palmeirópolis,7068,7339
+TO,Paraíso do Tocantins,36130,44417
+TO,Paranã,10416,10338
+TO,Pau D'Arco,4335,4588
+TO,Pedro Afonso,9028,11539
+TO,Peixe,8763,10384
+TO,Pequizeiro,4591,5054
+TO,Colméia,9352,8611
+TO,Pindorama do Tocantins,4685,4506
+TO,Piraquê,2360,2920
+TO,Pium,5540,6694
+TO,Ponte Alta do Bom Jesus,4574,4544
+TO,Ponte Alta do Tocantins,6172,7180
+TO,Porto Alegre do Tocantins,2393,2796
+TO,Porto Nacional,44991,49146
+TO,Praia Norte,6781,7659
+TO,Presidente Kennedy,3759,3681
+TO,Pugmil,1989,2369
+TO,Recursolândia,3138,3768
+TO,Riachinho,3670,4191
+TO,Rio da Conceição,1189,1714
+TO,Rio dos Bois,2269,2570
+TO,Rio Sono,6089,6254
+TO,Sampaio,2801,3864
+TO,Sandolândia,3332,3326
+TO,Santa Fé do Araguaia,5507,6599
+TO,Santa Maria do Tocantins,2226,2894
+TO,Santa Rita do Tocantins,1852,2128
+TO,Santa Rosa do Tocantins,4316,4568
+TO,Santa Tereza do Tocantins,2114,2523
+TO,Santa Terezinha do Tocantins,2455,2474
+TO,São Bento do Tocantins,3738,4608
+TO,São Félix do Tocantins,1269,1437
+TO,São Miguel do Tocantins,8486,10481
+TO,São Salvador do Tocantins,2740,2910
+TO,São Sebastião do Tocantins,3669,4283
+TO,São Valério da Natividade,5054,4383
+TO,Silvanópolis,4725,5068
+TO,Sítio Novo do Tocantins,9488,9148
+TO,Sucupira,1476,1742
+TO,Taguatinga,13169,15051
+TO,Taipas do Tocantins,1713,1945
+TO,Talismã,2306,2562
+TO,Palmas,137355,228332
+TO,Tocantínia,5788,6736
+TO,Tocantinópolis,22777,22619
+TO,Tupirama,1179,1574
+TO,Tupiratins,1365,2097
+TO,Wanderlândia,10273,10981
+TO,Xambioá,12137,11484

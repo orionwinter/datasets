@@ -1,3 +1,6 @@
 *.swp
 .Rproj.user
 .Rhistory
+
+docs/youtube_classification_sample.csv
+docs/youtube_classification_solution.csv

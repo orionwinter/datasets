@@ -51,17 +51,17 @@ def kaggle_split(videos_sel, is_regression):
                 days_to_trending = np.where(random_days_to_trending < 0, 0, random_days_to_trending)
         )
     else:
-        random_trending_class = np.random.randint(3, size=len(test))
+        random_trending_class = np.random.randint(100, size=len(test))
         sample = test.filter(
                 items=["video_id"]
         ).assign(
                 trending_class = np.where(
-                    random_trending_class == 0,
-                    "early", 
+                    random_trending_class <= 73,
+                    "fast", 
                     np.where(
-                        random_trending_class == 1,
+                        random_trending_class <= 90,
                         "normal",
-                        "late"
+                        "slow"
                     )
                 )
         )
